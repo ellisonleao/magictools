@@ -1,4 +1,190 @@
-magictools
-==========
+Magic Tools
+===========
 
-A list of Game Development resources to make magic happen.
+![](http://i.imgur.com/wIoR6ug.png)
+
+A list of game development resources to make **magic** happen.
+This list is a copy from [others](https://docs.google.com/spreadsheets/d/1o9VvQ2CqXXktuE1diTuM1ZBE79LxW1t3GKD3tdgt6xw/edit#gid=0) lists originated from [reddit](http://www.reddit.com/r/gamedev/wiki/resources) and some other wiki pages. Feel free to fork and leave your contribution.
+
+
+Graphics
+--------
+*Great graphics placeholders and tools to turn that squared game into a picasso painting *
+
+#### Assets/Placeholders
+
+* [Openstock Project](http://www.openstockproject.com/) - Modern 2D vector style game assets for indie developers, students, hobbyists & professionals – free personal & commercial licences.
+* [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
+* [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
+* [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
+* [Games-Icons Set](http://game-icons.net/) - free icons for your games.
+* [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
+* [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art.
+* [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
+* [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
+* [CGTextures](http://www.cgtextures.com/) - A large collection of textures.
+* [TextureKing](http://www.textureking.com/)
+* [PlainTextures](http://www.plaintextures.com/)
+* [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
+* [Gunpoint-3D](http://gunpoint-3d.com/) - specialized resource dedicated to armored military weapons, the modern and used in world wars.
+
+### 2D Tools
+
+#### Spritesheet Tools
+
+* [ShoeBox](http://renderhjs.net/shoebox/) - ShoeBox is a free Adobe Air based app for Windows and Mac OSX with game and ui related tools. Each tool uses a drag and drop - or clipbord interaction for a quick workflow.
+* [TexturePacker](http://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
+* [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
+* [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets
+* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
+
+#### Bitmap Compression
+
+* [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
+* [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
+
+#### Texture Tools
+
+* [FilterForge](http://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
+* [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
+* [STG](http://www.seamlesstexturegenerator.com/) - a tool for creating professional  seamlessly-tileable textures from photographs quickly and easily.
+
+#### Character Generators
+
+* [Famistu Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html) - A tool to make the famous chibi chars and use in your game.
+* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/)
+* [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
+
+#### Tile Editors
+
+* [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
+* [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
+* [AutoTileGen](http://autotilegen.com/) - AutoTileGen is an automatic tileset generator for 2D game terrains.
+
+#### Animation
+
+* [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
+* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
+
+#### Vector/Image Editor
+
+* [Inkscape](http://inkscape.org/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
+* [Krita](http://krita.org/index.php) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
+* [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
+* [Ormr](http://getormr.com/features/) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
+* [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
+* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
+* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
+
+### 3D Tools
+
+#### Modeling
+
+* [Blender](http://www.blender.org/)
+* [sculptris](http://pixologic.com/sculptris/)
+* [MagicaVoxel](http://voxel.codeplex.com/)
+* [MakeHuman](http://www.makehuman.org/)
+
+#### Terrain Generators
+
+* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8)
+* [Artifex Terra](http://www.artifexterra.com/)
+* [World Machine](http://www.world-machine.com/)
+* [Canyon Terrain Editor](http://entardev.wordpress.com/other-projects/canyon-terrain-editor/)
+
+Code
+----
+*Set of game frameworks, engines and platforms*
+
+### Engines and Frameworks
+
+#### 2D
+
+* [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
+* [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
+* [GameMaker](http://www.yoyogames.com/gamemaker/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
+* [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language  
+* [Lycheejs](http://lycheejs.org/index.html) - JavaScript Game library that offers a complete solution for prototyping and deployment of HTML5 Canvas, WebGL or native OpenGL(ES) based games inside the Web Browser or native environments.
+* [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
+* [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
+desktop browsers.
+* [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
+* [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
+* [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
+* [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
+* [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
+* [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3.
+* [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
+* [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
+
+#### 3D
+
+* [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
+* [UDK](https://www.unrealengine.com/) - the game engine technology developed by Epic Games.
+* [Havok Vision](http://www.havok.com/products/vision-engine) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
+* [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
+* [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
+* [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
+* [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
+* [Godot](http://www.godotengine.org/wp/) - Open source game engine with rich API.
+* [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.
+* [Three.js](http://threejs.org/) - Javascript 3D Library.
+* [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
+* [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+* [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
+
+Audio
+-----
+*Audio editors, sounds collections and more.*
+
+### Collections
+
+* [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds.
+* [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
+* [Musopen](https://musopen.org/) - Royalty free music.
+
+### Music and Audio Editors
+
+* [Audacity](http://audacity.sourceforge.net/) -  open source, cross-platform software for recording and editing sounds.
+* [Audiotool](http://www.audiotool.com/app) - Online music producer.
+* [Soundation](http://soundation.com/) - Online Professional music studio.
+* [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
+* [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
+* [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
+* [MilkyTracker](http://www.milkytracker.org/) - open source, multi-platform music application for creating .MOD and .XM module files.
+* [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
+* [Bfxr](http://www.bfxr.net/) - A tool to make make sound effects for computer games.
+
+
+Must see
+--------
+
+### Blogs and Portals
+
+* [Gamasutra](http://www.gamasutra.com/)
+* [TIGSource](http://www.tigsource.com/)
+* [Lost Garden](http://www.lostgarden.com/)
+* [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
+* [Designer Notes](http://www.designer-notes.com/)
+
+### Books
+
+* [Game Engine Architecture](http://www.gameenginebook.com/)
+* [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
+* [The Art of Game Design](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/)
+* [Flow](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/)
+* [Rules of Play](http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/)
+* [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
+* [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/)
+
+### Magazines
+
+* [Game Developer Magazine](http://www.gdcvault.com/gdmag)
+* [Casual Connect](http://casualconnect.org/)
+* [IndieMag](http://www.indiemag.fr/)
+
+### Game Jams
+
+* [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
