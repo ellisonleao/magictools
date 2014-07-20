@@ -37,6 +37,7 @@ Graphics
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets
 * [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
+* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 
 #### Bitmap Compression
 
