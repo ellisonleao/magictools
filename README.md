@@ -36,7 +36,7 @@ This list is a copy from [others](https://docs.google.com/spreadsheets/d/1o9VvQ2
 
 Graphics
 --------
-*Great graphics placeholders and tools to turn that squared game into a picasso painting *
+*Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
 #### Assets/Placeholders
 
