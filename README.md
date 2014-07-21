@@ -105,7 +105,8 @@ Graphics
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
-* [Pixen](https://github.com/Pixen/Pixen) - OpenSource Pixel Art Editor (OSX only)
+* [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+* [Pixen](https://github.com/Pixen/Pixen) - OpenSource Pixel Art Editor for OSX
 ### 3D Tools
 
 #### Modeling
@@ -152,6 +153,7 @@ desktop browsers.
 * [NodeBox](http://www.nodebox.net) - a family of Python tools to create generative design.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
+* [Duality](http://duality.fetzenet.de) - Duality is a modular 2D game engine that provides its own visual editor. It's highly extensible, written entirely in C# and backed by OpenGL.
 
 
 #### 3D
