@@ -174,6 +174,7 @@ desktop browsers.
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+* [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 
 Audio
 -----
@@ -204,7 +205,9 @@ Must see
 
 ### Blogs and Portals
 
+* [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 * [Gamasutra](http://www.gamasutra.com/)
+* [GameDev](http://www.gamedev.net)
 * [TIGSource](http://www.tigsource.com/)
 * [Lost Garden](http://www.lostgarden.com/)
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
