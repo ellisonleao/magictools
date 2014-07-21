@@ -52,7 +52,7 @@ Graphics
 * [CGTextures](http://www.cgtextures.com/) - A large collection of textures.
 * [TextureKing](http://www.textureking.com/)
 * [PlainTextures](http://www.plaintextures.com/)
-* [Sketchfab](https://sketchfab.com/) -  Publish & embed iinteractive 3D models.
+* [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
 * [Gunpoint-3D](http://gunpoint-3d.com/) - specialized resource dedicated to armored military weapons, the modern and used in world wars.
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
