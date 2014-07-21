@@ -224,6 +224,7 @@ Must see
 * [Rules of Play](http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/)
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 * [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/)
+* [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
 
 ### Magazines
 
