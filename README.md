@@ -153,6 +153,8 @@ desktop browsers.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
 * [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
+* [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
+All with one codebase.
 
 #### 3D
 
@@ -175,6 +177,7 @@ desktop browsers.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
+* [Haxor](http://haxor.thelaborat.org/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
 
 Audio
 -----
