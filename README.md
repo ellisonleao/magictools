@@ -106,7 +106,7 @@ Code
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [GameMaker](http://www.yoyogames.com/gamemaker/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-* [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language  
+* [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 * [Lycheejs](http://lycheejs.org/index.html) - JavaScript Game library that offers a complete solution for prototyping and deployment of HTML5 Canvas, WebGL or native OpenGL(ES) based games inside the Web Browser or native environments.
 * [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
@@ -136,6 +136,7 @@ desktop browsers.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+* [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 
 Audio
 -----
