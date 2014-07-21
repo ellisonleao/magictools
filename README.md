@@ -119,6 +119,12 @@ desktop browsers.
 * [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3.
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
+* [LÖVE](http://love2d.org) - Lua 2D Game Engine.
+* [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
+* [NodeBox](http://www.nodebox.net) - a family of Python tools to create generative design.
+* [PyGame](http://pygame.org) - a 2D game engine in Python.
+* [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
+
 
 #### 3D
 
@@ -135,6 +141,8 @@ desktop browsers.
 * [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
+* [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
+* [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 
 Audio
 -----
