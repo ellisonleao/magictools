@@ -158,7 +158,7 @@ desktop browsers.
 * [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 All with one codebase.
-* [Bacon2D](https://github.com/Bacon2D/Bacon2D) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
+* [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 
 #### 3D
 
