@@ -218,6 +218,7 @@ Must see
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Engine Architecture](http://www.gameenginebook.com/)
 * [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
+* [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
 * [The Art of Game Design](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/)
 * [Flow](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/)
 * [Rules of Play](http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/)
