@@ -135,6 +135,7 @@ desktop browsers.
 * [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
+* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 
 Audio
 -----
