@@ -149,6 +149,7 @@ desktop browsers.
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 * [LÖVE](http://love2d.org) - Lua 2D Game Engine.
+* [Duality](http://duality.fetzenet.de) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
 * [NodeBox](http://www.nodebox.net) - a family of Python tools to create generative design.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
