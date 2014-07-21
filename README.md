@@ -172,6 +172,7 @@ Must see
 
 ### Books
 
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Engine Architecture](http://www.gameenginebook.com/)
 * [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
 * [The Art of Game Design](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/)
