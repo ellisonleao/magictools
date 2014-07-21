@@ -184,6 +184,7 @@ Audio
 * [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds.
 * [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 * [Musopen](https://musopen.org/) - Royalty free music.
+* [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 
 ### Music and Audio Editors
 
