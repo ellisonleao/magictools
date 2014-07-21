@@ -52,7 +52,7 @@ Graphics
 * [CGTextures](http://www.cgtextures.com/) - A large collection of textures.
 * [TextureKing](http://www.textureking.com/)
 * [PlainTextures](http://www.plaintextures.com/)
-* [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
+* [Sketchfab](https://sketchfab.com/) -  Publish & embed iinteractive 3D models.
 * [Gunpoint-3D](http://gunpoint-3d.com/) - specialized resource dedicated to armored military weapons, the modern and used in world wars.
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
@@ -133,6 +133,7 @@ Code
 * [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
 * [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [GameMaker](http://www.yoyogames.com/gamemaker/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
