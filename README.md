@@ -6,6 +6,33 @@ Magic Tools
 A list of game development resources to make **magic** happen.
 This list is a copy from [others](https://docs.google.com/spreadsheets/d/1o9VvQ2CqXXktuE1diTuM1ZBE79LxW1t3GKD3tdgt6xw/edit#gid=0) lists originated from [reddit](http://www.reddit.com/r/gamedev/wiki/resources) and some other wiki pages. Feel free to fork and leave your contribution.
 
+- [Magic Tools](#magic-tools)
+  - [Graphics](#graphics)
+      - [Assets/Placeholders](#assetsplaceholders)
+    - [2D Tools](#2d-tools)
+      - [Spritesheet Tools](#spritesheet-tools)
+      - [Bitmap Compression](#bitmap-compression)
+      - [Texture Tools](#texture-tools)
+      - [Character Generators](#character-generators)
+      - [Tile Editors](#tile-editors)
+      - [Animation](#animation)
+      - [Vector/Image Editor](#vectorimage-editor)
+    - [3D Tools](#3d-tools)
+      - [Modeling](#modeling)
+      - [Terrain Generators](#terrain-generators)
+  - [Code](#code)
+    - [Engines and Frameworks](#engines-and-frameworks)
+      - [2D](#2d)
+      - [3D](#3d)
+  - [Audio](#audio)
+    - [Collections](#collections)
+    - [Music and Audio Editors](#music-and-audio-editors)
+  - [Must see](#must-see)
+    - [Blogs and Portals](#blogs-and-portals)
+    - [Books](#books)
+    - [Magazines](#magazines)
+    - [Game Jams](#game-jams)
+
 
 Graphics
 --------
