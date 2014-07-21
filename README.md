@@ -174,6 +174,7 @@ desktop browsers.
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+* [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 
 Audio
 -----
@@ -204,7 +205,9 @@ Must see
 
 ### Blogs and Portals
 
+* [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 * [Gamasutra](http://www.gamasutra.com/)
+* [GameDev](http://www.gamedev.net)
 * [TIGSource](http://www.tigsource.com/)
 * [Lost Garden](http://www.lostgarden.com/)
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
@@ -215,11 +218,13 @@ Must see
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Engine Architecture](http://www.gameenginebook.com/)
 * [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
+* [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
 * [The Art of Game Design](http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/)
 * [Flow](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/)
 * [Rules of Play](http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/)
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 * [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/)
+* [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
 
 ### Magazines
 
