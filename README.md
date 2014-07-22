@@ -184,6 +184,7 @@ All with one codebase.
 * [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * [Haxor](http://haxor.thelaborat.org/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
+* [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 
 Audio
 -----
