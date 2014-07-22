@@ -244,3 +244,9 @@ Must see
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
+
+
+Other Awesome Lists
+-------------------
+
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
