@@ -161,6 +161,9 @@ desktop browsers.
 All with one codebase.
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * [LibGDX](http://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. 
+* [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API 
+* [CutJS](http://cutjs.org/) - Lightweight, fast, interactable 2D HTML5 rendering engine for cross-platform game development. 
+ 
 
 #### 3D
 
