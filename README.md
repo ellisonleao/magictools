@@ -160,6 +160,7 @@ desktop browsers.
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 All with one codebase.
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
+* [LibGDX](http://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. 
 
 #### 3D
 
