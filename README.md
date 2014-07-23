@@ -239,6 +239,7 @@ Must see
 * [GameDevs.org](http://gamedevs.org/)
 * [Java Gaming](http://www.java-gaming.org/)
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
+* [Real-Time Rendering](http://www.realtimerendering.com/)
 
 ### Books
 
@@ -261,6 +262,7 @@ Must see
 * [Game Development Essentials: Game Level Design](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials)
 * [Game Mechanics: Advanced Game Design](http://www.goodreads.com/book/show/13705461-game-mechanics)
 * [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design)
+* [Real-Time Rendering](http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/)
 
 ### Magazines
 
