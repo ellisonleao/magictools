@@ -244,6 +244,7 @@ Must see
 * [iforce2d](http://www.iforce2d.net/) - A Collection of 2D games resources.
 * [GameDevs.org](http://gamedevs.org/)
 * [Java Gaming](http://www.java-gaming.org/)
+* [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 
 ### Books
 
