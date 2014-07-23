@@ -57,7 +57,7 @@ Graphics
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
-* [Upando](http://www.upando.com.br/) - Marketplace with lots of resources for game developers. 
+* [Upando](http://www.upando.com.br/) - Marketplace with lots of resources for game developers.
 
 ### 2D Tools
 
@@ -77,7 +77,7 @@ Graphics
 * [PNGoo](http://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
 * [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
 * [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
-* [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool. 
+* [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool.
 * [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
 
 #### Texture Tools
@@ -165,9 +165,9 @@ desktop browsers.
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 All with one codebase.
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
-* [LibGDX](http://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. 
-* [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API 
-* [CutJS](http://cutjs.org/) - Lightweight, fast, interactable 2D HTML5 rendering engine for cross-platform game development. 
+* [LibGDX](http://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
+* [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
+* [CutJS](http://cutjs.org/) - Lightweight, fast, interactable 2D HTML5 rendering engine for cross-platform game development.
 * [XNA](https://msxna.codeplex.com/) - Microsoft's game development framework.
 * [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
@@ -243,6 +243,8 @@ Must see
 * [Html5 Game Development](http://www.html5gamedevelopment.com/)
 * [HTML5 Game Devs Forum](www.html5gamedevs.com/)
 * [iforce2d](http://www.iforce2d.net/) - A Collection of 2D games resources.
+* [GameDevs.org](http://gamedevs.org/)
+* [Java Gaming](http://www.java-gaming.org/)
 
 ### Books
 
