@@ -238,6 +238,7 @@ Must see
 * [Designer Notes](http://www.designer-notes.com/)
 * [GameDevs.org](http://gamedevs.org/)
 * [Java Gaming](http://www.java-gaming.org/)
+* [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 
 ### Books
 
