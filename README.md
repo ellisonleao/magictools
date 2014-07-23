@@ -174,6 +174,9 @@ All with one codebase.
 * [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
+* [AndEngine](http://www.andengine.org) - 2D Android Game Engine
+* [Corona SDK](http://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
+* [GameSalad](gamesalad.com/) - Game Creation Engine for Mac and Windows.
 
 #### 3D
 
@@ -236,6 +239,10 @@ Must see
 * [Lost Garden](http://www.lostgarden.com/)
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 * [Designer Notes](http://www.designer-notes.com/)
+* [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
+* [Html5 Game Development](http://www.html5gamedevelopment.com/)
+* [HTML5 Game Devs Forum](www.html5gamedevs.com/)
+* [iforce2d](http://www.iforce2d.net/) - A Collection of 2D games resources.
 
 ### Books
 
