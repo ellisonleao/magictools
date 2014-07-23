@@ -34,6 +34,7 @@ This list is a copy from [others](https://docs.google.com/spreadsheets/d/1o9VvQ2
     - [Game Jams](#game-jams)
   - [Lessons](#lessons)
     - [General Game Development](#general-game-development)
+    - [Computer Graphics](#computer-graphics)
 
 
 Graphics
