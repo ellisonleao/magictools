@@ -236,6 +236,7 @@ Must see
 * [Lost Garden](http://www.lostgarden.com/)
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 * [Designer Notes](http://www.designer-notes.com/)
+* [GameDevs.org](http://gamedevs.org/)
 
 ### Books
 
