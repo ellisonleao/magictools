@@ -237,6 +237,7 @@ Must see
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 * [Designer Notes](http://www.designer-notes.com/)
 * [GameDevs.org](http://gamedevs.org/)
+* [Java Gaming](http://www.java-gaming.org/)
 
 ### Books
 
