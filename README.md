@@ -163,7 +163,12 @@ All with one codebase.
 * [LibGDX](http://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. 
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API 
 * [CutJS](http://cutjs.org/) - Lightweight, fast, interactable 2D HTML5 rendering engine for cross-platform game development. 
- 
+* [XNA](https://msxna.codeplex.com/) - Microsoft's game development framework.
+* [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
+* [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
+* [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
+* [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
+* [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
 
 #### 3D
 
