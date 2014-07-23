@@ -31,6 +31,9 @@ A list of game development resources to make **magic** happen. Created by awesom
     - [Books](#books)
     - [Magazines](#magazines)
     - [Game Jams](#game-jams)
+  - [Lessons](#lessons)
+    - [General Game Development](#general-game-development)
+    - [Computer Graphics](#computer-graphics)
 
 
 Graphics
@@ -269,6 +272,7 @@ Must see
 * [Game Mechanics: Advanced Game Design](http://www.goodreads.com/book/show/13705461-game-mechanics)
 * [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design)
 * [Real-Time Rendering](http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/)
+* [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL, 6/E](http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page)
 
 ### Magazines
 
@@ -280,6 +284,17 @@ Must see
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 
+Lessons
+-------
+
+### General Game Development
+
+* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+* [Udacity: HTML5 Game Development](https://www.udacity.com/course/cs255)
+
+### Computer Graphics
+* [Interactive Computer Graphics](https://www.coursera.org/course/interactivegraphics)
+* [Interactive 3D Graphics](https://www.udacity.com/course/cs291)
 
 Other Awesome Lists
 -------------------
