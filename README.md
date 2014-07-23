@@ -73,6 +73,11 @@ Graphics
 #### Bitmap Compression
 
 * [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
+* [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms.
+* [PNGoo](http://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
+* [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
+* [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
+* [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool. 
 * [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
 
 #### Texture Tools
