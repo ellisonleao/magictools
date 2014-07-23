@@ -241,7 +241,7 @@ Must see
 * [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
 * [Html5 Game Development](http://www.html5gamedevelopment.com/)
 * [HTML5 Game Devs Forum](www.html5gamedevs.com/)
-* [iforce2d](http://www.iforce2d.net/) - A Collection of 2D games resources.
+* [iforce2d](http://www.iforce2d.net/)
 * [GameDevs.org](http://gamedevs.org/)
 * [Java Gaming](http://www.java-gaming.org/)
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
