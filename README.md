@@ -267,6 +267,7 @@ Must see
 * [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design)
 * [Real-Time Rendering](http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/)
 * [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL, 6/E](http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page)
+* [Nature of Code](http://natureofcode.com/book/)
 
 ### Magazines
 
@@ -285,6 +286,7 @@ Lessons
 
 * [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/cs255)
+* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 
 ### Computer Graphics
 * [Interactive Computer Graphics](https://www.coursera.org/course/interactivegraphics)
