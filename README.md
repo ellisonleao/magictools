@@ -244,6 +244,15 @@ Must see
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 * [The Visual Story](http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/)
 * [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
+* [Physics for Game Developers](http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065)
+* [Programming Game AI by Example](http://www.amazon.com/dp/1556220782?tag=game-prog-books-20)
+* [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20)
+* [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
+* [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
+* [Game Coding Complete](http://www.amazon.com/Game-Coding-Complete-Fourth-McShaffry/dp/1133776574/)
+* [Game Development Essentials: Game Level Design](http://www.goodreads.com/book/show/1633392.Game_Development_Essentials)
+* [Game Mechanics: Advanced Game Design](http://www.goodreads.com/book/show/13705461-game-mechanics)
+* [The Ultimate Guide to Video Game Writing and Design](http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design)
 
 ### Magazines
 
