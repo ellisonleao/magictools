@@ -3,8 +3,7 @@ Magic Tools
 
 ![](http://i.imgur.com/wIoR6ug.png)
 
-A list of game development resources to make **magic** happen.
-This list is a copy from [others](https://docs.google.com/spreadsheets/d/1o9VvQ2CqXXktuE1diTuM1ZBE79LxW1t3GKD3tdgt6xw/edit#gid=0) lists originated from [reddit](http://www.reddit.com/r/gamedev/wiki/resources) and some other wiki pages. Feel free to fork and leave your contribution.
+A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
 - [Magic Tools](#magic-tools)
   - [Graphics](#graphics)
