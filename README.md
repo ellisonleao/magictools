@@ -179,7 +179,8 @@ All with one codebase.
 * [AndEngine](http://www.andengine.org) - 2D Android Game Engine
 * [Corona SDK](http://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [GameSalad](gamesalad.com/) - Game Creation Engine for Mac and Windows.
-* [KiwiJS](http://www.kiwijs.org/) - Kiwi.js is a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
+* [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
+* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.  
 
 #### 3D
 
