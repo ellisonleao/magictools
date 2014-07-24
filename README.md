@@ -26,6 +26,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Audio](#audio)
     - [Collections](#collections)
     - [Music and Audio Editors](#music-and-audio-editors)
+  - [Board Games](#board-games)
   - [Must see](#must-see)
     - [Blogs and Portals](#blogs-and-portals)
     - [Books](#books)
@@ -34,7 +35,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Lessons](#lessons)
     - [General Game Development](#general-game-development)
     - [Computer Graphics](#computer-graphics)
-
+  - [Other Awesome Lists](#other-awesome-lists)
 
 Graphics
 --------
