@@ -180,7 +180,7 @@ All with one codebase.
 * [Corona SDK](http://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [GameSalad](gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
-* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.  
+* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 
 #### 3D
 
@@ -230,9 +230,16 @@ Audio
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [Bfxr](http://www.bfxr.net/) - A tool to make make sound effects for computer games.
 
+Board Games
+-----------
+*Tools for making board games*
+
+* [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
+* [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator.
 
 Must see
 --------
+*Blogs, portals, magazines and more*
 
 ### Blogs and Portals
 
@@ -289,6 +296,7 @@ Must see
 
 Lessons
 -------
+*Online courses, tutorials, screencasts*
 
 ### General Game Development
 
