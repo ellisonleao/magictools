@@ -259,6 +259,18 @@ Must see
 * [Java Gaming](http://www.java-gaming.org/)
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
+* [Superlevel](http://superlevel.de/)
+* [indievault](http://www.indievault.it/)
+* [GameJolt](http://gamejolt.com/)
+* [Greenlit Gaming](http://greenlitgaming.com/)
+* [indiestatik](http://indiestatik.com/)
+* [indiegames](http://indiegames.com/)
+* [IndieDB](http://www.indiedb.com/)
+* [TruePCGaming](http://truepcgaming.com/)
+* [IndieGamesHQ](http://indiegamehq.com/)
+* [BigSushi](http://bigsushi.fm/)
+* [Indius](http://indius.org/)
+* [Extraguy](http://www.extraguy.com/)
 
 ### Books
 
@@ -290,6 +302,7 @@ Must see
 * [Game Developer Magazine](http://www.gdcvault.com/gdmag)
 * [Casual Connect](http://casualconnect.org/)
 * [IndieMag](http://www.indiemag.fr/)
+* [indie-o-rama](http://www.indieorama.com/)
 
 ### Game Jams
 
@@ -304,6 +317,7 @@ Lessons
 * [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/cs255)
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
+* [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 
 ### Computer Graphics
 * [Interactive Computer Graphics](https://www.coursera.org/course/interactivegraphics)
