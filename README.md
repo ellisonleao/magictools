@@ -207,6 +207,9 @@ All with one codebase.
 * [Haxor](http://haxor.thelaborat.org/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
 * [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 * [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
+* [Wave](http://waveengine.net/) - Cross-platform engine written in C#
+* [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
+* [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
 
 Audio
 -----
