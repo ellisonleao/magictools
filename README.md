@@ -19,6 +19,7 @@ A list of game development resources to make **magic** happen. Created by awesom
     - [3D Tools](#3d-tools)
       - [Modeling](#modeling)
       - [Terrain Generators](#terrain-generators)
+      - [Voxel Editors](#voxel-editors)
   - [Code](#code)
     - [Engines and Frameworks](#engines-and-frameworks)
       - [2D](#2d)
@@ -131,6 +132,16 @@ Graphics
 * [Artifex Terra](http://www.artifexterra.com/)
 * [World Machine](http://www.world-machine.com/)
 * [Canyon Terrain Editor](http://entardev.wordpress.com/other-projects/canyon-terrain-editor/)
+
+#### Voxel Editors
+
+* [VoxelShop](http://blackflux.com/node/11)
+* [Qubicle Constructor](http://www.minddesk.com/qubicle_constructor.php)
+* [MagicaVoxel](http://voxel.codeplex.com/)
+* [Paint3D](http://www.paint3d.net/)
+* [Sproxel](http://sproxel.blogspot.com.br/)
+* [Q-Block](http://kyucon.com/qblock/)
+
 
 Code
 ----
