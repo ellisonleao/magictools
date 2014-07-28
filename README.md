@@ -33,6 +33,7 @@ A list of game development resources to make **magic** happen. Created by awesom
     - [Books](#books)
     - [Magazines](#magazines)
     - [Game Jams](#game-jams)
+    - [Complete Game Sources](#complete-game-sources)
   - [Lessons](#lessons)
     - [General Game Development](#general-game-development)
     - [Computer Graphics](#computer-graphics)
@@ -323,6 +324,18 @@ Must see
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
+
+### Complete Game Sources
+
+* [Duke Nukem 3D: Atomic Edition](http://www.3drealms.com/duke3d/index.html)
+* [Doom](https://github.com/id-Software/DOOM)
+* [Doom 3](https://github.com/id-Software/DOOM-3)
+* [Quake](https://github.com/id-Software/Quake)
+* [Quake 2](https://github.com/id-Software/Quake-2)
+* [Quake III Arena](https://github.com/id-Software/Quake-III-Arena)
+* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
+* [SimCity](https://code.google.com/p/micropolis/)
+* [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 
 Lessons
 -------
