@@ -286,6 +286,7 @@ Must see
 * [BigSushi](http://bigsushi.fm/)
 * [Indius](http://indius.org/)
 * [Extraguy](http://www.extraguy.com/)
+* [HobbyGameDev](http://www.hobbygamedev.com/)
 
 ### Books
 
