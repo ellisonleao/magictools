@@ -106,6 +106,7 @@ Graphics
 
 * [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
 * [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
+* [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 
 #### Vector/Image Editor
 
