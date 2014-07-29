@@ -291,6 +291,7 @@ Must see
 * [Indius](http://indius.org/)
 * [Extraguy](http://www.extraguy.com/)
 * [HobbyGameDev](http://www.hobbygamedev.com/)
+* [Polygon](http://www.polygon.com/)
 
 ### Books
 
