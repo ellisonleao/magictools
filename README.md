@@ -194,7 +194,7 @@ All with one codebase.
 * [Corona SDK](http://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
-* [GameSalad](gamesalad.com/) - Game Creation Engine for Mac and Windows.
+* [GameSalad](http://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 
@@ -239,7 +239,7 @@ Audio
 
 ### Music and Audio Editors
 
-* [Audacity](http://audacity.sourceforge.net/) -  open source, cross-platform software for recording and editing sounds.
+* [Audacity](http://audacity.sourceforge.net/) - open source, cross-platform software for recording and editing sounds.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [Soundation](http://soundation.com/) - Online Professional music studio.
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
