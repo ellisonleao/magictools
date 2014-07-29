@@ -239,7 +239,7 @@ Audio
 
 ### Music and Audio Editors
 
-* [Audacity](http://audacity.sourceforge.net/) -  open source, cross-platform software for recording and editing sounds.
+* [Audacity](http://audacity.sourceforge.net/) - open source, cross-platform software for recording and editing sounds.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [Soundation](http://soundation.com/) - Online Professional music studio.
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
@@ -248,6 +248,10 @@ Audio
 * [MilkyTracker](http://www.milkytracker.org/) - open source, multi-platform music application for creating .MOD and .XM module files.
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [Bfxr](http://www.bfxr.net/) - A tool to make make sound effects for computer games.
+
+### Generators
+
+* [SFXR](http://www.drpetter.se/project_sfxr.html)/[BFXR](http://www.bfxr.net/) - Generates your own sound effects easily simply by clicking.
 
 Board Games
 -----------
