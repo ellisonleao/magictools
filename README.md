@@ -194,6 +194,7 @@ All with one codebase.
 * [Corona SDK](http://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
+* [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [GameSalad](gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
