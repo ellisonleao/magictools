@@ -153,7 +153,6 @@ desktop browsers.
 * [NodeBox](http://www.nodebox.net) - a family of Python tools to create generative design.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
-* [Duality](http://duality.fetzenet.de) - Duality is a modular 2D game engine that provides its own visual editor. It's highly extensible, written entirely in C# and backed by OpenGL.
 
 
 #### 3D
