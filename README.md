@@ -251,6 +251,7 @@ Audio
 * [MilkyTracker](http://www.milkytracker.org/) - open source, multi-platform music application for creating .MOD and .XM module files.
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [Bfxr](http://www.bfxr.net/) - A tool to make make sound effects for computer games.
+* [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * [iNudge](http://inudge.net/) - Create sound patterns online.
 
 Board Games
