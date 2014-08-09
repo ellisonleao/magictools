@@ -188,6 +188,7 @@ All with one codebase.
 * [CutJS](http://cutjs.org/) - Lightweight, fast, interactable 2D HTML5 rendering engine for cross-platform game development.
 * [XNA](https://msxna.codeplex.com/) - Microsoft's game development framework.
 * [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
+* [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
