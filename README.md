@@ -201,6 +201,7 @@ All with one codebase.
 * [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
 
 #### 3D
 
