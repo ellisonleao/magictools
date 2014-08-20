@@ -202,6 +202,8 @@ All with one codebase.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
+* [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+* [Allegro](http://alleg.sourceforge.net/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
 
 #### 3D
 
