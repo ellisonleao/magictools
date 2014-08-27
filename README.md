@@ -1,7 +1,4 @@
-Magic Tools
-===========
-
-![](http://i.imgur.com/wIoR6ug.png)
+![](http://i.imgur.com/B1NVKw6.png)
 
 A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
