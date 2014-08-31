@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/B1NVKw6.png)
 
-A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
+A list of game development resources to make **magic** happen. Created by awesome people for awesome people. Please read the [CONTRIBUTING](https://github.com/ellisonleao/magictools/blob/master/CONTRIBUTING.md) file before start contributing.
 
 # Table of Contents
   - [Graphics](#graphics)
