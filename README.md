@@ -2,7 +2,7 @@
 
 A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
-- [Magic Tools](#magic-tools)
+# Table of Contents
   - [Graphics](#graphics)
       - [Assets/Placeholders](#assetsplaceholders)
     - [2D Tools](#2d-tools)
