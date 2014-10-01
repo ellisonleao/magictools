@@ -5,15 +5,13 @@ A list of game development resources to make **magic** happen. Created by awesom
 - [Magic Tools](#magic-tools)
   - [Graphics](#graphics)
       - [Assets/Placeholders](#assetsplaceholders)
-    - [2D Tools](#2d-tools)
       - [Spritesheet Tools](#spritesheet-tools)
       - [Bitmap Compression](#bitmap-compression)
       - [Texture Tools](#texture-tools)
       - [Character Generators](#character-generators)
-      - [Tile Editors](#tile-editors)
+      - [Tile/Level Editors](#tile-editors)
       - [Animation](#animation)
       - [Vector/Image Editor](#vectorimage-editor)
-    - [3D Tools](#3d-tools)
       - [Modeling](#modeling)
       - [Terrain Generators](#terrain-generators)
       - [Voxel Editors](#voxel-editors)
@@ -61,7 +59,6 @@ Graphics
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * [Upando](http://www.upando.com.br/) - Marketplace with lots of resources for game developers.
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art.
-### 2D Tools
 
 #### Spritesheet Tools
 
@@ -94,10 +91,12 @@ Graphics
 * [Famistu Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html) - A tool to make the famous chibi chars and use in your game.
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/)
 
-#### Tile Editors
+#### Tile/Level Editors
 
 * [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 * [AutoTileGen](http://autotilegen.com/) - AutoTileGen is an automatic tileset generator for 2D game terrains.
+* [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
+* [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor.
 * [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
 
 #### Animation
@@ -118,14 +117,15 @@ Graphics
 * [Pixen](https://github.com/Pixen/Pixen) - OpenSource Pixel Art Editor for OSX
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 
-### 3D Tools
-
 #### Modeling
 
 * [Blender](http://www.blender.org/)
 * [MagicaVoxel](http://voxel.codeplex.com/)
 * [MakeHuman](http://www.makehuman.org/)
 * [sculptris](http://pixologic.com/sculptris/)
+* [Maya](http://www.autodesk.com/products/maya/overview)
+* [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
+* [Clara.io](http://clara.io)
 
 #### Terrain Generators
 
