@@ -1,4 +1,4 @@
-A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
+A list of game development resources to make **magic** happen. Created by awesome people for awesome people. This awesome collection is also available on [Game-Development.ZEEF.com](https://game-development.zeef.com/ellison.leao)
 
 - [Graphics](#graphics)
     - [Assets/Placeholders](#assetsplaceholders)
