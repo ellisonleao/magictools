@@ -63,9 +63,11 @@ Graphics
 * [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
+* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 * [ShoeBox](http://renderhjs.net/shoebox/) - ShoeBox is a free Adobe Air based app for Windows and Mac OSX with game and ui related tools. Each tool uses a drag and drop - or clipbord interaction for a quick workflow.
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets
 * [TexturePacker](http://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
+
 
 #### Bitmap Compression
 
@@ -113,7 +115,7 @@ Graphics
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * [Pixen](https://github.com/Pixen/Pixen) - OpenSource Pixel Art Editor for OSX
-* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
+
 
 #### Modeling
 
