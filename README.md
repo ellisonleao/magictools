@@ -362,6 +362,8 @@ Lessons
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/cs255)
+* [Coursera: Intoduction to interactive Python programming](https://www.coursera.org/course/interactivepython)
+* [HandmadeHero: making 2D game from scratch](http://handmadehero.org/)
 
 ### Computer Graphics
 
