@@ -246,6 +246,8 @@ Audio
 * [Musopen](https://musopen.org/) - Royalty free music.
 * [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 * [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
+* [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
+* [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use. 
 
 ### Music and Audio Editors
 
