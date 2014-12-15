@@ -105,6 +105,8 @@ Graphics
 * [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 * [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 * [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
+* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash
+* [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 
 #### Vector/Image Editor
 
