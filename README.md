@@ -246,7 +246,6 @@ Audio
 * [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 * [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 * [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use. 
-* [Open Game Art](http://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=13) - OGA maintains a section for sound effects under various licenses.
 
 ### Music and Audio Editors
 
