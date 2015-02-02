@@ -199,6 +199,7 @@ Code
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
+* [PyDark](http://www.pydark.com/) - 2d game framework written in Python.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
 * [Ren'Py](http://www.renpy.org/) - a open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, and Android.
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
