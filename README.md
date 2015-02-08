@@ -170,6 +170,7 @@ Code
 * [Duality](http://duality.fetzenet.de) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
+* [EndGate](http://endgate.net/) - TypeScript framework to build html5 games
 * [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
