@@ -167,7 +167,6 @@ Code
 * [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
 * [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 * [Corona SDK](http://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
-* [CutJS](http://cutjs.org/) - Lightweight, fast, interactable 2D HTML5 rendering engine for cross-platform game development.
 * [Duality](http://duality.fetzenet.de) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
@@ -209,6 +208,7 @@ Code
 * [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
 * [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
+* [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 * [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
