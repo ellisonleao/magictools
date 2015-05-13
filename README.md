@@ -235,6 +235,7 @@ Code
 * [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
+* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 * [Three.js](http://threejs.org/) - Javascript 3D Library.
 * [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 * [UDK](https://www.unrealengine.com/) - the game engine technology developed by Epic Games.
