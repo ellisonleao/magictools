@@ -182,7 +182,7 @@ Code
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
 * [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
-* [Kivent](http://kivent.org/) - A 2D game framwework for Kivy. 
+* [Kivent](http://kivent.org/) - A 2D game framwework for Kivy.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * [LibGDX](http://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
@@ -238,7 +238,7 @@ Code
 * [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 * [Three.js](http://threejs.org/) - Javascript 3D Library.
 * [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
-* [UDK](https://www.unrealengine.com/) - the game engine technology developed by Epic Games.
+* [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 * [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
 * [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
 * [Wave](http://waveengine.net/) - Cross-platform engine written in C#
@@ -256,7 +256,7 @@ Audio
 * [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 * [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 * [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
-* [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use. 
+* [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use.
 
 ### Music and Audio Editors
 
