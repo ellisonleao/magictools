@@ -349,6 +349,10 @@ Must see
 * [IndieMag](http://www.indiemag.fr/)
 * [indie-o-rama](http://www.indieorama.com/)
 
+### Videos/Podcasts
+
+* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
