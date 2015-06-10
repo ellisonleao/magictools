@@ -44,11 +44,9 @@ Graphics
 * [CGTextures](http://www.cgtextures.com/) - A large collection of textures.
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games.
-* [Gunpoint-3D](http://gunpoint-3d.com/) - specialized resource dedicated to armored military weapons, the modern and used in world wars.
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
-* [Openstock Project](http://www.openstockproject.com/) - Modern 2D vector style game assets for indie developers, students, hobbyists & professionals – free personal & commercial licences.
 * [PlainTextures](http://www.plaintextures.com/)
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
