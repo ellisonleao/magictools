@@ -202,7 +202,7 @@ Code
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
 * [PyDark](http://www.pydark.com/) - 2d game framework written in Python.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
-* [Ren'Py](http://www.renpy.org/) - a open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, and Android.
+* [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 * [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 * [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
