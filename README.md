@@ -223,6 +223,7 @@ Code
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+* [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 * [Godot](http://www.godotengine.org/wp/) - Open source game engine with rich API.
 * [Havok Vision](http://www.havok.com/products/vision-engine) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
 * [Haxor](http://haxor.thelaborat.org/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
