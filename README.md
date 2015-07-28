@@ -297,6 +297,7 @@ Must see
 * [GameDev](http://www.gamedev.net)
 * [GameDevs.org](http://gamedevs.org/)
 * [GameJolt](http://gamejolt.com/)
+* [GameMarketeers](http://www.gamemarketeers.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
 * [HTML5 Game Devs Forum](www.html5gamedevs.com/)
 * [HobbyGameDev](http://www.hobbygamedev.com/)
