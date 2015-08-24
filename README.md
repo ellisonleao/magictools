@@ -181,6 +181,7 @@ Code
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
+* [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
 * [Kivent](http://kivent.org/) - A 2D game framwework for Kivy.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
