@@ -237,6 +237,7 @@ Code
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
+* [Paradox](http://paradox3d.net/) - Open Source C# Game Engine.
 * [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
