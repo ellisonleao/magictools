@@ -199,12 +199,14 @@ Code
 * [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 * [NodeBox](http://www.nodebox.net) - a family of Python tools to create generative design.
 * [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
+* [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
 * [PyDark](http://www.pydark.com/) - 2d game framework written in Python.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
+* [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
 * [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 * [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
@@ -217,7 +219,6 @@ Code
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 * [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
 * [XNA](https://msxna.codeplex.com/) - Microsoft's game development framework.
-* [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 
 #### 3D
 
