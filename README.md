@@ -206,6 +206,7 @@ Code
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
 * [PyDark](http://www.pydark.com/) - 2d game framework written in Python.
 * [PyGame](http://pygame.org) - a 2D game engine in Python.
+* [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 * [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
 * [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
