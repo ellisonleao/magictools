@@ -359,6 +359,7 @@ Must see
 * [Game Developer Magazine](http://www.gdcvault.com/gdmag)
 * [IndieMag](http://www.indiemag.fr/)
 * [indie-o-rama](http://www.indieorama.com/)
+* [Making Games](http://www.makinggames.biz/)
 
 ### Videos/Podcasts
 
