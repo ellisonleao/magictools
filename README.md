@@ -202,6 +202,7 @@ Code
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 * [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
