@@ -278,6 +278,7 @@ Audio
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 * [MilkyTracker](http://www.milkytracker.org/) - open source, multi-platform music application for creating .MOD and .XM module files.
+* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
 * [Soundation](http://soundation.com/) - Online Professional music studio.
 * [iNudge](http://inudge.net/) - Create sound patterns online.
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
