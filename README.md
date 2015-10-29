@@ -388,7 +388,7 @@ Lessons
 *Online courses, tutorials, screencasts*
 
 ### General Game Development
-
+* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 * [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
