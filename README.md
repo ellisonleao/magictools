@@ -228,6 +228,7 @@ Code
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
