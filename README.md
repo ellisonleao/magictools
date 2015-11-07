@@ -179,6 +179,7 @@ Code
 * [GameSalad](http://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
+* [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
 * [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
