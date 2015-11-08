@@ -28,7 +28,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Magazines](#magazines)
   - [Game Jams](#game-jams)
   - [Complete Game Sources](#complete-game-sources)
-- [Learn](#lern)
+- [Learn](#learn)
   - [General Game Development](#general-game-development)
   - [Computer Graphics](#computer-graphics)
 - [Other Awesome Lists](#other-awesome-lists)
