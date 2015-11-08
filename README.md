@@ -28,7 +28,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Magazines](#magazines)
   - [Game Jams](#game-jams)
   - [Complete Game Sources](#complete-game-sources)
-- [Lessons](#lessons)
+- [Learn](#lern)
   - [General Game Development](#general-game-development)
   - [Computer Graphics](#computer-graphics)
 - [Other Awesome Lists](#other-awesome-lists)
@@ -385,8 +385,8 @@ Must see
 * [SimCity](https://code.google.com/p/micropolis/)
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 
-Lessons
--------
+Learn
+-----
 *Online courses, tutorials, screencasts*
 
 ### General Game Development
