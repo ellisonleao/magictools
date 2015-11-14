@@ -43,7 +43,7 @@ Graphics
 
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
-* [CGTextures](http://www.cgtextures.com/) - A large collection of textures.
+* [CGTextures](http://www.textures.com) - A large collection of textures.
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games.
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
@@ -55,9 +55,9 @@ Graphics
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 * [TextureKing](http://www.textureking.com/)
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
-* [Upando](http://www.upando.com.br/) - Marketplace with lots of resources for game developers.
+* [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art.
-* [Yobi3D](http://www.yobi3d.com/) - Free 3D model search engine.
+* [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine.
 
 #### Spritesheet Tools
 
@@ -67,7 +67,7 @@ Graphics
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 * [ShoeBox](http://renderhjs.net/shoebox/) - ShoeBox is a free Adobe Air based app for Windows and Mac OSX with game and ui related tools. Each tool uses a drag and drop - or clipbord interaction for a quick workflow.
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets
-* [TexturePacker](http://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
+* [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 
 
 #### Bitmap Compression
@@ -75,14 +75,14 @@ Graphics
 * [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
 * [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms.
 * [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
-* [PNGoo](http://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
+* [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
 * [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool.
 * [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
 * [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 
 #### Texture Tools
 
-* [FilterForge](http://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
+* [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 * [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 * [STG](http://www.seamlesstexturegenerator.com/) - a tool for creating professional  seamlessly-tileable textures from photographs quickly and easily.
 
@@ -95,7 +95,7 @@ Graphics
 #### Tile/Level Editors
 
 * [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
-* [AutoTileGen](http://autotilegen.com/) - AutoTileGen is an automatic tileset generator for 2D game terrains.
+* [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 * [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
 * [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
 * [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor.
@@ -112,9 +112,9 @@ Graphics
 #### Vector/Image Editor
 
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
-* [Inkscape](http://inkscape.org/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
-* [Krita](http://krita.org/index.php) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
-* [Ormr](http://getormr.com/features/) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
+* [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
+* [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
+* [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
@@ -129,12 +129,12 @@ Graphics
 * [sculptris](http://pixologic.com/sculptris/)
 * [Maya](http://www.autodesk.com/products/maya/overview)
 * [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
-* [Clara.io](http://clara.io)
+* [Clara.io](https://clara.io/)
 
 #### Terrain Generators
 
 * [Artifex Terra](http://www.artifexterra.com/)
-* [Canyon Terrain Editor](http://entardev.wordpress.com/other-projects/canyon-terrain-editor/)
+* [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/)
 * [Nem TG](http://nemesis.thewavelength.net/index.php?p=8)
 * [World Machine](http://www.world-machine.com/)
 
@@ -145,7 +145,7 @@ Graphics
 * [Q-Block](http://kyucon.com/qblock/)
 * [Qubicle Constructor](http://www.minddesk.com/qubicle_constructor.php)
 * [Sproxel](http://sproxel.blogspot.com.br/)
-* [VoxelShop](http://blackflux.com/node/11)
+* [VoxelShop](https://blackflux.com/index.php)
 
 
 Code
@@ -157,7 +157,7 @@ Code
 #### 2D
 
 * [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
-* [Allegro](http://alleg.sourceforge.net/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
+* [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
 * [AndEngine](http://www.andengine.org) - 2D Android Game Engine
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
@@ -166,8 +166,8 @@ Code
 * [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 * [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
 * [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
-* [Corona SDK](http://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
-* [Duality](http://duality.fetzenet.de) - C# / OpenGL 2D Game Engine that comes with visual editor.
+* [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
+* [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
 * [EndGate](http://endgate.net/) - TypeScript framework to build html5 games
@@ -175,8 +175,8 @@ Code
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3.
-* [GameMaker](http://www.yoyogames.com/gamemaker/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
-* [GameSalad](http://gamesalad.com/) - Game Creation Engine for Mac and Windows.
+* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
+* [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
@@ -186,7 +186,7 @@ Code
 * [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
 * [Kivent](http://kivent.org/) - A 2D game framwework for Kivy.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
-* [LibGDX](http://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
+* [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
 * [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
 * [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
@@ -198,7 +198,7 @@ Code
 * [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
 * [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
-* [NodeBox](http://www.nodebox.net) - a family of Python tools to create generative design.
+* [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
@@ -206,9 +206,9 @@ Code
 * [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 * [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
-* [Processing](http://www.processing.org) - Processing is a programming language, development environment for artists, designers, researchers.
+* [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 * [PyDark](http://www.pydark.com/) - 2d game framework written in Python.
-* [PyGame](http://pygame.org) - a 2D game engine in Python.
+* [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
 * [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 * [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
 * [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
@@ -222,7 +222,7 @@ Code
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 * [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
-* [XNA](https://msxna.codeplex.com/) - Microsoft's game development framework.
+* [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 
 #### 3D
 
@@ -230,11 +230,11 @@ Code
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
-* [Cinder](http://libcinder.org) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+* [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
-* [Godot](http://www.godotengine.org/wp/) - Open source game engine with rich API.
-* [Havok Vision](http://www.havok.com/products/vision-engine) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
+* [Godot](http://www.godotengine.org/work_packages) - Open source game engine with rich API.
+* [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
 * [Haxor](http://haxor.thelaborat.org/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
 * [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
 * [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
@@ -273,7 +273,7 @@ Audio
 
 ### Music and Audio Editors
 
-* [Audacity](http://audacity.sourceforge.net/) - open source, cross-platform software for recording and editing sounds.
+* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [Bfxr](http://www.bfxr.net/) - A tool to make make sound effects for computer games.
@@ -281,8 +281,8 @@ Audio
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 * [MilkyTracker](http://www.milkytracker.org/) - open source, multi-platform music application for creating .MOD and .XM module files.
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
-* [Soundation](http://soundation.com/) - Online Professional music studio.
-* [iNudge](http://inudge.net/) - Create sound patterns online.
+* [Soundation](https://soundation.com/) - Online Professional music studio.
+* [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 
@@ -300,13 +300,13 @@ Must see
 ### Blogs and Portals
 
 * [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
-* [BigSushi](http://bigsushi.fm/)
+* [BigSushi](http://www.bigsushi.fm/)
 * [Designer Notes](http://www.designer-notes.com/)
 * [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
 * [Extraguy](http://www.extraguy.com/)
 * [Gamasutra](http://www.gamasutra.com/)
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
-* [GameDev](http://www.gamedev.net)
+* [GameDev](http://www.gamedev.net/page/index.html)
 * [GameDevs.org](http://gamedevs.org/)
 * [GameJolt](http://gamejolt.com/)
 * [GameMarketeers](http://www.gamemarketeers.com/)
@@ -321,12 +321,12 @@ Must see
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Superlevel](http://superlevel.de/)
+* [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 * [iforce2d](http://www.iforce2d.net/)
-* [indiegames](http://indiegames.com/)
+* [indiegames](http://indiegames.com/index.html)
 * [indiestatik](http://indiestatik.com/)
 * [indievault](http://www.indievault.it/)
 
@@ -361,7 +361,7 @@ Must see
 
 * [Casual Connect](http://casualconnect.org/)
 * [Game Developer Magazine](http://www.gdcvault.com/gdmag)
-* [IndieMag](http://www.indiemag.fr/)
+* [IndieMag](https://www.indiemag.fr/)
 * [indie-o-rama](http://www.indieorama.com/)
 * [Making Games](http://www.makinggames.biz/)
 
@@ -377,12 +377,12 @@ Must see
 
 * [Doom 3](https://github.com/id-Software/DOOM-3)
 * [Doom](https://github.com/id-Software/DOOM)
-* [Duke Nukem 3D: Atomic Edition](http://www.3drealms.com/duke3d/index.html)
+* [Duke Nukem 3D: Atomic Edition](https://3drealms.com)
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 * [Quake 2](https://github.com/id-Software/Quake-2)
 * [Quake III Arena](https://github.com/id-Software/Quake-III-Arena)
 * [Quake](https://github.com/id-Software/Quake)
-* [SimCity](https://code.google.com/p/micropolis/)
+* [SimCity](https://github.com/simhacker/micropolis)
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 
 Learn
@@ -393,15 +393,15 @@ Learn
 * [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
-* [Udacity: HTML5 Game Development](https://www.udacity.com/course/cs255)
-* [Coursera: Intoduction to interactive Python programming](https://www.coursera.org/course/interactivepython)
-* [HandmadeHero: making 2D game from scratch](http://handmadehero.org/)
+* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+* [Coursera: Intoduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
+* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 
 ### Computer Graphics
 
-* [Interactive 3D Graphics](https://www.udacity.com/course/cs291)
-* [Interactive Computer Graphics](https://www.coursera.org/course/interactivegraphics)
+* [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
+* [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
 
 Other Awesome Lists
 -------------------
