@@ -125,7 +125,6 @@ Graphics
 #### Modeling
 
 * [Blender](http://www.blender.org/)
-* [MagicaVoxel](http://voxel.codeplex.com/)
 * [MakeHuman](http://www.makehuman.org/)
 * [sculptris](http://pixologic.com/sculptris/)
 * [Maya](http://www.autodesk.com/products/maya/overview)
@@ -144,7 +143,6 @@ Graphics
 * [MagicaVoxel](http://voxel.codeplex.com/)
 * [Paint3D](http://www.paint3d.net/)
 * [Q-Block](http://kyucon.com/qblock/)
-* [Qubicle Constructor](http://www.minddesk.com/qubicle_constructor.php)
 * [Sproxel](http://sproxel.blogspot.com.br/)
 * [VoxelShop](https://blackflux.com/index.php)
 
@@ -205,10 +203,8 @@ Code
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
-* [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
-* [PyDark](http://www.pydark.com/) - 2d game framework written in Python.
 * [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
 * [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 * [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
@@ -218,7 +214,6 @@ Code
 * [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
 * [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
-* [Spyral](http://platipy.org) - Python 2D Framework to make games.
 * [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
@@ -280,7 +275,6 @@ Audio
 * [Bfxr](http://www.bfxr.net/) - A tool to make make sound effects for computer games.
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [MilkyTracker](http://www.milkytracker.org/) - open source, multi-platform music application for creating .MOD and .XM module files.
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
 * [Soundation](https://soundation.com/) - Online Professional music studio.
 * [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
@@ -316,7 +310,6 @@ Must see
 * [HobbyGameDev](http://www.hobbygamedev.com/)
 * [Html5 Game Development](http://www.html5gamedevelopment.com/)
 * [IndieDB](http://www.indiedb.com/)
-* [IndieGamesHQ](http://indiegamehq.com/)
 * [Indius](http://indius.org/)
 * [Java Gaming](http://www.java-gaming.org/)
 * [Lost Garden](http://www.lostgarden.com/)
