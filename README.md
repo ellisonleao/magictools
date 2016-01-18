@@ -328,7 +328,6 @@ Must see
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 * [iforce2d](http://www.iforce2d.net/)
 * [indiegames](http://indiegames.com/index.html)
-* [indiestatik](http://indiestatik.com/)
 * [indievault](http://www.indievault.it/)
 
 ### Books
