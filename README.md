@@ -29,6 +29,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Magazines](#magazines)
   - [Game Jams](#game-jams)
   - [Complete Game Sources](#complete-game-sources)
+- [Ads](#ads)
 - [Learn](#learn)
   - [General Game Development](#general-game-development)
   - [Computer Graphics](#computer-graphics)
@@ -379,6 +380,18 @@ Must see
 * [SimCity](https://github.com/simhacker/micropolis)
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 
+Ads
+---
+*We still need to make some money, right?*
+
+* [AdMob by Google] - Google's Ads and monetization service for mobile.
+* [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
+* [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+* [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
+* [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
+* [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
+* [Vungle](https://vungle.com/) - Video Ads service.
+ 
 Learn
 -----
 *Online courses, tutorials, screencasts*
