@@ -67,7 +67,7 @@ Graphics
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
-* [ShoeBox](http://renderhjs.net/shoebox/) - ShoeBox is a free Adobe Air based app for Windows and Mac OSX with game and ui related tools. Each tool uses a drag and drop - or clipbord interaction for a quick workflow.
+* [ShoeBox](http://renderhjs.net/shoebox/) - ShoeBox is a free Adobe Air based app for Windows and Mac OSX with game and ui related tools. Each tool uses a drag and drop - or clipboard interaction for a quick workflow.
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 
@@ -185,7 +185,7 @@ Code
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
 * [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
-* [Kivent](http://kivent.org/) - A 2D game framwework for Kivy.
+* [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
@@ -276,7 +276,7 @@ Audio
 * [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
-* [Bfxr](http://www.bfxr.net/) - A tool to make make sound effects for computer games.
+* [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
@@ -403,7 +403,7 @@ Learn
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
-* [Coursera: Intoduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
+* [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 * [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 
