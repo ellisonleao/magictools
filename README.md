@@ -141,6 +141,7 @@ Graphics
 
 #### Voxel Editors
 
+* [goxel](https://github.com/guillaumechereau/goxel)
 * [MagicaVoxel](http://voxel.codeplex.com/)
 * [Q-Block](http://kyucon.com/qblock/)
 * [Sproxel](http://sproxel.blogspot.com.br/)
