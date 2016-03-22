@@ -270,6 +270,7 @@ Audio
 * [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 * [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 * [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use.
+* [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 
 ### Music and Audio Editors
 
