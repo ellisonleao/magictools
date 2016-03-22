@@ -264,6 +264,7 @@ Audio
 
 ### Collections
 
+* [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 * [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds.
 * [Musopen](https://musopen.org/) - Royalty free music.
 * [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
