@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --allow-redirect --white-list qiciengine,gamesalad
+  - awesome_bot README.md --allow-redirect --white-list qiciengine,gamesalad,thebloomapp
