@@ -412,8 +412,3 @@ Learn
 
 * [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 * [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
-
-Other Awesome Lists
--------------------
-
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
