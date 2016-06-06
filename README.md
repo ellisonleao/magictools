@@ -1,7 +1,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/ellisonleao/magictools.svg?branch=master)](https://travis-ci.org/ellisonleao/magictools)
 
-A list of game development resources to make **magic** happen. Created by awesome people for awesome people. 
+A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
 - [Graphics](#graphics)
     - [Assets/Placeholders](#assetsplaceholders)
@@ -239,7 +239,7 @@ Code
 * [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.
 * [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-with AWS and Twitch – with full source. 
+with AWS and Twitch – with full source.
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
@@ -311,7 +311,7 @@ Must see
 * [GameJolt](http://gamejolt.com/)
 * [GameMarketeers](http://www.gamemarketeers.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
-* [HTML5 Game Devs Forum](www.html5gamedevs.com/)
+* [HTML5 Game Devs Forum](http://www.html5gamedevs.com/)
 * [HobbyGameDev](http://www.hobbygamedev.com/)
 * [Html5 Game Development](http://www.html5gamedevelopment.com/)
 * [IndieDB](http://www.indiedb.com/)
@@ -394,7 +394,7 @@ Ads
 * [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
 * [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
 * [Vungle](https://vungle.com/) - Video Ads service.
- 
+
 Learn
 -----
 *Online courses, tutorials, screencasts*
