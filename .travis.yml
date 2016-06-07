@@ -1,7 +1,5 @@
-language: ruby
-rvm:
-  - 2.2
+language: python
 before_script:
-  - gem install awesome_bot
+  - pip install vl
 script:
-  - awesome_bot README.md --allow-redirect --white-list qiciengine,gamesalad,thebloomapp
+  - vl README.md --size=1000 -t 5 --debug
