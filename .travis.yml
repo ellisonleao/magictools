@@ -1,5 +1,5 @@
 language: python
 before_script:
-  - pip install vl
+  - pip install -U vl
 script:
   - vl README.md --size=1000 -t 5 --debug
