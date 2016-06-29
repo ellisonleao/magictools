@@ -1,5 +1,6 @@
 language: python
 before_script:
   - pip install -U vl
+  - vl --version
 script:
-  - vl README.md --size=1000 -t 5 --debug
+  - vl README.md --size=1000 -t 5 --debug -w gamesounds.xyz,vungle.com,renderhjs.net -a 503

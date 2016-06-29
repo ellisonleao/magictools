@@ -91,7 +91,6 @@ Graphics
 #### Character Generators
 
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* [Famistu Chibi Maker](http://www.famitsu.com/freegame/tool/chibi/index1.html) - A tool to make the famous chibi chars and use in your game.
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/)
 
 #### Tile/Level Editors
