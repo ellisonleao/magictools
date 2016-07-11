@@ -119,7 +119,7 @@ Graphics
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
-* [Pixen](https://github.com/Pixen/Pixen) - OpenSource Pixel Art Editor for OSX
+* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 
 
 #### Modeling
