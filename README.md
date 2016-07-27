@@ -415,3 +415,5 @@ Learn
 
 Other Awesome Lists
 -----
+
+* [awesome-pokemon](https://github.com/tobiasbueschel/awesome-pokemon) - A curated list of awesome Pokemon resources, tools and more.
