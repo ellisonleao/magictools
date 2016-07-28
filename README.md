@@ -386,7 +386,7 @@ Ads
 ---
 *We still need to make some money, right?*
 
-* [AdMob by Google] - Google's Ads and monetization service for mobile.
+* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile.
 * [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 * [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
