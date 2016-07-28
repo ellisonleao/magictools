@@ -33,7 +33,6 @@ A list of game development resources to make **magic** happen. Created by awesom
 - [Learn](#learn)
   - [General Game Development](#general-game-development)
   - [Computer Graphics](#computer-graphics)
-- [Other Awesome Lists](#other-awesome-lists)
 
 
 Graphics
