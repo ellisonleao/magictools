@@ -370,6 +370,12 @@ Must see
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
+* [Indie Game Jams](http://www.indiegamejams.com/)
+* [Game jams on itch.io](https://itch.io/jams)
+* [Ludum Dare](http://ludumdare.com/)
+
+### Project Management
+* [HacknPlan](http://hacknplan.com/ - Project management for game developers
 
 ### Complete Game Sources
 
