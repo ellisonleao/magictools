@@ -28,6 +28,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Books](#books)
   - [Magazines](#magazines)
   - [Game Jams](#game-jams)
+  - [Project Management](#project-management)
   - [Complete Game Sources](#complete-game-sources)
 - [Ads](#ads)
 - [Learn](#learn)
@@ -370,6 +371,12 @@ Must see
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
+* [Game jams on itch.io](https://itch.io/jams)
+* [Indie Game Jams](http://www.indiegamejams.com/)
+* [Ludum Dare](http://ludumdare.com/)
+
+### Project Management
+* [HacknPlan](http://hacknplan.com/ - Project management for game developers
 
 ### Complete Game Sources
 
