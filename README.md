@@ -51,7 +51,6 @@ Graphics
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * [Kenny Assets](http://kenney.nl/assets) - Royalty free assets
-* [OpenClipart](https://openclipart.org/) - Collection of free cliparts.
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
 * [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites (well worth)
 * [PlainTextures](http://www.plaintextures.com/)
@@ -287,7 +286,7 @@ Audio
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
-* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator 
+* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
@@ -376,21 +375,21 @@ Must see
 ### Videos/Podcasts
 
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
-* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams 
+* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 * [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 * [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
-* [Ludum Dare](http://ludumdare.com/) - very popular game jam 
+* [Ludum Dare](http://ludumdare.com/) - very popular game jam
 * [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
 
 ### Project Management
 * [Casual](https://casual.pm/) - Visual Project Management
 * [HacknPlan](http://hacknplan.com/) - Project management for game developers
-* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers 
-* [Trello](https://trello.com/) - Organize and prioritize projects 
+* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
+* [Trello](https://trello.com/) - Organize and prioritize projects
 
 ### Complete Game Sources
 
