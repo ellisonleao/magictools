@@ -49,6 +49,7 @@ Graphics
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games.
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
+* [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * [Kenny Assets](http://kenney.nl/assets) - Royalty free assets
 * [OpenClipart](https://openclipart.org/) - Collection of free cliparts.
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
