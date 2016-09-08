@@ -50,7 +50,10 @@ Graphics
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games.
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
+* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets
+* [OpenClipart](https://openclipart.org/) - Collection of free cliparts.
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
+* [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites (well worth)
 * [PlainTextures](http://www.plaintextures.com/)
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
@@ -64,7 +67,10 @@ Graphics
 #### Spritesheet Tools
 
 * [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
+* [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
+* [Gif2TileSet](http://labs.andregil.net/Gif2TileSet/Gif2TileSet.html) - Coverts GIFs into spritesheet
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
+* [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 * [ShoeBox](http://renderhjs.net/shoebox/) - ShoeBox is a free Adobe Air based app for Windows and Mac OSX with game and ui related tools. Each tool uses a drag and drop - or clipboard interaction for a quick workflow.
@@ -135,6 +141,7 @@ Graphics
 
 * [Artifex Terra](http://www.artifexterra.com/)
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/)
+* [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 * [Nem TG](http://nemesis.thewavelength.net/index.php?p=8)
 * [World Machine](http://www.world-machine.com/)
 
@@ -249,6 +256,7 @@ with AWS and Twitch – with full source.
 * [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
+* [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 * [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 * [Three.js](http://threejs.org/) - Javascript 3D Library.
 * [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
@@ -279,6 +287,7 @@ Audio
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
+* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator 
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
@@ -367,16 +376,21 @@ Must see
 ### Videos/Podcasts
 
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams 
 
 ### Game Jams
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
-* [Game jams on itch.io](https://itch.io/jams)
-* [Indie Game Jams](http://www.indiegamejams.com/)
-* [Ludum Dare](http://ludumdare.com/)
+* [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
+* [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
+* [Ludum Dare](http://ludumdare.com/) - very popular game jam 
+* [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
 
 ### Project Management
-* [HacknPlan](http://hacknplan.com/ - Project management for game developers
+* [Casual](https://casual.pm/) - Visual Project Management
+* [HacknPlan](http://hacknplan.com/) - Project management for game developers
+* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers 
+* [Trello](https://trello.com/) - Organize and prioritize projects 
 
 ### Complete Game Sources
 
