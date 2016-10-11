@@ -4,7 +4,7 @@
 ![commercial](/img/commercial.png) = Paid,
 ![limited free](/img/limited.png) = Limited Free,
 ![free](/img/free.png) = 100% Free,
-![open soucce](/img/opensource.png) = Open Source,
+![open soucce](/img/opensource.png) = Open Source
 
 A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
@@ -53,30 +53,27 @@ Graphics
 * [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
 * [CGTextures](http://www.textures.com) - A large collection of textures.
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
-* [Games-Icons Set](http://game-icons.net/) - free icons for your games.
-* [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
-* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets
-* [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
-* [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
-* [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites (well worth)
+* [Games-Icons Set](http://game-icons.net/) - free icons for your games. ![free](/img/free.png)
+* [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. ![free](/img/free.png)
+* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets ![limited free](/img/limited.png)
+* [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. ![free](/img/free.png)
+* [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. ![free](/img/free.png)
+* [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites ![commercial](/img/commercial.png)
 * [PlainTextures](http://www.plaintextures.com/)
-* [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
+* [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. ![free](/img/free.png)
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 * [TextureKing](http://www.textureking.com/)
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
-* [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art.
-* [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine.
+* [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. ![free](/img/free.png)
+* [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine. ![free](/img/free.png)
 
 #### Spritesheet Tools
 
-* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. ![commercial](/img/commercial.png)
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool ![open soucce](/img/opensource.png)
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. ![commercial](/img/commercial.png)
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx ![open soucce](/img/opensource.png)
-* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. ![open soucce](/img/opensource.png)
-* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. [commercial](/img/commercial.png)
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. ![free](/img/free.png)
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets ![free](/img/free.png)
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. ![commercial](/img/commercial.png)
@@ -106,39 +103,41 @@ Graphics
 #### Tile/Level Editors
 
 * [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
-* [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
-* [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
+* [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains. ![commercial](/img/commercial.png)
+* [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. ![open soucce](/img/opensource.png)
 * [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
-* [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor.
-* [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
+* [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor. ![free](/img/free.png)
+* [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. ![free](/img/free.png)
 
 #### Animation
 
 * [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 * [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 * [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
-* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash
+* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash ![open soucce](/img/opensource.png)
 * [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 
 #### Vector/Image Editor
 
-* [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
-* [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
+* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. ![commercial](/img/commercial.png)
+* [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. ![open soucce](/img/opensource.png)
+* [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. ![open soucce](/img/opensource.png)
 * [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
 * [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
-* [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
-* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
+* [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. ![free](/img/free.png)
+* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. ![commercial](/img/commercial.png)
+* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. ![open soucce](/img/opensource.png)
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
-
+* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![commercial](/img/commercial.png)
 
 #### Modeling
 
-* [Blender](http://www.blender.org/)
+* [Blender](http://www.blender.org/) ![open soucce](/img/opensource.png)
 * [MakeHuman](http://www.makehuman.org/)
 * [sculptris](http://pixologic.com/sculptris/)
-* [Maya](http://www.autodesk.com/products/maya/overview)
-* [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
+* [Maya](http://www.autodesk.com/products/maya/overview) ![commercial](/img/commercial.png)
+* [3ds Max](http://www.autodesk.com/products/3ds-max/overview) ![commercial](/img/commercial.png)
 * [Clara.io](https://clara.io/)
 
 #### Terrain Generators
@@ -167,7 +166,7 @@ Code
 #### 2D
 
 * [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
-* [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
+* [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. ![open soucce](/img/opensource.png)
 * [AndEngine](http://www.andengine.org) - 2D Android Game Engine
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
@@ -181,39 +180,39 @@ Code
 * [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
-* [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
+* [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. ![open soucce](/img/opensource.png)
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
-* [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3.
-* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
+* [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. ![open soucce](/img/opensource.png)
+* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. ![limited free](/img/limited.png)
 * [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
-* [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
+* [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. ![open soucce](/img/opensource.png)
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
 * [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
-* [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
-* [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
+* [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines ![open soucce](/img/opensource.png)
+* [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. ![open soucce](/img/opensource.png)
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
-* [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
+* [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service. ![open soucce](/img/opensource.png)
 * [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
 * [Lycheejs](http://lycheejs.org/index.html) - JavaScript Game library that offers a complete solution for prototyping and deployment of HTML5 Canvas, WebGL or native OpenGL(ES) based games inside the Web Browser or native environments.
-* [LÖVE](http://love2d.org) - Lua 2D Game Engine.
+* [LÖVE](http://love2d.org) - Lua 2D Game Engine. ![open soucce](/img/opensource.png)
 * [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 * [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
 * [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
-* [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
+* [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine. ![open soucce](/img/opensource.png)
 * [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
-* [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
+* [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework. ![open soucce](/img/opensource.png)
 * [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
-* [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
+* [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games. ![open soucce](/img/opensource.png)
 * [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
 * [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
-* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
+* [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. ![open soucce](/img/opensource.png)
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles.
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
@@ -241,21 +240,21 @@ Code
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
-* [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
+* [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. ![open soucce](/img/opensource.png)
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
 * [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
 * [Haxor](http://www.haxor.xyz/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
 * [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
-* [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
-* [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.
+* [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. ![open soucce](/img/opensource.png)
+* [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. ![open soucce](/img/opensource.png)
 * [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-* [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
+* [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. ![open soucce](/img/opensource.png)
 * [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
-* [Paradox](http://paradox3d.net/) - Open Source C# Game Engine.
-* [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
+* [Paradox](http://paradox3d.net/) - Open Source C# Game Engine. ![open soucce](/img/opensource.png)
+* [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. ![open soucce](/img/opensource.png)
 * [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
@@ -290,18 +289,18 @@ Audio
 
 ### Music and Audio Editors
 
-* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
+* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds. ![open soucce](/img/opensource.png)
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
 * [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
+* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. ![open soucce](/img/opensource.png)
 * [Soundation](https://soundation.com/) - Online Professional music studio.
 * [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
-* [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
+* [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer ![open soucce](/img/opensource.png)
 
 Board Games
 -----------
@@ -375,11 +374,11 @@ Must see
 
 ### Magazines
 
-* [Casual Connect](http://casualconnect.org/)
-* [Game Developer Magazine](http://www.gdcvault.com/gdmag)
-* [IndieMag](https://www.indiemag.fr/)
-* [Making Games](http://www.makinggames.biz/)
-* [indie-o-rama](http://www.indieorama.com/)
+* [Casual Connect](http://casualconnect.org/) ![free](/img/free.png)
+* [Game Developer Magazine](http://www.gdcvault.com/gdmag) ![free](/img/free.png)
+* [IndieMag](https://www.indiemag.fr/) ![free](/img/free.png)
+* [Making Games](http://www.makinggames.biz/) ![free](/img/free.png)
+* [indie-o-rama](http://www.indieorama.com/) ![free](/img/free.png)
 
 ### Videos/Podcasts
 
@@ -388,7 +387,7 @@ Must see
 
 ### Game Jams
 
-* [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
+* [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline. 
 * [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 * [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
 * [Ludum Dare](http://ludumdare.com/) - very popular game jam
@@ -396,22 +395,22 @@ Must see
 
 ### Project Management
 
-* [Casual](https://casual.pm/) - Visual Project Management
-* [HacknPlan](http://hacknplan.com/) - Project management for game developers
-* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
-* [Trello](https://trello.com/) - Organize and prioritize projects
+* [Casual](https://casual.pm/) - Visual Project Management ![commercial](/img/commercial.png)
+* [HacknPlan](http://hacknplan.com/) - Project management for game developers ![limited free](/img/limited.png)
+* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers ![limited free](/img/limited.png)
+* [Trello](https://trello.com/) - Organize and prioritize projects ![limited free](/img/limited.png)
 
 ### Complete Game Sources
 
-* [Doom 3](https://github.com/id-Software/DOOM-3)
-* [Doom](https://github.com/id-Software/DOOM)
-* [Duke Nukem 3D: Atomic Edition](https://3drealms.com)
-* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
-* [Quake 2](https://github.com/id-Software/Quake-2)
-* [Quake III Arena](https://github.com/id-Software/Quake-III-Arena)
-* [Quake](https://github.com/id-Software/Quake)
-* [SimCity](https://github.com/simhacker/micropolis)
-* [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
+* [Doom 3](https://github.com/id-Software/DOOM-3) ![open soucce](/img/opensource.png)
+* [Doom](https://github.com/id-Software/DOOM) ![open soucce](/img/opensource.png)
+* [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) ![free](/img/free.png)
+* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) ![open soucce](/img/opensource.png)
+* [Quake 2](https://github.com/id-Software/Quake-2) ![open soucce](/img/opensource.png)
+* [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) ![open soucce](/img/opensource.png)
+* [Quake](https://github.com/id-Software/Quake) ![open soucce](/img/opensource.png)
+* [SimCity](https://github.com/simhacker/micropolis) ![open soucce](/img/opensource.png)
+* [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ![open soucce](/img/opensource.png)
 
 Ads
 ---
