@@ -354,6 +354,7 @@ Must see
 * [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
+* [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch)
 * [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL, 6/E](http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page)
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
 * [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20)
