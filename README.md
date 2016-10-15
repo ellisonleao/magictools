@@ -211,6 +211,7 @@ Code
 * [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games. ![open soucce](/img/opensource.png)
 * [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
+* [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas.
 * [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. ![open soucce](/img/opensource.png)
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
