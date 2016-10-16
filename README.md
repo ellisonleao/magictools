@@ -200,7 +200,6 @@ Code
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
 * [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service. ![open soucce](/img/opensource.png)
 * [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
-* [Lycheejs](http://lycheejs.org/index.html) - JavaScript Game library that offers a complete solution for prototyping and deployment of HTML5 Canvas, WebGL or native OpenGL(ES) based games inside the Web Browser or native environments.
 * [LÖVE](http://love2d.org) - Lua 2D Game Engine. ![open soucce](/img/opensource.png)
 * [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 * [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
@@ -390,7 +389,7 @@ Must see
 
 ### Game Jams
 
-* [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline. 
+* [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 * [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 * [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
 * [Ludum Dare](http://ludumdare.com/) - very popular game jam
