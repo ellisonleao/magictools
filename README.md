@@ -59,11 +59,11 @@ Graphics
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. ![free](/img/free.png)
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. ![free](/img/free.png)
 * [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites ![commercial](/img/commercial.png)
-* [PlainTextures](http://www.plaintextures.com/)
+* [PlainTextures](http://www.plaintextures.com/) -  Free high resolution textures, brushes and photos ![free](/img/free.png)
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. ![free](/img/free.png)
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
-* [TextureKing](http://www.textureking.com/)
+* [TextureKing](http://www.textureking.com/) - Free meterial stock textures  ![free](/img/free.png)
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. ![free](/img/free.png)
@@ -98,7 +98,7 @@ Graphics
 #### Character Generators
 
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/)
+* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
 
 #### Tile/Level Editors
 
@@ -142,11 +142,11 @@ Graphics
 
 #### Terrain Generators
 
-* [Artifex Terra](http://www.artifexterra.com/)
-* [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/)
+* [Artifex Terra](http://www.artifexterra.com/) - Terrain editor for easy and sophisticated landscape painting and editing ![free](/img/free.png)
+* [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively ![free](/img/free.png)
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
-* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8)
-* [World Machine](http://www.world-machine.com/)
+* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
+* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png) 
 
 #### Voxel Editors
 
