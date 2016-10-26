@@ -3,7 +3,7 @@
 
 <h1 align="center">
 	<br>
-	<img width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Video_game_controller_icon_designed_by_Maico_Amorim.svg/1249px-Video_game_controller_icon_designed_by_Maico_Amorim.svg.png" alt="awesome">
+	<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Video_game_controller_icon_designed_by_Maico_Amorim.svg/1249px-Video_game_controller_icon_designed_by_Maico_Amorim.svg.png" alt="awesome">
 	<br>
 	<br>
 	<br>
