@@ -1,6 +1,14 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/ellisonleao/magictools.svg?branch=master)](https://travis-ci.org/ellisonleao/magictools)
 
+<h1 align="center">
+	<br>
+	<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Video_game_controller_icon_designed_by_Maico_Amorim.svg/1249px-Video_game_controller_icon_designed_by_Maico_Amorim.svg.png" alt="awesome">
+	<br>
+	<br>
+	<br>
+</h1>
+
 A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
 ![commercial](/img/commercial.png) = Paid,
