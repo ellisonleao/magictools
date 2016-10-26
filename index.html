@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!--
+     Preview a GitHub README.md.
+
+     Either:
+
+     -  Copy this file to a directory that contains repo directories,
+        and then specify a repo name in the query string.
+
+        For example:
+
+          http://localhost/github/readme.html?myrepo
+
+     or
+
+     -  Copy this file to the directory that contains a README.md,
+        and then browse to this file without specifying a query string.
+
+        For example:
+
+          http://localhost/github/myrepo/readme.html
+
+        (or just open this file in your browser directly from
+        your file system, without HTTP)
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<meta name="author" content="Graham Hannington"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>GitHub readme preview</title>
+<link rel="stylesheet" type="text/css" href="http://primercss.io/docs.css"/>
+<script type="text/javascript">
+//<![CDATA[
+var HTTP_STATUS_OK = 200;
+var URL_API_GITHUB_RENDER_MARKDOWN = "https://api.github.com/markdown/raw";
+var README_FILE_NAME = "README.md";
+
+var readmeURL;
+
+var queryString = location.search.substring(1);
+
+if (queryString.length > 0) {
+  readmeURL = queryString + "/" + README_FILE_NAME;
+} else {
+  readmeURL = README_FILE_NAME;
+}
+
+// Get Markdown, then render it as HTML
+function getThenRenderMarkdown(markdownURL) {
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", markdownURL, true);
+  xhr.responseType = "text";
+  xhr.onload = function(e) {
+    if (this.status == HTTP_STATUS_OK) {
+     // Response text contains Markdown
+      renderMarkdown(this.responseText);
+    }
+  }
+  xhr.send();
+}
+
+// Use the GitHub API to render Markdown as HTML
+function renderMarkdown(markdown) {
+  var xhr = new XMLHttpRequest();
+  xhr.open("POST", URL_API_GITHUB_RENDER_MARKDOWN, true);
+  xhr.responseType = "html";
+  xhr.onload = function(e) {
+    if (this.status == HTTP_STATUS_OK) {
+      document.getElementById("readme").innerHTML = this.response;
+    }
+  }
+  xhr.send(markdown);
+}
+
+window.onload = function() {
+  getThenRenderMarkdown(readmeURL);
+}
+//]]>
+</script>
+</head>
+<body>
+<header class="masthead">
+<div class="container">
+<span class="masthead-logo"><span class="mega-octicon
+octicon-mark-github"></span>GitHub readme preview</span>
+</div>
+</header>
+<div class="container">
+<div id="readme" class="markdown-body">
+<p>Rendering markdown, please wait...</p>
+</div>
+<footer class="footer">Rendering by
+<a href="https://developer.github.com/v3/markdown/">GitHub</a>,
+styling by <a href="http://primercss.io/">Primer</a>.</footer>
+</div>
+</body>
+</html>
