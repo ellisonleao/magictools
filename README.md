@@ -15,7 +15,7 @@ A list of game development resources to make **magic** happen. Created by awesom
 ![open soucce](/img/opensource.png) = Open Source
 
 Please remember to always look at the license before using something in your project.
-
+<!--- Please keep links alphabetical in the list -->
 - [Graphics](#graphics)
     - [Graphic Assets](#graphic-assets)
         - [2D Assets/Placeholders](#2d-assetsplaceholders)
@@ -104,27 +104,27 @@ Graphics
 
 #### Bitmap Compression
 
-* [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
-* [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms.
-* [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
-* [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
-* [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool.
-* [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
-* [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
+* [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools ![free](/img/free.png)
+* [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms. ![commercial](/img/commercial.png)
+* [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites ![free](/img/free.png)
+* [PNGoo](https://pngquant.org/) - Windows GUI for batch conversion. ![free](/img/free.png)
+* [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool. ![open soucce](/img/opensource.png)
+* [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web" ![free](/img/free.png)
+* [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency. ![free](/img/free.png)
 
 #### Character Generators
 
-* [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
+* [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker. ![free](/img/free.png)
+* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator ![free](/img/free.png)
 
 #### Modeling
 
-* [Blender](http://www.blender.org/) ![open soucce](/img/opensource.png)
-* [MakeHuman](http://www.makehuman.org/)
-* [sculptris](http://pixologic.com/sculptris/)
+* [Blender](http://www.blender.org/) ![open soucce](/img/opensource.png)sfml
+* [MakeHuman](http://www.makehuman.org/) ![open soucce](/img/opensource.png)
+* [sculptris](http://pixologic.com/sculptris/) ![free](/img/free.png)
 * [Maya](http://www.autodesk.com/products/maya/overview) ![commercial](/img/commercial.png)
 * [3ds Max](http://www.autodesk.com/products/3ds-max/overview) ![commercial](/img/commercial.png)
-* [Clara.io](https://clara.io/)
+* [Clara.io](https://clara.io/) ![limited free](/img/limited.png)
 
 #### Spritesheet Tools
 
@@ -271,13 +271,13 @@ Code
 * [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 * [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
-* [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
+* [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python. ![free](/img/free.png)
 * [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
-* [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
+* [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games. ![commercial](/img/commercial.png)
 * [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 * [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
-* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
+* [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library. ![free](/img/free.png)
 * [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
 * [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
