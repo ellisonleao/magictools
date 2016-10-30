@@ -238,6 +238,7 @@ Code
 #### 3D
 
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
+* [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. ![open soucce](/img/opensource.png)
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
