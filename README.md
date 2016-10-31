@@ -295,6 +295,7 @@ Audio
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
+* [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. ![free](/img/free.png)
 * [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
 * [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
 * [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
