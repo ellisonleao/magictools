@@ -56,6 +56,7 @@ Graphics
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. ![free](/img/free.png)
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. ![free](/img/free.png)
 * [Kenny Assets](http://kenney.nl/assets) - Royalty free assets ![limited free](/img/limited.png)
+* [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums ![free](/img/free.png)
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. ![free](/img/free.png)
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. ![free](/img/free.png)
 * [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites ![commercial](/img/commercial.png)
@@ -68,17 +69,16 @@ Graphics
 * [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. ![free](/img/free.png)
 * [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine. ![free](/img/free.png)
-* [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums ![free](/img/free.png)
 
 #### Spritesheet Tools
 
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool ![open soucce](/img/opensource.png)
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. ![commercial](/img/commercial.png)
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx ![open soucce](/img/opensource.png)
+* [Littera](http://kvazars.com/littera) - Bitmap font generator ![free](/img/free.png)
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. ![free](/img/free.png)
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets ![free](/img/free.png)
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. ![commercial](/img/commercial.png)
-* [Littera](http://kvazars.com/littera) - Bitmap font generator ![free](/img/free.png)
 
 #### Bitmap Compression
 
@@ -121,6 +121,8 @@ Graphics
 
 #### Vector/Image Editor
 
+* [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats ![commercial](/img/commercial.png)
+* [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer ![commercial](/img/commercial.png)
 * [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. ![commercial](/img/commercial.png)
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. ![open soucce](/img/opensource.png)
 * [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. ![open soucce](/img/opensource.png)
@@ -132,8 +134,6 @@ Graphics
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![commercial](/img/commercial.png)
-* [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats ![commercial](/img/commercial.png)
-* [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer ![commercial](/img/commercial.png)
 
 #### Modeling
 
