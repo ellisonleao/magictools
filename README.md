@@ -68,6 +68,7 @@ Graphics
 * [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. ![free](/img/free.png)
 * [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine. ![free](/img/free.png)
+* [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums ![free](/img/free.png)
 
 #### Spritesheet Tools
 
@@ -77,7 +78,7 @@ Graphics
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. ![free](/img/free.png)
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets ![free](/img/free.png)
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. ![commercial](/img/commercial.png)
-
+* [Littera](http://kvazars.com/littera) - Bitmap font generator ![free](/img/free.png)
 
 #### Bitmap Compression
 
@@ -99,6 +100,7 @@ Graphics
 
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
+* [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics ![free](/img/free.png)
 
 #### Tile/Level Editors
 
@@ -130,6 +132,8 @@ Graphics
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![commercial](/img/commercial.png)
+* [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats ![commercial](/img/commercial.png)
+* [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer ![commercial](/img/commercial.png)
 
 #### Modeling
 
