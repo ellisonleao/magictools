@@ -150,7 +150,7 @@ Graphics
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively ![free](/img/free.png)
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 * [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
-* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png) 
+* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png)
 
 #### Voxel Editors
 
@@ -366,7 +366,6 @@ Must see
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
 * [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch)
-* [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL, 6/E](http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page)
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
 * [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20)
 * [Nature of Code](http://natureofcode.com/book/)
