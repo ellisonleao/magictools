@@ -24,6 +24,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Engines and Frameworks](#engines-and-frameworks)
     - [2D](#2d)
     - [3D](#3d)
+  - [AI](#ai)
 - [Audio](#audio)
   - [Collections](#collections)
   - [Music and Audio Editors](#music-and-audio-editors)
@@ -46,7 +47,6 @@ Graphics
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
 #### Assets/Placeholders
-
 
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
@@ -277,6 +277,10 @@ Code
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 with AWS and Twitch – with full source.
+
+### AI
+
+* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 Audio
 -----
