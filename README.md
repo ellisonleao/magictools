@@ -4,7 +4,7 @@
 ![commercial](/img/commercial.png) = Paid,
 ![limited free](/img/limited.png) = Limited Free,
 ![free](/img/free.png) = 100% Free,
-![open soucce](/img/opensource.png) = Open Source
+![open source](/img/opensource.png) = Open Source
 
 A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
@@ -64,7 +64,7 @@ Graphics
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. ![free](/img/free.png)
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
-* [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images.
+* [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images. ![free](/img/free.png)
 * [TextureKing](http://www.textureking.com/) - Free meterial stock textures  ![free](/img/free.png)
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
