@@ -408,6 +408,7 @@ Must see
 ### Project Management
 
 * [Casual](https://casual.pm/) - Visual Project Management ![commercial](/img/commercial.png)
+* [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games ![limited free](/img/limited.png)
 * [HacknPlan](http://hacknplan.com/) - Project management for game developers ![limited free](/img/limited.png)
 * [Taiga](https://taiga.io/) - Project management platform for agile developers & designers ![limited free](/img/limited.png)
 * [Trello](https://trello.com/) - Organize and prioritize projects ![limited free](/img/limited.png)
