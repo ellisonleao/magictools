@@ -4,7 +4,7 @@
 ![commercial](/img/commercial.png) = Paid,
 ![limited free](/img/limited.png) = Limited Free,
 ![free](/img/free.png) = 100% Free,
-![open soucce](/img/opensource.png) = Open Source
+![open source](/img/opensource.png) = Open Source
 
 A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
@@ -24,6 +24,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Engines and Frameworks](#engines-and-frameworks)
     - [2D](#2d)
     - [3D](#3d)
+  - [AI](#ai)
 - [Audio](#audio)
   - [Collections](#collections)
   - [Music and Audio Editors](#music-and-audio-editors)
@@ -47,7 +48,6 @@ Graphics
 
 #### Assets/Placeholders
 
-
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 * [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
@@ -64,6 +64,7 @@ Graphics
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. ![free](/img/free.png)
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
+* [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images. ![free](/img/free.png)
 * [TextureKing](http://www.textureking.com/) - Free meterial stock textures  ![free](/img/free.png)
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
@@ -150,7 +151,7 @@ Graphics
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively ![free](/img/free.png)
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 * [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
-* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png) 
+* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png)
 
 #### Voxel Editors
 
@@ -248,7 +249,6 @@ Code
 * [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
 * [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. ![open soucce](/img/opensource.png)
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
-* [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
 * [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
 * [Haxor](http://www.haxor.xyz/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
 * [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
@@ -278,6 +278,10 @@ Code
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 with AWS and Twitch – with full source.
+
+### AI
+
+* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 Audio
 -----
@@ -366,7 +370,6 @@ Must see
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
 * [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch)
-* [Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL, 6/E](http://www.pearsonhighered.com/educator/product/Interactive-Computer-Graphics-A-TopDown-Approach-with-ShaderBased-OpenGL/9780132545235.page)
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
 * [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20)
 * [Nature of Code](http://natureofcode.com/book/)
@@ -405,6 +408,7 @@ Must see
 ### Project Management
 
 * [Casual](https://casual.pm/) - Visual Project Management ![commercial](/img/commercial.png)
+* [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games ![limited free](/img/limited.png)
 * [HacknPlan](http://hacknplan.com/) - Project management for game developers ![limited free](/img/limited.png)
 * [Taiga](https://taiga.io/) - Project management platform for agile developers & designers ![limited free](/img/limited.png)
 * [Trello](https://trello.com/) - Organize and prioritize projects ![limited free](/img/limited.png)
