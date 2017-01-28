@@ -78,6 +78,7 @@ Graphics
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx ![open soucce](/img/opensource.png)
 * [Littera](http://kvazars.com/littera) - Bitmap font generator ![free](/img/free.png)
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. ![free](/img/free.png)
+* [Sprite Sheet Packer](https://spritesheetpacker.codeplex.com/) - Combine multiple images into a single sprite sheet and generate a txt map of it.
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets ![free](/img/free.png)
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. ![commercial](/img/commercial.png)
 
