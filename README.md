@@ -342,6 +342,7 @@ Must see
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 * [GameDev](http://www.gamedev.net/page/index.html)
 * [GameDevs.org](http://gamedevs.org/)
+* [Game Hero](https://www.gamehero.org/)
 * [GameJolt](http://gamejolt.com/)
 * [GameMarketeers](http://www.gamemarketeers.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
