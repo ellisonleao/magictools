@@ -34,7 +34,7 @@ A list of game development resources to make **magic** happen. Created by awesom
   - [Blogs and Portals](#blogs-and-portals)
   - [Books](#books)
   - [Magazines](#magazines)
-  - [Videos/Podcasts](#VideosPodcasts)
+  - [Videos/Podcasts](#videospodcasts)
   - [Game Jams](#game-jams)
   - [Project Management](#project-management)
   - [Complete Game Sources](#complete-game-sources)
