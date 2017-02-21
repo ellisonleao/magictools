@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/ellisonleao/magictools.svg?branch=master)](https://travis-ci.org/ellisonleao/magictools)
-[![badge-translation-chinese](https://img.shields.io/badge/Translation-chinese-lightgrey.svg)](https://github.com/HaitaoBio/magictools-ch)
+[![badge-translation-chinese](https://img.shields.io/badge/translation-Chinese-lightgrey.svg)](https://github.com/HaitaoBio/magictools-ch)
 
 ![commercial](/img/commercial.png) = Paid,
 ![limited free](/img/limited.png) = Limited Free,
