@@ -353,6 +353,7 @@ Must see
 * [Html5 Game Development](http://www.html5gamedevelopment.com/)
 * [IndieDB](http://www.indiedb.com/)
 * [Indius](http://indius.org/)
+* [Mod DB](http://www.moddb.com/)
 * [Java Gaming](http://www.java-gaming.org/)
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
