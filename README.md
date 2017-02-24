@@ -67,7 +67,7 @@ Graphics
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 * [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images. ![free](/img/free.png)
-* [TextureKing](http://www.textureking.com/) - Free meterial stock textures  ![free](/img/free.png)
+* [TextureKing](http://www.textureking.com/) - Free material stock textures  ![free](/img/free.png)
 * [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. ![free](/img/free.png)
@@ -108,7 +108,7 @@ Graphics
 
 #### Tile/Level Editors
 
-* [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
+* [ArrayPainter](http://arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 * [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains. ![commercial](/img/commercial.png)
 * [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. ![open soucce](/img/opensource.png)
 * [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
@@ -345,6 +345,7 @@ Must see
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 * [GameDev](http://www.gamedev.net/page/index.html)
 * [GameDevs.org](http://gamedevs.org/)
+* [Game Hero](https://www.gamehero.org/)
 * [GameJolt](http://gamejolt.com/)
 * [GameMarketeers](http://www.gamemarketeers.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
