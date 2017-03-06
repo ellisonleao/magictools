@@ -264,6 +264,7 @@ Code
 * [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. ![open soucce](/img/opensource.png)
 * [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. ![open soucce](/img/opensource.png)
 * [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+* [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. ![open soucce](/img/opensource.png)
 * [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
