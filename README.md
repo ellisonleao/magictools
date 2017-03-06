@@ -382,6 +382,7 @@ Must see
 * [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
 * [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch)
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
+* [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
 * [Mathematics For 3D Game Programming And Computer Graphics](http://www.amazon.com/dp/1435458869?tag=game-prog-books-20)
 * [Nature of Code](http://natureofcode.com/book/)
 * [Physics for Game Developers](http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065)
