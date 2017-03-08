@@ -368,6 +368,9 @@ Must see
 * [indiegames](http://indiegames.com/index.html)
 * [indievault](http://www.indievault.it/)
 
+### Study Path
+* [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
+
 ### Books
 
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
