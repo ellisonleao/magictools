@@ -32,7 +32,7 @@ A list of game development resources to make **magic** happen. Created by awesom
 - [Board Games](#board-games)
 - [Must see](#must-see)
   - [Blogs and Portals](#blogs-and-portals)
-  - [Study Path](#Study-Path)
+  - [Study Path](#study-path)
   - [Books](#books)
   - [Magazines](#magazines)
   - [Videos/Podcasts](#videospodcasts)
