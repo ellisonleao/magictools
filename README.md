@@ -270,7 +270,6 @@ Code
 * [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. ![open soucce](/img/opensource.png)
 * [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
-* [Paradox](http://paradox3d.net/) - Open Source C# Game Engine. ![open soucce](/img/opensource.png)
 * [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. ![open soucce](/img/opensource.png)
 * [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
@@ -284,6 +283,7 @@ Code
 * [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
 * [Wave](http://waveengine.net/) - Cross-platform engine written in C#
 * [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
+* [Xenko](http://xenko.com/) - Open Source C# Game Engine. ![open soucce](/img/opensource.png)
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
