@@ -1,13 +1,24 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/ellisonleao/magictools.svg?branch=master)](https://travis-ci.org/ellisonleao/magictools)
-[![badge-translation-chinese](https://img.shields.io/badge/translation-Chinese-lightgrey.svg)](https://github.com/HaitaoBio/magictools-ch)
+<h1 align="center">
+    <img width="900" src="https://cdn.rawgit.com/ellisonleao/magictools/7d8012bc/magicbg.jpg" alt="logo"/>
+</h1>
+<hr/>
 
-![commercial](/img/commercial.png) = Paid,
-![limited free](/img/limited.png) = Limited Free,
-![free](/img/free.png) = 100% Free,
-![open source](/img/opensource.png) = Open Source
+<p align="center">
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+    <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
+    <a href="https://github.com/HaitaoBio/magictools-ch"><img src="https://img.shields.io/badge/translation-Chinese-lightgrey.svg" alt="chinese translation"/></a>
+</p>
 
-A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
+A curated list of game development resources to make **magic** happen.
+
+### License Legends
+
+- ![commercial](/img/commercial.png) - Paid,
+- ![limited free](/img/limited.png) - Limited Free
+- ![free](/img/free.png) - 100% Free
+- ![open source](/img/opensource.png) - Open Source
+
+## Table of Contents
 
 - [Graphics](#graphics)
     - [Assets/Placeholders](#assetsplaceholders)
