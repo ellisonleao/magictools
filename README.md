@@ -55,7 +55,7 @@ Graphics
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. ![free](/img/free.png)
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. ![free](/img/free.png)
-* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets ![limited free](/img/limited.png)
+* [Kenney Assets](http://kenney.nl/assets) - Royalty free assets ![free](/img/free.png)
 * [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums ![free](/img/free.png)
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. ![free](/img/free.png)
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. ![free](/img/free.png)
