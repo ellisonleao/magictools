@@ -72,7 +72,7 @@
 * [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的包含独立游戏开发者和天才游戏资源创造者的应用市场。
 * [Games-Icons Set](http://game-icons.net/) - 为你的游戏添加免费图标。![free](/img/free.png)
 * [Iconmonstr](http://iconmonstr.com/) - 另一个免费的图标资源网站 ![free](/img/free.png)
-* [Kenny Assets](http://kenney.nl/assets) - 带有版权的免费资源 ![limited free](/img/limited.png)
+* [Kenney Assets](http://kenney.nl/assets) - 带有版权的免费资源 ![free](/img/free.png)
 * [Liberated Pixel Cup assets](http://lpc.opengameart.org) - 由 OpenGameArt 论坛维护的基于 Liberated Pixel Cup (LPC) 协议的免费图形资源 ![free](/img/free.png)
 * [OpenClipart](https://openclipart.org/) -  免费的剪贴画集锦。![free](/img/free.png)
 * [OpenGameArt](http://opengameart.org/) - 一个用于免费游戏项目的媒体库。 ![free](/img/free.png)
@@ -332,6 +332,7 @@
 * [iNudge](http://tonematrix.audiotool.com) - 在线创作声音模式。
 * [jfxr](http://jfxr.frozenfractal.com) - 一个 Bfxr 声效生成器的 JavaScript 接口。
 * [MadTracker](http://www.madtracker.org/main.php) - 一个强大和高效的创作音乐的解决方案，因为完全的 VST™, ASIO™ 和 ReWire™ 支持，所以能够保证多样性和兼容性。
+* [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - Mac/Linux/Windows 平台上的开源音轨软件 ![open soucce](/img/opensource.png)
 * [musagi](http://www.drpetter.se/project_musagi.html) - 开源的，相对大型的和复杂的音乐编辑器和合成器。 ![open soucce](/img/opensource.png)
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - 开源的 MIDI 音序器。 ![open soucce](/img/opensource.png)
 * [Soundation](https://soundation.com/) - 在线的专业音乐工作室。
