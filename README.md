@@ -216,6 +216,8 @@ Code
 * [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. ![open soucce](/img/opensource.png)
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* [Inform7](http://inform7.com/) - A design system for interactive fiction based on natural language.
+* [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
 * [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
