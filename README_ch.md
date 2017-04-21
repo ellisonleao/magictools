@@ -304,6 +304,7 @@
 
 ### AI
 
+* [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - 具有流畅 API 的 C# 行为树工具库，基于 MIT 协议发布
 * [SimpleAI](https://github.com/mgerhardy/simpleai/) - 用 C++ 11 实现的行为树基工具库，带有 QT5 远程调试器(而且带有可选的 Lua 连接)。基于 MIT 协议发布。
 
 音频
