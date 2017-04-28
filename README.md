@@ -317,7 +317,6 @@ Audio
 
 * [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 * [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds.
-* [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use.
 * [Musopen](https://musopen.org/) - Royalty free music.
 * [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 * [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.

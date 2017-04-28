@@ -315,7 +315,6 @@
 
 * [Free Game Sounds](https://gamesounds.xyz/) - 各种带版权的免费游戏生效打包。
 * [Freesound](http://www.freesound.org/) -  通用协议下的可再创作的协作型声效数据库。
-* [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - 随机的“有小故障”的电脑音效大全，能够免费使用。
 * [Musopen](https://musopen.org/) - 带版权的免费音乐。
 * [Octave](http://raisedbeaches.com/octave/index.html) - 免费的 UI 声效库。
 * [PacDV](http://www.pacdv.com/sounds/index.html) - 带版权的免费声效集锦。
