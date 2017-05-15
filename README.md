@@ -43,6 +43,7 @@ A curated list of game development resources to make **magic** happen.
 - [Board Games](#board-games)
 - [Must see](#must-see)
   - [Blogs and Portals](#blogs-and-portals)
+  - [Study Path](#study-path)
   - [Books](#books)
   - [Magazines](#magazines)
   - [Videos/Podcasts](#videospodcasts)
@@ -476,6 +477,7 @@ Learn
 * [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 * [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
+* [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 * [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
