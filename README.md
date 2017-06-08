@@ -262,6 +262,7 @@ Code
 * [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
+* [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software. ![open soucce](/img/opensource.png)
 
 #### 3D
 
