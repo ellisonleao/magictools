@@ -203,6 +203,7 @@ Code
 * [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing ![free](/img/free.png)
 * [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
+* [Ebiten](https://hajimehoshi.github.io/ebiten/) - A simple 2D game library in Go. ![open soucce](/img/opensource.png)
 * [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. ![open soucce](/img/opensource.png)
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
