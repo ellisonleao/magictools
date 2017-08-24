@@ -213,6 +213,7 @@ Code
 * [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux. ![open source](/img/opensource.png)
 * [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. ![limited free](/img/limited.png)
 * [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
+* [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 * [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. ![open soucce](/img/opensource.png)
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
