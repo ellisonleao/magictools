@@ -13,10 +13,10 @@ A curated list of game development resources to make **magic** happen.
 
 ### License Legends
 
-- ![commercial](/img/commercial.png) - Paid,
-- ![limited free](/img/limited.png) - Limited Free
-- ![free](/img/free.png) - 100% Free
-- ![open source](/img/opensource.png) - Open Source
+- :free: - Free
+- :tada: - Open Source
+- :moneybag: - Paid
+- :money_with_wings: - Partially Free
 
 ## Table of Contents
 
