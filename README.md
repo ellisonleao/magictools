@@ -150,6 +150,45 @@ Graphics
 * :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free ![commercial](/img/commercial.png)
 * :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![commercial](/img/commercial.png)
 * :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
+* [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
+* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
+* [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics ![free](/img/free.png)
+
+#### Tile/Level Editors
+
+* [ArrayPainter](http://arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
+* [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains. ![commercial](/img/commercial.png)
+* [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. ![open soucce](/img/opensource.png)
+* [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
+* [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. ![free](/img/free.png)
+
+#### Animation
+
+* [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. ![commercial](/img/commercial.png)
+* [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
+* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash ![open soucce](/img/opensource.png)
+* [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+
+#### Vector/Image Editor
+
+* [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats ![commercial](/img/commercial.png)
+* [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer ![commercial](/img/commercial.png)
+* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. ![commercial](/img/commercial.png)
+* [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. ![open soucce](/img/opensource.png)
+* [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. ![open soucce](/img/opensource.png)
+* [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
+* [Multipaint](http://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
+* [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
+* [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. ![free](/img/free.png)
+* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. ![commercial](/img/commercial.png)
+* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. ![open soucce](/img/opensource.png)
+* [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
+* [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
+* [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free ![commercial](/img/commercial.png)
+* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![commercial](/img/commercial.png)
+* [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 
 #### Modeling
 
@@ -299,8 +338,7 @@ Code
 * :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 * :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
-No programming needed.
-with AWS and Twitch – with full source.
+
 ### AI
 
 * :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
@@ -337,6 +375,24 @@ Audio
 * :tada: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. ![open soucce](/img/opensource.png)
 * :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 * :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+
+### Music and Audio Editors
+
+* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds. ![open soucce](/img/opensource.png)
+* [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
+* [Audiotool](http://www.audiotool.com/app) - Online music producer.
+* [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
+* [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. ![free](/img/free.png)
+* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
+* [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
+* [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
+* [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
+* [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
+* [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms. ![open soucce](/img/opensource.png)
+* [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer ![open soucce](/img/opensource.png)
+* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. ![open soucce](/img/opensource.png)
+* [Soundation](https://soundation.com/) - Online Professional music studio.
+* [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 
 Board Games
 -----------
