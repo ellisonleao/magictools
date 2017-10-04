@@ -85,7 +85,7 @@ Graphics
 #### Spritesheet Tools
 
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool ![open soucce](/img/opensource.png)
-* [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. ![commercial](/img/commercial.png)
+* [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. ![free](/img/free.png)
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx ![open soucce](/img/opensource.png)
 * [Littera](http://kvazars.com/littera) - Bitmap font generator ![free](/img/free.png)
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. ![free](/img/free.png)
