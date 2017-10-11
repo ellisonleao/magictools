@@ -264,7 +264,7 @@ Code
 * :tada: [Haxor](http://www.haxor.xyz/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
 * [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
 * :tada: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. ![open soucce](/img/opensource.png)
-* :money: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* :moneybag: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 * :free: [Inform7](http://inform7.com/) - A design system for interactive fiction based on natural language.
 * :tada: [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
 * :tada: [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. ![open soucce](/img/opensource.png)
@@ -528,8 +528,8 @@ Learn
 
 ### General Game Development
 
-* :money: [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
-* :money: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
+* :moneybag: [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+* :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 * :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 * :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * :free: [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
@@ -540,4 +540,4 @@ Learn
 ### Computer Graphics
 
 * :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
-* :money: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+* :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
