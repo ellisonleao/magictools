@@ -138,7 +138,7 @@ Graphics
 * :money_with_wings: [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. ![commercial](/img/commercial.png)
 * :tada: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. ![open soucce](/img/opensource.png)
 * :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. ![open soucce](/img/opensource.png)
-* :tada: [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
+* :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 * :free: [Multipaint](http://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
 * :moneybag: [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. ![free](/img/free.png)
@@ -177,7 +177,7 @@ Graphics
 * [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. ![commercial](/img/commercial.png)
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. ![open soucce](/img/opensource.png)
 * [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. ![open soucce](/img/opensource.png)
-* [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
+* [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 * [Multipaint](http://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
 * [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. ![free](/img/free.png)
