@@ -120,7 +120,7 @@ Graphics
 * :free: [ArrayPainter](http://arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 * :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains. ![commercial](/img/commercial.png)
 * :tada: [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. ![open soucce](/img/opensource.png)
-* [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
+* :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 * :free: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. ![free](/img/free.png)
 
 #### Animation
