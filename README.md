@@ -78,7 +78,6 @@ Graphics
 * :free: [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images. ![free](/img/free.png)
 * :free: [TextureKing](http://www.textureking.com/) - Free material stock textures  ![free](/img/free.png)
 * :free: [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
-* [Upando](http://upan.do/) - Marketplace with lots of resources for game developers.
 * :money_with_wings: [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. ![free](/img/free.png)
 * :free: [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine. ![free](/img/free.png)
 
@@ -90,7 +89,6 @@ Graphics
 * :free: [Littera](http://kvazars.com/littera) - Bitmap font generator ![free](/img/free.png)
 * :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. ![free](/img/free.png)
 * :tada: [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - Combine multiple images into a single sprite sheet and generate a txt map of it.
-* [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets ![free](/img/free.png)
 * :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. ![commercial](/img/commercial.png)
 
 #### Bitmap Compression
