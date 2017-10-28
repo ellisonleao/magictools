@@ -374,24 +374,6 @@ Audio
 * :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 * :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 
-### Music and Audio Editors
-
-* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
-* [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
-* [Audiotool](http://www.audiotool.com/app) - Online music producer.
-* [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
-* [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound.
-* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
-* [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
-* [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
-* [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
-* [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms.
-* [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
-* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
-* [Soundation](https://soundation.com/) - Online Professional music studio.
-* [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
-
 Board Games
 -----------
 *Tools for making board games*
