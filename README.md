@@ -484,6 +484,7 @@ Must see
 * :tada: [Doom](https://github.com/id-Software/DOOM)
 * :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
 * :tada: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
+* :tada: [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
 * :tada: [Quake 2](https://github.com/id-Software/Quake-2)
 * :tada: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena)
 * :tada: [Quake](https://github.com/id-Software/Quake)
