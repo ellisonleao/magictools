@@ -480,11 +480,11 @@ Must see
 
 ### Complete Game Sources
 
+* :tada: [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
 * :tada: [Doom 3](https://github.com/id-Software/DOOM-3)
 * :tada: [Doom](https://github.com/id-Software/DOOM)
 * :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
 * :tada: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
-* :tada: [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
 * :tada: [Quake 2](https://github.com/id-Software/Quake-2)
 * :tada: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena)
 * :tada: [Quake](https://github.com/id-Software/Quake)
