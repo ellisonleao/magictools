@@ -480,6 +480,7 @@ Must see
 
 ### Complete Game Sources
 
+* :tada: [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
 * :tada: [Doom 3](https://github.com/id-Software/DOOM-3)
 * :tada: [Doom](https://github.com/id-Software/DOOM)
 * :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
