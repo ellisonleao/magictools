@@ -197,6 +197,7 @@ Graphics
 * :free: [sculptris](http://pixologic.com/sculptris/)
 * :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 * :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
+* :moneybag: [modo](https://www.foundry.com/products/modo)
 * :free: [Clara.io](https://clara.io/)
 
 #### Terrain Generators
