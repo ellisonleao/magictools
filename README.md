@@ -248,7 +248,7 @@ Code
 * :free: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 * :tada: [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
-* :tada: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A simple 2D game library in Go.
+* :tada: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A dead simple 2D game library in Go.
 * :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * :tada: [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
 * :tada: [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
