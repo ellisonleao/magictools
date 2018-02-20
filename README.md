@@ -153,6 +153,7 @@ Graphics
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
 * [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics
 * :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
+* :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 
 #### Tile/Level Editors
 
