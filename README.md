@@ -155,42 +155,6 @@ Graphics
 * :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 * :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 
-#### Tile/Level Editors
-
-* [ArrayPainter](http://arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
-* [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
-* [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
-* [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
-* [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
-
-#### Animation
-
-* [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
-* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
-* [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
-* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash
-* [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
-
-#### Vector/Image Editor
-
-* [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
-* [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer
-* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
-* [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
-* [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
-* [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
-* [Multipaint](http://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
-* [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
-* [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
-* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
-* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
-* [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
-* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
-* [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
-* [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
-* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
-* [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
-
 #### Modeling
 
 * :tada: [Blender](http://www.blender.org/)
