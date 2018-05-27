@@ -171,6 +171,7 @@ Graphics
 * :free: [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively
 * :tada: [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 * :free: [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
+* :moneybag: [World Creator](https://www.world-creator.com/) - Procedural terrain and landscape generation on the GPU in real time, simulation of erosion and sediment, beautiful editor. much more
 * :moneybag: [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing
 
 #### Voxel Editors
