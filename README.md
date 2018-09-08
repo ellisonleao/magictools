@@ -203,7 +203,7 @@ Code
 * :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 * :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 * :tada: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
-* :tada: [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
+* :free: [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
 * :tada: [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 * :tada: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
 * :money_with_wings: [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
