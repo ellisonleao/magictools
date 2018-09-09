@@ -195,6 +195,7 @@
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 是跨平台，开源的游戏编程库，主要面向 C 和 C++ 开发者。 ![open soucce](/img/opensource.png)
 * [AndEngine](http://www.andengine.org) - 2D Android 游戏引擎。
 * [Bacon2D](http://bacon2d.com/) - 一个方便 2D 游戏开发的框架，提供了即用的 QML 元素去表示游戏中普遍存在的基本游戏元素。
+* [bitsy](http://ledoux.io/bitsy/editor.html) - 一个微型rpg制作器，探索空间，对话。
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - 经典的点击型冒险游戏引擎和编辑器。
 * [Box2D](http://box2d.org/) - 一款 2D 游戏物理引擎。
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - 由C#程序语言实现的 Chipmunk2D 工具库。
