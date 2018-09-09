@@ -148,6 +148,7 @@ Graphics
 * :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
 * :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
 * :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
+* :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 * :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 * [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
