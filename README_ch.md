@@ -194,6 +194,7 @@
 
 * [Agen](http://2dengine.com) - 跨平台的2D游戏框架，支持 Lua 编程语言，兼容 iOS, Mac和 Windows 设备。
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 是跨平台，开源的游戏编程库，主要面向 C 和 C++ 开发者。 ![open soucce](/img/opensource.png)
+* [amulet](http://www.amulet.xyz/) - 使用lua为脚本语言的听觉/视觉工具，适合小型游戏与实验。兼容 Windows, Mac, Linux, HTML5 和 iOS。
 * [AndEngine](http://www.andengine.org) - 2D Android 游戏引擎。
 * [Bacon2D](http://bacon2d.com/) - 一个方便 2D 游戏开发的框架，提供了即用的 QML 元素去表示游戏中普遍存在的基本游戏元素。
 * [bitsy](http://ledoux.io/bitsy/editor.html) - 一个微型rpg制作器，探索空间，对话。

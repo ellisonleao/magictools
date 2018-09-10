@@ -192,6 +192,7 @@ Code
 
 * :free: [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * :tada: [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
+* :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 * :tada: [AndEngine](http://www.andengine.org) - 2D Android Game Engine
 * :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * :tada: [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
