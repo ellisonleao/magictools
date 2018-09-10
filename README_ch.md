@@ -156,6 +156,7 @@
 * [project one](http://p1.untergrund.net) - 一款面向 Commodore 64 平台的图像格式转换工具，覆盖该平台上各种不同的图形格式。该软件只能在 Windows 上运行。
 * [PXL8](http://www.pxl8.it) - 一款跨平台(Windows, Mac, Linux)像素绘画编辑器，面向免费分发。 ![commercial](/img/commercial.png)
 * [PyxelEdit](http://pyxeledit.com/) - 像素绘制编辑器，能够有趣并简便地制作瓷片地图集、关卡和动画。 ![commercial](/img/commercial.png)
+* [REXPaint](https://www.gridsagegames.com/rexpaint/) - 一款强大的 ASCII 绘图工具。
 * [Timanthes](http://csdb.dk/release/?id=75871) - 一款运行在 Windows 平台上的面向 Commodore 64 平台的像素绘制编辑器。
 
 #### 建模
