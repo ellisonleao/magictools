@@ -105,6 +105,7 @@ Graphics
 #### Texture Tools
 
 * :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
+* :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
 * :moneybag: [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 * :moneybag: [STG](http://www.seamlesstexturegenerator.com/) - a tool for creating professional  seamlessly-tileable textures from photographs quickly and easily.
 
