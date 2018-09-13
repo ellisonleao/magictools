@@ -311,6 +311,7 @@ Code
 * :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 * :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
+* :tada: [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
 
 ### AI
 
