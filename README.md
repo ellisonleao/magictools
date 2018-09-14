@@ -241,6 +241,7 @@ Code
 * :tada: [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.
 * :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 * :tada: [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
+* :tada: [Juno](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 * :tada: [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * :tada: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
