@@ -32,6 +32,7 @@ A curated list of game development resources to make **magic** happen.
     - [Modeling](#modeling)
     - [Terrain Generators](#terrain-generators)
     - [Voxel Editors](#voxel-editors)
+    - [GUI tools](#gui-tools)
 - [Code](#code)
   - [Engines and Frameworks](#engines-and-frameworks)
   - [AI](#ai)
@@ -184,6 +185,9 @@ Graphics
 * :free: [Sproxel](http://sproxel.blogspot.com.br/)
 * :tada: [VoxelShop](https://blackflux.com/index.php)
 
+#### GUI Tools
+
+* :tada: [dear imgui](https://github.com/ocornut/imgui/)
 
 Code
 ----
