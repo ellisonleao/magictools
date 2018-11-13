@@ -184,7 +184,6 @@ Graphics
 * :free: [Sproxel](http://sproxel.blogspot.com.br/)
 * :tada: [VoxelShop](https://blackflux.com/index.php)
 
-
 Code
 ----
 *Set of game frameworks, engines and platforms*
@@ -215,6 +214,7 @@ Code
 * :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 * :free: [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * :tada: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+* :tada: [Dear Imgui](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 * :free: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 * :tada: [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
@@ -262,6 +262,7 @@ Code
 * :free: [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 * :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
+* :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * :tada: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
