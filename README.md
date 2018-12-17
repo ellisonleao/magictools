@@ -371,6 +371,7 @@ Must see
 * [BigSushi](http://www.bigsushi.fm/)
 * [Designer Notes](http://www.designer-notes.com/)
 * [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
+* [Entity Systems Wiki](http://entity-systems.wikidot.com/)
 * [Extraguy](http://www.extraguy.com/)
 * [Gamasutra](http://www.gamasutra.com/)
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
