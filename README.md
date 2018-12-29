@@ -216,6 +216,7 @@ Code
 * :tada: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * :tada: [Dear Imgui](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 * :free: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
+* :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
 * :tada: [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 * :tada: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A dead simple 2D game library in Go.
