@@ -238,7 +238,7 @@ Code
 * [Grid](http://www.planimeter.org/grid-sdk/) - Lua Game Engine.
 * [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
 * :tada: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
-* :tada: [Haxor](http://www.haxor.xyz/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
+* :tada: [Heaps](https://heaps.io/) - Cross platform graphics for high performance graphics.
 * [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
 * :tada: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
 * :tada: [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
