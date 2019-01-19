@@ -274,6 +274,7 @@ Code
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * :tada: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
+* :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 * :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
 * :money_with_wings: [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 * :tada: [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas.
