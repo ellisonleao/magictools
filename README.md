@@ -204,6 +204,7 @@ Code
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 * :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+* :tada: [Cerberus X](https://www.cerberus-x.com/wordpress/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * :tada: [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
 * :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 * :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
@@ -267,7 +268,7 @@ Code
 * :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 * :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 * :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
-* :free: [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
+* :free: [Monkey2](http://monkeycoder.co.nz/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 * :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
