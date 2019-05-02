@@ -222,6 +222,7 @@ Code
 * :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
 * :tada: [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
+* :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
 * :tada: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A dead simple 2D game library in Go.
 * :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * :tada: [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
