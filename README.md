@@ -246,7 +246,7 @@ Code
 * [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
 * :tada: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
 * :tada: [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
-* :moneybag: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* :tada: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 * :free: [Inform7](http://inform7.com/) - A design system for interactive fiction based on natural language.
 * :tada: [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
 * :tada: [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++.
