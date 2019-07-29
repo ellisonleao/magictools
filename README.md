@@ -473,6 +473,7 @@ Must see
 * :tada: [Doom](https://github.com/id-Software/DOOM)
 * :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
 * :tada: [NetHack](https://github.com/NetHack/NetHack)
+* :tada: [OpenTTD](https://github.com/OpenTTD/OpenTTD)
 * :tada: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 * :tada: [Quake 2](https://github.com/id-Software/Quake-2)
 * :tada: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena)
