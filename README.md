@@ -111,7 +111,6 @@ Graphics
 #### Character Generators
 
 * :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* :free: [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
 * :tada: [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics
 
 #### Tile/Level Editors
