@@ -128,6 +128,7 @@ Graphics
 * :moneybag: [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
 * :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
 * :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+* :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,    
 
 #### Vector/Image Editor
 
