@@ -287,6 +287,7 @@ Code
 * :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
 * :tada: [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * :tada: [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* :tada: [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
 * :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 * :money_with_wings: [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles.
 * :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
