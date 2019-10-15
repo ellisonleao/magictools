@@ -1,0 +1,23 @@
+name: links-validation
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies && show version
+      run: |
+        python -m pip install -U pip
+        pip install git+git://github.com/ellisonleao/vl.git@py3
+        vl --version
+    - name: Validate links
+      run: |
+        vl README.md --debug -w gamesounds.xyz,vungle.com,renderhjs.net -a 503,405,401,403
