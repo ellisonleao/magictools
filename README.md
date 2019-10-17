@@ -5,6 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+ <a href='https://ko-fi.com/S6S315DNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
 </p>
 
