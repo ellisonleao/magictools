@@ -180,7 +180,7 @@ Graphics
 #### Voxel Editors
 
 * :tada: [goxel](https://github.com/guillaumechereau/goxel)
-* :tada: [MagicaVoxel](https://ephtracy.github.io/)
+* :free: [MagicaVoxel](https://ephtracy.github.io/)
 * :free: [Q-Block](http://kyucon.com/qblock/)
 * :free: [Sproxel](http://sproxel.blogspot.com.br/)
 * :tada: [VoxelShop](https://blackflux.com/index.php)
