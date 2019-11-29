@@ -129,7 +129,7 @@ Graphics
 * :moneybag: [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
 * :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
 * :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
-* :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,    
+* :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 
 #### Vector/Image Editor
 
@@ -412,6 +412,7 @@ Must see
 
 ### Books
 
+- :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
