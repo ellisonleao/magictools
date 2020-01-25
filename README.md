@@ -78,6 +78,7 @@ Graphics
 * :free: [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models.
 * :free: [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 * :free: [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images.
+* :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs. 
 * :free: [TextureKing](http://www.textureking.com/) - Free material stock textures
 * :free: [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * :money_with_wings: [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art.
