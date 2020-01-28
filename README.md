@@ -144,7 +144,7 @@ Graphics
 * :moneybag: [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 * :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
-* :free: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
+* :tada: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 * :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 * :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
