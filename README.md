@@ -371,6 +371,7 @@ Audio
 * :tada: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
 * :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 * :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+* :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
 
 Board Games
 -----------
