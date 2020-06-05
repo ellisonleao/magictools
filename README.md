@@ -246,7 +246,7 @@ Code
 * :tada: [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * :tada: [Glide Engine](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
 * :tada: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
-* [Grid](http://www.planimeter.org/grid-sdk/) - Lua Game Engine.
+* :tada: [Grid](http://www.planimeter.org/grid-sdk/) - A multiplayer-first game engine for Lua.
 * [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
 * :tada: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 * :tada: [Heaps](https://heaps.io/) - Cross platform graphics for high performance games.
