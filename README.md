@@ -199,6 +199,7 @@ Code
 * :tada: [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D using `gfx-rs`.
 * :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 * :tada: [AndEngine](http://www.andengine.org) - 2D Android Game Engine
+* :tada: [Astera](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
 * :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * :tada: [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * :tada: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
