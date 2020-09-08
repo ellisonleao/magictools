@@ -122,7 +122,7 @@ Graphics
 * :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 * :tada: [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
 * :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
-* :free: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
+* :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
 
 #### Animation
 
@@ -155,7 +155,6 @@ Graphics
 * :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
 * :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 * [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
 * [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics
 * :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 * :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
@@ -495,7 +494,7 @@ Must see
 * :tada: [Quake](https://github.com/id-Software/Quake)
 * :tada: [SimCity](https://github.com/simhacker/micropolis)
 * :tada: [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
-* :tada: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
+* :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
 
 Ads
 ---
