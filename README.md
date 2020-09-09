@@ -330,7 +330,8 @@ Code
 * :tada: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
 * :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.
 * :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
-* :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#
+* :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
+* :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
 * :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
 * :tada: [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 * :tada: [Xenko](http://xenko.com/) - Open Source C# Game Engine.
