@@ -281,6 +281,7 @@ Code
 * :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 * :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
 * :free: [Monkey2](http://monkeycoder.co.nz/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
+* :free: [RobinVirtualMachine](https://github.com/Carpall/rvm/) - Stack and pointer based vm with expandable functionalities. Use rvm to not having to implement a vm for your programming language
 * :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 * :tada: [Nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 * :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
