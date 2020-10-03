@@ -283,6 +283,7 @@ Code
 * :free: [Monkey2](http://monkeycoder.co.nz/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 * :tada: [Nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+* :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 * :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
