@@ -162,7 +162,7 @@ Graphics
 #### Modeling
 
 * :tada: [Blender](http://www.blender.org/)
-* :free: [MakeHuman](http://www.makehuman.org/)
+* :free: [MakeHuman](http://www.makehumancommunity.org/)
 * :free: [sculptris](http://pixologic.com/sculptris/)
 * :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 * :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
