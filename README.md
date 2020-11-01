@@ -200,6 +200,7 @@ Code
 * :tada: [AndEngine](http://www.andengine.org) - 2D Android Game Engine
 * :tada: [Astera](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
 * :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
+* :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
 * :tada: [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * :tada: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * :tada: [bitsy](https://ledoux.itch.io/bitsy) - A little editor for little games or worlds. The goal is to make it easy to make games where you can walk around and talk to people and be somewhere.
@@ -325,7 +326,6 @@ Code
 * :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 * :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 * :tada: [Three.js](http://threejs.org/) - Javascript 3D Library.
-* :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
 * :tada: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 * :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
 * :money_with_wings: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
