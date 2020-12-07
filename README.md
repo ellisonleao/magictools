@@ -209,7 +209,7 @@ Code
 * :tada: [bitsy](https://ledoux.itch.io/bitsy) - A little editor for little games or worlds. The goal is to make it easy to make games where you can walk around and talk to people and be somewhere.
 * :tada: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
 * :money_with_wings: [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers.
-* :tada: [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
+* :tada: [Blitz3D](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
 * :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 * :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 * :tada: [Cerberus X](https://www.cerberus-x.com/wordpress/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
