@@ -335,7 +335,7 @@ Code
 * :money_with_wings: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
 * :free: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 * :tada: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
-* :free: [ursina](https://www.ursinaengine.org/) - A game engine powered by python and panda3d.
+* :tada: [ursina](https://www.ursinaengine.org/) - A game engine powered by python and panda3d.
 * :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.
 * :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 * :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
