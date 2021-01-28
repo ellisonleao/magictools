@@ -35,6 +35,8 @@ A curated list of game development resources to make **magic** happen.
 - [Code](#code)
   - [Engines and Frameworks](#engines-and-frameworks)
   - [AI](#ai)
+- [Tools](#tools)
+  - [Narrative Design](#narrative-design)
 - [Audio](#audio)
   - [Collections](#collections)
   - [Music and Audio Editors](#music-and-audio-editors)
@@ -349,6 +351,13 @@ Code
 * :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
 * :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
+Tools
+--------
+*Useful tools for game development*
+
+#### Narrative Design
+
+* :free: [Rapid Quest](https://github.com/radiantone/rapidquest) - Visual environment for designing branching narratives for games
 
 Audio
 -----
