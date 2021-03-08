@@ -79,7 +79,6 @@ Graphics
 * :free: [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images.
 * :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs.
 * :free: [TextureKing](http://www.textureking.com/) - Free material stock textures
-* :free: [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online tree generator.
 * :money_with_wings: [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art.
 * :free: [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine.
 
