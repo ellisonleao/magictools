@@ -245,6 +245,7 @@ Code
 * :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 * :money_with_wings: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * :tada: [GB Studio](https://www.gbstudio.dev/) - A free and easy to use retro adventure game creator for your favourite handheld video game system.
+* :tada: [GDevelop](https://gdevelop-app.com/) - An open-source, cross-platform 2D game engine designed for everyone - it's extensible, fast and easy to learn.
 * :tada: [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 * :tada: [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * :tada: [Glide Engine](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
