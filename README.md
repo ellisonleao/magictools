@@ -292,6 +292,7 @@ Code
 * :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 * :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
+* :tada: [ÖbEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML !
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 * :tada: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
