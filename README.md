@@ -283,6 +283,7 @@ Code
 * :tada: [LÖVE](http://love2d.org) - Lua 2D Game Engine.
 * :tada: [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 * :tada: [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
+* :tada: [macrosquad](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
 * :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 * :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 * :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
