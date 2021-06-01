@@ -92,6 +92,7 @@ Graphics
 * :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 * :tada: [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - Combine multiple images into a single sprite sheet and generate a txt map of it.
 * :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
+* :tada: [Tilesplit](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
 #### Bitmap Compression
 
