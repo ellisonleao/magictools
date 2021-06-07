@@ -65,7 +65,6 @@ Graphics
 * :money_with_wings: [CGTextures](http://www.textures.com) - A large collection of textures.
 * :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 * :free: [Games-Icons Set](http://game-icons.net/) - free icons for your games.
-* :free: [Google Poly](https://poly.google.com/) - Searchable database of 3D models with rotatable previews. (Only remixable models are downloadable.)
 * :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 * :money_with_wings: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets
 * :free: [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
