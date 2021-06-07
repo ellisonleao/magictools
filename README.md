@@ -118,7 +118,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [ArrayPainter](http://arraypainter.com/) - Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 - :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 - :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
-- :tada: [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor.
+- :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 - :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 - :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
 
@@ -384,7 +384,6 @@ _Blogs, portals, magazines and more_
 ### Blogs and Portals
 
 - [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
-- [BigSushi](http://www.bigsushi.fm/)
 - [Designer Notes](http://www.designer-notes.com/)
 - [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
 - [Extraguy](http://www.extraguy.com/)
