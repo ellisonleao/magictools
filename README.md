@@ -386,7 +386,6 @@ _Blogs, portals, magazines and more_
 - [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 - [Designer Notes](http://www.designer-notes.com/)
 - [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
-- [Extraguy](http://www.extraguy.com/)
 - [Gamasutra](http://www.gamasutra.com/)
 - [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 - [GameDevs.org](http://gamedevs.org/)
