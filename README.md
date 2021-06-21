@@ -312,6 +312,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 - :tada: [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 - :tada: [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
+- :tada: [Solarus](https://www.solarus-games.org/) - Cross-platform 2D Action/Adventure C++ game engine with Lua API and game editor.
 - :tada: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
 - :free: [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D Game Engine.
 - :tada: [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
