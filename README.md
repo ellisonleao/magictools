@@ -79,6 +79,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs.
 - :free: [TextureKing](http://www.textureking.com/) - Free material stock textures
 - :money_with_wings: [Vecteezy](http://www.vecteezy.com/) - Free Vector Art.
+- :free: [3DModelsCC0](https://www.3dmodelscc0.com//) - Public domain 3D Models.
 
 #### Spritesheet Tools
 
