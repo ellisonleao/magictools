@@ -277,6 +277,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 - :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 - :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
+- :free: [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is a fantasy computer for making, playing and sharing 2D games and programs written in the modern [MiniScript](https://miniscript.org) language.
 - :free: [Monkey2](http://monkeycoder.co.nz/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 - :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 - :tada: [Nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
