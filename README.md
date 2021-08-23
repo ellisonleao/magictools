@@ -218,7 +218,6 @@ _Set of game frameworks, engines and platforms_
 - :money_with_wings: [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 - :moneybag: [CopperCube3D](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 - :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
-- :free: [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 - :tada: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 - :tada: [Dear Imgui](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 - :free: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
@@ -315,6 +314,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 - :tada: [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 - :tada: [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
+- :tada: [Solar2D](https://solar2d.com/) - A Lua based game engine with focus on ease of iterations and usage.
 - :tada: [Solarus](https://www.solarus-games.org/) - Cross-platform 2D Action/Adventure C++ game engine with Lua API and game editor.
 - :tada: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
 - :free: [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D Game Engine.
