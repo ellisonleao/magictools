@@ -205,6 +205,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
 - :money_with_wings: [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers.
 - :tada: [Blitz3D](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
+- :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 - :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 - :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - :tada: [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
