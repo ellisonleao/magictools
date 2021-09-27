@@ -321,6 +321,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 - :tada: [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 - :money_with_wings: [Stencyl](http://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
+- :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 - :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - :tada: [Three.js](http://threejs.org/) - Javascript 3D Library.
@@ -336,7 +337,6 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
 - :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
 - :tada: [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
-- :tada: [Xenko](http://xenko.com/) - Open Source C# Game Engine.
 
 ### AI
 
