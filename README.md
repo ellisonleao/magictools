@@ -379,6 +379,7 @@ _Audio editors, sounds collections and more._
 
 _Tools for making board games_
 
+- :free: [Iterary](http://www.iterary.com) - Board Game Design Tool.
 - :free: [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator.
 - :tada: [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
 
