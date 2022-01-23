@@ -84,6 +84,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Spritesheet Tools
 
 - :tada: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
+- :tada: [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
 - :free: [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
