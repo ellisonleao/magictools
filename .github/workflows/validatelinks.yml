@@ -15,4 +15,4 @@ jobs:
       - uses: actions/checkout@v2.3.4
 
       - run: go get github.com/npxbr/verify-links/cmd/vl
-      - run: vl -w thebloomapp.com,p3nlhclust404.shr.prod.phx3.secureserver.net,horde3d.org,puzzlescript.net,hacknplan.com,taiga.io,p1.untergrund.net README.md 
+      - run: vl -a 403 -w poly.pizza,thebloomapp.com,p3nlhclust404.shr.prod.phx3.secureserver.net,horde3d.org,puzzlescript.net,hacknplan.com,taiga.io,p1.untergrund.net README.md 

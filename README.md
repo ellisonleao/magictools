@@ -85,7 +85,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :tada: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
 - :tada: [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
-- :free: [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
@@ -108,12 +107,10 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
 - :moneybag: [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
-- :moneybag: [STG](http://www.seamlesstexturegenerator.com/) - a tool for creating professional seamlessly-tileable textures from photographs quickly and easily.
 
 #### Character Generators
 
 - :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-- :tada: [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics
 
 #### Tile/Level Editors
 
@@ -193,7 +190,6 @@ _Set of game frameworks, engines and platforms_
 
 ### Engines and Frameworks
 
-- :free: [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 - :tada: [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
 - :tada: [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D using `gfx-rs`.
 - :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
@@ -213,18 +209,17 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 - :tada: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
-- :free: [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
+- :free: [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
 - :tada: [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 - :tada: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
-- :money_with_wings: [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
-- :moneybag: [CopperCube3D](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
+- :paid: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
+- :money_with_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 - :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 - :tada: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 - :tada: [Dear Imgui](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
-- :free: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
+- :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 - :tada: [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 - :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
-- :tada: [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 - :tada: [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine
 - :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 - :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
@@ -268,8 +263,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [LibGDX](https://libgdx.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 - :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
 - :tada: [LITIengine](http://litiengine.com/) - 2D Java Game Engine. It provides all the infrastructure to create tile based 2D games with plain java
-- :tada: [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
-- :free: [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
+- :free: [Lumberyard](https://aws.amazon.com/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
 - :tada: [LumixEngine](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
 - :tada: [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
 - :tada: [LÖVE](http://love2d.org) - Lua 2D Game Engine.
@@ -279,28 +273,25 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 - :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
 - :free: [Mini Micro](https://miniscript.org/MiniMicro/) - Mini Micro is a fantasy computer for making, playing and sharing 2D games and programs written in the modern [MiniScript](https://miniscript.org) language.
-- :free: [Monkey2](http://monkeycoder.co.nz/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 - :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
 - :tada: [Nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - :tada: [nCine](https://ncine.github.io/) - A cross-platform 2D game engine with an emphasis on performance, written in C++11 and optionally scriptable in Lua.
 - :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
-- :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
+- :tada: [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library.
 - :tada: [ÖbEngine](https://github.com/Sygmei/ObEngine) - 2D Game Engine with Lua Scripting made on top of SFML !
 - :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
 - :tada: [Ogre3D](http://www.ogre3d.org/) - is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 - :tada: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
 - :tada: [openFrameworks](https://openframeworks.cc/) - An open source and free C++ toolkit for creative coding.
 - :tada: [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
-- :money_with_wings: [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
-- :tada: [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas.
+- :tada: [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 - :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 - :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 - :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
-- :tada: [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 - :tada: [Phaser](http://phaser.io/) - free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - :tada: [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
 - :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
-- :money_with_wings: [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles.
+- :tada: [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 - :tada: [Planck.js](http://piqnt.com/planck.js/) - 2D JavaScript physics engine for cross-platform HTML5 game development.
 - :money_with_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
@@ -337,7 +328,6 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
 - :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
 - :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
-- :tada: [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 
 ### AI
 
