@@ -154,7 +154,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
 - :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 - [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-- [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 
