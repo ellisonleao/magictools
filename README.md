@@ -215,6 +215,7 @@ _Set of game frameworks, engines and platforms_
 - :paid: [Construct](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 - :money_with_wings: [CopperCube](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 - :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
+- :tada: [ct.js](https://ctjs.rocks/) — this 2D game engine makes learning programming fun and game development easy by its visual tools, good docs, and flexible, modular library.
 - :tada: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 - :tada: [Dear Imgui](https://github.com/ocornut/imgui/) - A bloat-free immediate mode GUI for C++ with minimal dependencies.
 - :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
