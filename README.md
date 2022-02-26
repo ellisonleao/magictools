@@ -300,6 +300,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 - :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 - :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
+- :tada: [Pyxel](https://github.com/kitao/pyxel) - a retro game engine for Python.
 - :moneybag: [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 - :tada: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - :tada: [raylib](https://www.raylib.com/) - a simple and easy-to-use library to enjoy videogames programming, hardware accelerated with OpenGL (1.1, 2.1, 3.3 or ES 2.0)
