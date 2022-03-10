@@ -424,6 +424,7 @@ _Blogs, portals, magazines and more_
 * [Game Programming Gems](http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Game Scripting Mastery](http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578)
+* [Geometry for Programmers (book)](https://www.manning.com/books/geometry-for-programmers)
 * [Hello Scratch: Learn to Program by Making Arcade Games](https://www.manning.com/books/hello-scratch)
 * [Level Up!](http://www.amazon.com/dp/047068867X?tag=game-prog-books-20)
 * [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
