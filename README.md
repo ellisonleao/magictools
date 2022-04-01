@@ -323,7 +323,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 - :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
 - :money_with_wings: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
-- :free: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
+- :money_with_wings: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 - :tada: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.
 - :tada: [ursina](https://www.ursinaengine.org/) - A game engine powered by python and panda3d.
 - :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.
