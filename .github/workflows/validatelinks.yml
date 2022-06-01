@@ -10,9 +10,9 @@ jobs:
       - uses: actions/setup-go@v2.1.3
         id: go
         with:
-          go-version: "^1.15.5"
+          go-version: "^1.18.2"
 
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@v3.2.0
 
-      - run: go get github.com/npxbr/verify-links/cmd/vl
+      - run: go install github.com/npxbr/verify-links/cmd/vl@latest
       - run: vl -a 403 -w poly.pizza,thebloomapp.com,p3nlhclust404.shr.prod.phx3.secureserver.net,horde3d.org,puzzlescript.net,hacknplan.com,taiga.io,p1.untergrund.net README.md 
