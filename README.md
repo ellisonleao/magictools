@@ -205,7 +205,6 @@ _Set of game frameworks, engines and platforms_
 - :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 - :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 - :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
-- :tada: [CRYENGINE](https://github.com/CRYTEK-CRYENGINE/CRYENGINE) - A pay what you want next gen 3D game engine written in C++.
 - :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 - :tada: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
@@ -232,7 +231,6 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
 - :tada: [Flame](https://github.com/flame-engine/flame) - a minimalist game engine for Flutter
 - :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
-- :tada: [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3.
 - :moneybag: [GameMaker](http://www.yoyogames.com/en/gamemaker) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 - :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 - :money_with_wings: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
@@ -260,7 +258,6 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 - :tada: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
 - :tada: [KogGE](https://korge.soywiz.com) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
-- :tada: [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 - :money_with_wings: [Leadwerks](https://www.leadwerks.com/) - Easy-to-learn game engine for 3D and VR.
 - :tada: [LibGDX](https://libgdx.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 - :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
@@ -395,7 +392,6 @@ _Blogs, portals, magazines and more_
 - [HobbyGameDev](http://www.hobbygamedev.com/)
 - [Html5 Game Development](http://www.html5gamedevelopment.com/)
 - [IndieDB](http://www.indiedb.com/)
-- [Indius](http://indius.org/)
 - [Mod DB](http://www.moddb.com/)
 - [Java Gaming](http://www.java-gaming.org/)
 - [Lost Garden](http://www.lostgarden.com/)
