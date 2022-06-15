@@ -458,6 +458,7 @@ _Blogs, portals, magazines and more_
 - [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 - [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 - [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat:
+- [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - Popular yearly game jam 
 - [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
 - [Ludum Dare](http://ludumdare.com/) - very popular game jam
 - [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
