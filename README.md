@@ -512,6 +512,7 @@ _Online courses, tutorials, screencasts_
 - :free: [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 - :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 - :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+- :free: [A curated list of Game development courses](https://skillcombo.com/courses/development/game-development/free/)
 
 ### Computer Graphics
 
