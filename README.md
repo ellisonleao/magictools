@@ -241,7 +241,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Glide Engine](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
 - :tada: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
 - :tada: [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
-- :tada: [Grid](http://www.planimeter.org/grid-sdk/) - A multiplayer-first game engine for Lua.
+- :tada: [Grid](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
 - :tada: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 - :tada: [Heaps](https://heaps.io/) - Cross platform graphics for high performance games.
 - :tada: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
@@ -403,7 +403,6 @@ _Blogs, portals, magazines and more_
 - [Slidedb](http://www.slidedb.com/) - On Slide DB we give developers a community they can share their ideas with and showcase the work they are doing, beyond the basic app stores and the highly contested "top charts".
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
-- [TruePCGaming](http://truepcgaming.com/)
 - [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 - [iforce2d](http://www.iforce2d.net/)
 - [indiegames](http://indiegames.com/index.html)
