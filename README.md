@@ -119,6 +119,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 - :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 - :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
+- :tada: [Material Maker](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 
 #### Animation
 
