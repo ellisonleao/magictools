@@ -119,6 +119,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 - :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 - :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
+- :tada: [Material Maker](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 
 #### Animation
 
@@ -130,6 +131,8 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 - :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
+- :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
+
 
 #### Vector/Image Editor
 
