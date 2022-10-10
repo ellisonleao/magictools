@@ -116,23 +116,22 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [ArrayPainter](http://arraypainter.com/) - Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 - :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 - :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
+- :tada: [Material Maker](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 - :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 - :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 - :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
-- :tada: [Material Maker](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 
 #### Animation
 
-- :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
-- 🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
-- :moneybag: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
-- :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
+- :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 - :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
 - :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+- :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
+- 🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
 - :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
-- :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 - :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
-
+- :moneybag: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
+- :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
 
 #### Vector/Image Editor
 
@@ -197,7 +196,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D using `gfx-rs`.
 - :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 - :tada: [Astera](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
-- :tada  [axys] (https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+- :tada [axys] (https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 - :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 - :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
 - :tada: [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
@@ -463,7 +462,7 @@ _Blogs, portals, magazines and more_
 - [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 - [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 - [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat:
-- [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - Popular yearly game jam 
+- [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - Popular yearly game jam
 - [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
 - [Ludum Dare](http://ludumdare.com/) - very popular game jam
 - [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
