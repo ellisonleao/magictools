@@ -322,6 +322,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 - :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
+- :tada: [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE is a small, completely public domain fixed point physically inaccurate pure C header-only 3D physics engine built to run on tiny computers such as embedded and even bare metal.
 - :tada: [Three.js](http://threejs.org/) - Javascript 3D Library.
 - :tada: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 - :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
