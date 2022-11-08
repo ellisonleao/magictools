@@ -94,7 +94,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Bitmap Compression
 
 - :tada: [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
-- :money_with_wings: [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms.
 - :free: [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
 - :free: [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
 - :tada: [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool.
@@ -143,7 +142,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 - :tada: [LibreSprite](https://libresprite.github.io/) - LibreSprite is an open source fork of Aseprite.
 - :free: [Multipaint](http://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
-- :moneybag: [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 - :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
@@ -359,7 +357,7 @@ _Audio editors, sounds collections and more._
 - :tada: [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 - :free: [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 - :free: [Audiotool](http://www.audiotool.com/app) - Online music producer.
-- :free: [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
+- :free: [Bfxr](https://www.bfxr.net/) - A tool to make sound effects for computer games.
 - :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound.
 - :free: [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
 - :free: [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
@@ -368,10 +366,10 @@ _Audio editors, sounds collections and more._
 - :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 - :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms.
 - :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
+- :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
 - :tada: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
 - :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 - :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
-- :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
 
 ## Board Games
 
@@ -447,11 +445,9 @@ _Blogs, portals, magazines and more_
 
 ### Magazines
 
-- :free: [Casual Connect](http://casualconnect.org/)
 - :free: [Game Developer Magazine](http://www.gdcvault.com/gdmag)
 - :free: [IndieMag](https://www.indiemag.fr/)
 - :free: [Making Games](http://www.makinggames.biz/)
-- :free: [indie-o-rama](http://www.indieorama.com/)
 
 ### Videos/Podcasts
 
