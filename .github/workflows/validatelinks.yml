@@ -15,4 +15,4 @@ jobs:
       - uses: actions/checkout@v3.0.2
 
       - run: go install github.com/ellisonleao/vl/cmd/vl@latest
-      - run: vl -a 403 -t 30s -w poly.pizza,horde3d.org,p1.untergrund.net,bfxr.net README.md
+      - run: vl -a 503,403 -t 30s -w horde3d.org,p1.untergrund.net,bfxr.net README.md
