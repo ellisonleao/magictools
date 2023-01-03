@@ -291,7 +291,6 @@ _Set of game frameworks, engines and platforms_
 - :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 - :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
 - :tada: [Phaser](http://phaser.io/) - free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- :tada: [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
 - :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - :tada: [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
