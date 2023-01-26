@@ -4,7 +4,7 @@ name: CI
 on: [push]
 
 jobs:
-  test:
+  validate-links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-go@v3.2.0
