@@ -71,6 +71,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 - :money_with_wings: [PlainTextures](http://www.plaintextures.com/) - Free high resolution textures, brushes and photos
+- :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
 - :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
 - :free: [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 - :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
