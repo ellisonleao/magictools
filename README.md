@@ -166,7 +166,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 - :moneybag: [modo](https://www.foundry.com/products/modo)
 - :free: [Clara.io](https://clara.io/)
-- :moneybag: [ZBrush](http://pixologic.com/)
+- :moneybag: [ZBrush](https://pixologic.com/)
 
 #### Terrain Generators
 
