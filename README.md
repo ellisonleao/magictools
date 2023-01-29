@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
-    <a href="#"><img src="https://github.com/ellisonleao/magictools/actions/workflows/validatelinks.yml/badge.svg" alt="build"/></a>
+    <a href="#"><img src="https://github.com/ellisonleao/magictools/actions/workflows/validate-links.yml/badge.svg" alt="build"/></a>
 </p>
 
 A curated list of game development resources to make **magic** happen.
@@ -88,7 +88,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
-- :tada: [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - Combine multiple images into a single sprite sheet and generate a txt map of it.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 - :tada: [Tilesplit](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
@@ -496,7 +495,7 @@ _We still need to make some money, right?_
 - [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
 - [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 - [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
-- [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
+- [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 - [Vungle](https://vungle.com/) - Video Ads service.
 
 ## Learn
