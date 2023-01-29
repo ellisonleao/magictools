@@ -295,7 +295,6 @@ _Set of game frameworks, engines and platforms_
 - :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 - :tada: [Planck.js](http://piqnt.com/planck.js/) - 2D JavaScript physics engine for cross-platform HTML5 game development.
 - :money_with_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
-- :tada: [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 - :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 - :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 - :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
@@ -445,7 +444,6 @@ _Blogs, portals, magazines and more_
 
 - :free: [Game Developer Magazine](http://www.gdcvault.com/gdmag)
 - :free: [IndieMag](https://www.indiemag.fr/)
-- :free: [Making Games](http://www.makinggames.biz/)
 
 ### Videos/Podcasts
 
