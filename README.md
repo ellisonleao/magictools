@@ -254,7 +254,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 - :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 - :tada: [JNGL](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
-- :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+- :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 - :tada: [Juno](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 - :tada: [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 - :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
