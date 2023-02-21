@@ -467,6 +467,7 @@ _Blogs, portals, magazines and more_
 - :money_with_wings: [HacknPlan](http://hacknplan.com/) - Project management for game developers
 - :money_with_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
 - :money_with_wings: [Trello](https://trello.com/) - Organize and prioritize projects
+- :erd: [ERD Lab](https://app.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ### Complete Game Sources
 
