@@ -387,6 +387,7 @@ _Blogs, portals, magazines and more_
 - [Designer Notes](http://www.designer-notes.com/)
 - [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
 - [Gamasutra](http://www.gamasutra.com/)
+- [Game Dev Digest Newsletter Index](https://gamedevdigest.com/digests/)
 - [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 - [GameDevs.org](http://gamedevs.org/)
 - [GameJolt](http://gamejolt.com/)
