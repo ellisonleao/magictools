@@ -156,6 +156,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
+- :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
 
 #### Modeling
 
