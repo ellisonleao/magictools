@@ -157,6 +157,9 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
+- :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
+- :tada: [CR8tracer](http://cr8.netfirms.com/tracer.html) - Convert bitmap images into monochrome vector formats.
+- :money_with_wings: [Vector mMgic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 
 #### Modeling
 
