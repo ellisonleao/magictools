@@ -136,6 +136,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 - :moneybag: [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer
 - :money_with_wings: [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
+- :tada: [CR8tracer](http://cr8.netfirms.com/tracer.html) - Convert bitmap images into monochrome vector formats.
 - :tada: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
@@ -144,7 +145,8 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
-- [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+- :moneybag: [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+- :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 - :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
 - :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
@@ -153,13 +155,11 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 - :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
 - :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
-- [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
+- :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
-- :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
-- :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
-- :tada: [CR8tracer](http://cr8.netfirms.com/tracer.html) - Convert bitmap images into monochrome vector formats.
 - :money_with_wings: [Vector mMgic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
+- :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
 
 #### Modeling
 
