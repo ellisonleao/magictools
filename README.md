@@ -171,10 +171,11 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [MakeHuman](http://www.makehumancommunity.org/)
 - :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 - :moneybag: [modo](https://www.foundry.com/products/modo)
-- :free: [sculptris](http://pixologic.com/sculptris/)
+- :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
 - :money_with_wings: [Spline](https://spline.design/) - A 3d colalaborative real-time
 - :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
 - :moneybag: [ZBrush](https://pixologic.com/)
+- :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculpris by MAXON
 
 #### Terrain Generators
 
