@@ -163,13 +163,17 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Modeling
 
-- :tada: [Blender](http://www.blender.org/)
-- :free: [MakeHuman](http://www.makehumancommunity.org/)
-- :free: [sculptris](http://pixologic.com/sculptris/)
-- :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 - :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
-- :moneybag: [modo](https://www.foundry.com/products/modo)
+- :money_with_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
+- :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the wolrd
 - :free: [Clara.io](https://clara.io/)
+- :money_with_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
+- :free: [MakeHuman](http://www.makehumancommunity.org/)
+- :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
+- :moneybag: [modo](https://www.foundry.com/products/modo)
+- :free: [sculptris](http://pixologic.com/sculptris/)
+- :money_with_wings: [Spline](https://spline.design/) - A 3d colalaborative real-time
+- :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
 - :moneybag: [ZBrush](https://pixologic.com/)
 
 #### Terrain Generators
