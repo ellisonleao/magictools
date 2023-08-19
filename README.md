@@ -205,7 +205,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
 - :tada: [asimov-ts](https://github.com/pedrozaalex/asimov-ts) - A type safe (as much as possible) engine for the web written in TypeScript.
 - :tada: [Astera](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
-- :tada: [axys] (https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+- :tada: [axys](https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 - :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 - :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
 - :tada: [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
