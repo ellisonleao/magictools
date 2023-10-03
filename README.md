@@ -510,6 +510,7 @@ _Online courses, tutorials, screencasts_
 ### General Game Development
 
 - :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
+- :free: [Manual Livre de Blender: Blender manual with material in Portuguese](http://nafergo.github.io/manual-livre-blender/index.html)
 - :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 - :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 - :free: [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
