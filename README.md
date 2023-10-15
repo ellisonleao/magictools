@@ -509,6 +509,10 @@ _Online courses, tutorials, screencasts_
 
 ### General Game Development
 
+- :moneybag: [Coursera: Game Design and Development with Unity 2020 Specialization](https://www.coursera.org/specializations/game-design-and-development)
+- :moneybag: [Coursera: C++ Programming for Unreal Game Development Specialization](https://www.coursera.org/specializations/cplusplusunrealgamedevelopment)
+- :moneybag: [Coursera: C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development?)
+- :moneybag: [Coursera: Game Design: Art and Concepts Specialization](https://www.coursera.org/specializations/game-design)
 - :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 - :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 - :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
