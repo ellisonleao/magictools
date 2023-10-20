@@ -46,11 +46,11 @@ A curated list of game development resources to make **magic** happen.
   - [Game Jams](#game-jams)
   - [Project Management](#project-management)
   - [Complete Game Sources](#complete-game-sources)
+  - [Communities](#communities)
 - [Ads](#ads)
 - [Learn](#learn)
   - [General Game Development](#general-game-development)
   - [Computer Graphics](#computer-graphics)
-- [Communities](#communities)
 
 ## Graphics
 
@@ -493,6 +493,17 @@ _Blogs, portals, magazines and more_
 - :tada: [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 - :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
 
+### Communities
+
+_Where to find other game developers_
+
+- [Reddit r/gamedev](https://www.reddit.com/r/gamedev/)
+- [Game Dev League](https://discord.com/invite/gamedev)
+- [Reddit r/IndieGaming](https://www.reddit.com/r/IndieGaming/)
+- [Brackeys Discord](https://discord.gg/brackeys)
+- [Brackeys Forum](https://forum.brackeys.com/)
+- [GameDev.tv](https://community.gamedev.tv/)
+
 ## Ads
 
 _We still need to make some money, right?_
@@ -524,13 +535,4 @@ _Online courses, tutorials, screencasts_
 - :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 - :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
 
-## Communities
 
-_Where to find other game developers_
-
-- [Reddit r/gamedev](https://www.reddit.com/r/gamedev/)
-- [Game Dev League](https://discord.com/invite/gamedev)
-- [Reddit r/IndieGaming](https://www.reddit.com/r/IndieGaming/)
-- [Brackeys Discord](https://discord.gg/brackeys)
-- [Brackeys Forum](https://forum.brackeys.com/)
-- [GameDev.tv](https://community.gamedev.tv/)
