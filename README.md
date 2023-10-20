@@ -135,7 +135,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 - :moneybag: [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer
 - :money_with_wings: [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
-- :tada: [CR8tracer](http://cr8.netfirms.com/tracer.html) - Convert bitmap images into monochrome vector formats.
 - :tada: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
@@ -534,5 +533,3 @@ _Online courses, tutorials, screencasts_
 - :free: [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 - :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
-
-
