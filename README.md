@@ -229,6 +229,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 - :tada: [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 - :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
+- :tada: [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 - :tada: [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine
 - :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 - :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
