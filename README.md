@@ -112,12 +112,12 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Tile/Level Editors
 
-- :free: [Sprite Fusion](https://spritefusion.com/) - A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
 - :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 - :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
 - :tada: [Material Maker](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 - :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 - :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
+- :free: [Sprite Fusion](https://spritefusion.com/) - A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
 - :tada: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
 
 #### Animation
