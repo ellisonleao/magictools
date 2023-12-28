@@ -1,0 +1,13 @@
+name: CI
+on: [pull_request]
+jobs:
+  validate-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-go@v3
+        id: go
+        with:
+          go-version: "^1.19.5"
+      - uses: actions/checkout@v3
+      - run: go install github.com/ellisonleao/vl/cmd/vl@v0.1.0
+      - run: vl -a 503,403 -t 30s -w html5gamedevelopment.com,poly.pizza,horde3d.org,p1.untergrund.net,bfxr.net,tigsource.com,gamesounds.xyz,jpct.net README.md

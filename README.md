@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
-    <a href="#"><img src="https://github.com/ellisonleao/magictools/actions/workflows/validatelinks.yml/badge.svg" alt="build"/></a>
+    <a href="#"><img src="https://github.com/ellisonleao/magictools/actions/workflows/validate-links.yml/badge.svg" alt="build"/></a>
 </p>
 
 A curated list of game development resources to make **magic** happen.
@@ -46,6 +46,7 @@ A curated list of game development resources to make **magic** happen.
   - [Game Jams](#game-jams)
   - [Project Management](#project-management)
   - [Complete Game Sources](#complete-game-sources)
+  - [Communities](#communities)
 - [Ads](#ads)
 - [Learn](#learn)
   - [General Game Development](#general-game-development)
@@ -67,7 +68,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets
 - :free: [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
 - :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
-- :free: [OpenClipart](https://openclipart.org/) - Collection of free cliparts.
 - :free: [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 - :money_with_wings: [PlainTextures](http://www.plaintextures.com/) - Free high resolution textures, brushes and photos
@@ -88,7 +88,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
-- :tada: [Sprite Sheet Packer](https://github.com/nickgravelyn/SpriteSheetPacker/) - Combine multiple images into a single sprite sheet and generate a txt map of it.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 - :tada: [Tilesplit](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
@@ -123,7 +122,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Animation
 
 - :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
-- :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
 - :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 - 🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
@@ -145,29 +143,36 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
-- [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+- :moneybag: [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+- :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 - :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
-- :moneybag: [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free
 - :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 - :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 - :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 - :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
 - :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
-- [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
+- :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
-- :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
+- :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
+- :money_with_wings: [Vector mMgic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
+- :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
 
 #### Modeling
 
-- :tada: [Blender](http://www.blender.org/)
-- :free: [MakeHuman](http://www.makehumancommunity.org/)
-- :free: [sculptris](http://pixologic.com/sculptris/)
-- :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 - :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
-- :moneybag: [modo](https://www.foundry.com/products/modo)
+- :money_with_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
+- :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the wolrd
 - :free: [Clara.io](https://clara.io/)
-- :moneybag: [ZBrush](http://pixologic.com/)
+- :money_with_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
+- :free: [MakeHuman](http://www.makehumancommunity.org/)
+- :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
+- :moneybag: [modo](https://www.foundry.com/products/modo)
+- :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
+- :money_with_wings: [Spline](https://spline.design/) - A 3d colalaborative real-time
+- :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
+- :moneybag: [ZBrush](https://pixologic.com/)
+- :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculpris by MAXON
 
 #### Terrain Generators
 
@@ -183,6 +188,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [MagicaVoxel](https://ephtracy.github.io/)
 - :free: [Q-Block](http://kyucon.com/qblock/)
 - :free: [Sproxel](http://sproxel.blogspot.com.br/)
+- :free: [Vengi](https://mgerhardy.github.io/vengi/)
 
 ## Code
 
@@ -190,11 +196,13 @@ _Set of game frameworks, engines and platforms_
 
 ### Engines and Frameworks
 
+- :tada: [6502 Unit Test executor](https://github.com/AsaiYusuke/6502_test_executor) - A cross-platform unit testing tool for MOS 6502 assembly. (i.e. NES)
 - :tada: [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers.
 - :tada: [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D using `gfx-rs`.
 - :tada: [amulet](http://www.amulet.xyz/) - A free Lua-based audio/visual toolkit suitable for small games and experimentation. It runs on Windows, Mac, Linux, HTML5 and iOS.
+- :tada: [asimov-ts](https://github.com/pedrozaalex/asimov-ts) - A type safe (as much as possible) engine for the web written in TypeScript.
 - :tada: [Astera](https://github.com/tek256/astera) - 2D C99 Cross Platform Game Library / Framework
-- :tada: [axys] (https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
+- :tada: [axys](https://github.com/axys1/axys) - A fork of Cocos2d-x-4.0, it has Full Support OpenAL for all platforms, single texture multi GPU texture handler and C++ 17.
 - :tada: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 - :tada: [Babylon.js](https://www.babylonjs.com/) - Javascript 3D Library.
 - :tada: [Bevy](https://bevyengine.org/) - A refreshingly simple data-driven game engine built in Rust
@@ -221,6 +229,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 - :tada: [DEM Net Elevation API C#](https://github.com/dem-net/DEM.Net) - Terrain generation from real data with textures, normal maps, glTF, OBJ, STL support
 - :tada: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
+- :tada: [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#.
 - :tada: [E.B.U.R.P](http://pents90.github.io/eburp/) - The Eight-Bit Universal Role Playing Engine
 - :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 - :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
@@ -232,6 +241,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
 - :tada: [Flame](https://github.com/flame-engine/flame) - a minimalist game engine for Flutter
 - :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
+- :tada: :money_with_wings: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
 - :moneybag: [GameMaker](http://www.yoyogames.com/en/gamemaker) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 - :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 - :money_with_wings: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
@@ -254,7 +264,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 - :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 - :tada: [JNGL](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
-- :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+- :free: [JPCT](https://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 - :tada: [Juno](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 - :tada: [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 - :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
@@ -270,6 +280,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [LÖVE](http://love2d.org) - Lua 2D Game Engine.
 - :tada: [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 - :tada: [macroquad](https://github.com/not-fl3/macroquad) - The cross-platform game engine in Rust.
+- :tada: [mach](https://machengine.org/) - game engine & graphics toolkit build in zig.
 - :tada: [Magnum](http://magnum.graphics/) - a lightweight and modular 2D/3D graphics/game engine written in C++11
 - :tada: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 - :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
@@ -290,13 +301,11 @@ _Set of game frameworks, engines and platforms_
 - :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 - :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
 - :tada: [Phaser](http://phaser.io/) - free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- :tada: [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
 - :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - :tada: [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
 - :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 - :tada: [Planck.js](http://piqnt.com/planck.js/) - 2D JavaScript physics engine for cross-platform HTML5 game development.
 - :money_with_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
-- :tada: [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 - :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 - :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 - :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
@@ -446,7 +455,6 @@ _Blogs, portals, magazines and more_
 
 - :free: [Game Developer Magazine](http://www.gdcvault.com/gdmag)
 - :free: [IndieMag](https://www.indiemag.fr/)
-- :free: [Making Games](http://www.makinggames.biz/)
 
 ### Videos/Podcasts
 
@@ -455,7 +463,6 @@ _Blogs, portals, magazines and more_
 
 ### Game Jams
 
-- [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 - [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 - [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat:
 - [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - Popular yearly game jam
@@ -488,6 +495,17 @@ _Blogs, portals, magazines and more_
 - :tada: [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 - :free: [VVVVVV](https://github.com/TerryCavanagh/VVVVVV)
 
+### Communities
+
+_Where to find other game developers_
+
+- [Reddit r/gamedev](https://www.reddit.com/r/gamedev/)
+- [Game Dev League](https://discord.com/invite/gamedev)
+- [Reddit r/IndieGaming](https://www.reddit.com/r/IndieGaming/)
+- [Brackeys Discord](https://discord.gg/brackeys)
+- [Brackeys Forum](https://forum.brackeys.com/)
+- [GameDev.tv](https://community.gamedev.tv/)
+
 ## Ads
 
 _We still need to make some money, right?_
@@ -496,7 +514,7 @@ _We still need to make some money, right?_
 - [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
 - [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 - [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
-- [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
+- [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 - [Vungle](https://vungle.com/) - Video Ads service.
 
 ## Learn
