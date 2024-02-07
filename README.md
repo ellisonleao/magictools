@@ -481,6 +481,7 @@ _Blogs, portals, magazines and more_
 
 ### Complete Game Sources
 
+- :tada: [Barotrauma](https://github.com/Regalis11/Barotrauma)
 - :tada: [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
 - :tada: [Doom 3](https://github.com/id-Software/DOOM-3)
 - :tada: [Doom](https://github.com/id-Software/DOOM)
