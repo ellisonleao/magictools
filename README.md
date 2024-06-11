@@ -140,6 +140,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 - :tada: [LibreSprite](https://libresprite.github.io/) - LibreSprite is an open source fork of Aseprite.
+- :moneybag: [Lightcube](https://www.lightcube.art/) - Pixel Art Editor for Windows, supposed PSD files in addition to JPEG, PNG, BMP, GIF.
 - :free: [Multipaint](http://multipaint.kameli.net) - A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)
 - :money_with_wings: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
