@@ -317,6 +317,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - :tada: [raylib](https://www.raylib.com/) - a simple and easy-to-use library to enjoy videogames programming, hardware accelerated with OpenGL (1.1, 2.1, 3.3 or ES 2.0)
 - :tada: [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
+- :tada: [RGFW](https://github.com/ColleagueRiley/RGFW) - Lightweight multi-platform single-header library for creating windows, supports many graphics contexts and software rendering.
 - :tada: [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 - :free: [SceneKit](https://developer.apple.com/documentation/scenekit) - Apple proprietary 3D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 - :tada: [Screen 13](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
