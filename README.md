@@ -346,6 +346,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
 - :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
 - :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
+- :tada: [Supernova Engine](https://supernovaengine.org/) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
 
 ### AI
 
