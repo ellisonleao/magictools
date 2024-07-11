@@ -331,6 +331,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 - :money_with_wings: [Stencyl](http://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 - :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
+- :tada: [Supernova Engine](https://supernovaengine.org/) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
 - :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 - :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
 - :tada: [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE is a small, completely public domain fixed point physically inaccurate pure C header-only 3D physics engine built to run on tiny computers such as embedded and even bare metal.
