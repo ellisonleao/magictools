@@ -374,7 +374,8 @@ _Audio editors, sounds collections and more._
 - :free: [Bfxr](https://www.bfxr.net/) - A tool to make sound effects for computer games.
 - :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound.
 - :free: [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
-- :free: [FamiTracker](http://famitracker.com/) - free windows tracker for producing music for the NES/Famicom-systems.
+- :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.  
+- :free: [FamiTracker](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 - :tada: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 - :tada: [LMMS](https://lmms.io/) - Cross-platform music production software.
 - :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
