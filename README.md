@@ -159,24 +159,24 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 - :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
-- :money_with_wings: [Vector mMgic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
+- :money_with_wings: [Vector Magic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 - :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
 
 #### Modeling
 
 - :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 - :money_with_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
-- :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the wolrd
+- :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the world
 - :free: [Clara.io](https://clara.io/)
 - :money_with_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
 - :free: [MakeHuman](http://www.makehumancommunity.org/)
 - :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 - :moneybag: [modo](https://www.foundry.com/products/modo)
 - :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
-- :money_with_wings: [Spline](https://spline.design/) - A 3d colalaborative real-time
+- :money_with_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
 - :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
 - :moneybag: [ZBrush](https://pixologic.com/)
-- :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculpris by MAXON
+- :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculptris by MAXON
 
 #### Terrain Generators
 
