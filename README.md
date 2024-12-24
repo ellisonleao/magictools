@@ -377,7 +377,7 @@ _Audio editors, sounds collections and more._
 - :free: [Bfxr](https://www.bfxr.net/) - A tool to make sound effects for computer games.
 - :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound.
 - :free: [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
-- :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.  
+- :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.
 - :free: [FamiTracker](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 - :tada: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 - :tada: [LMMS](https://lmms.io/) - Cross-platform music production software.
@@ -534,6 +534,7 @@ _Online courses, tutorials, screencasts_
 
 ### General Game Development
 
+- :money_with_wings: [Chris Courses: Complete courses for an assortment of 2D games](https://chriscourses.com/)
 - :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 - :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 - :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
