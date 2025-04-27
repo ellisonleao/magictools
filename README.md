@@ -214,6 +214,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Blitz3D](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
 - :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 - :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
+- :tada: [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
 - :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
