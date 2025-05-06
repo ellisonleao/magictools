@@ -166,7 +166,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 - :money_with_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
 - :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the world
-- :free [Canvascript](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
+- :free: [Canvascript](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 - :free: [Clara.io](https://clara.io/)
 - :money_with_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
 - :free: [MakeHuman](http://www.makehumancommunity.org/)
@@ -214,6 +214,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Blitz3D](https://github.com/blitz-research/blitz3d) 3D basic-like programming language for fast 3D desktop games.
 - :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 - :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
+- :tada: [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
 - :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
 - :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
