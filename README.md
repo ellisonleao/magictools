@@ -264,6 +264,7 @@ _Set of game frameworks, engines and platforms_
 - :free: [Inform7](http://inform7.com/) - A design system for interactive fiction based on natural language.
 - :tada: [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
 - :tada: [Irrlicht](http://irrlicht.sourceforge.net/) - open source high performance realtime 3D engine written in C++.
+- :tada: [is::Engine](https://github.com/Is-Daouda/is-Engine) - C++, SDL 2 and SFML game engine that allows to create games on Nintendo Switch, Web (HTML 5), Mobile and PC.
 - :tada: [Jitter](https://github.com/mattleibow/jitterphysics) - a fast and lightweight physics engine written in C#.
 - :tada: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 - :tada: [JNGL](https://github.com/jhasse/jngl) - a 2D open-source game engine. Develop on Linux, Windows, OS X. Deploy to Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
