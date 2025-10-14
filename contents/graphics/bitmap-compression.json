@@ -1,0 +1,35 @@
+{
+  "name": "Bitmap Compression",
+  "contents": [
+    {
+      "pricing": "Open",
+      "name": "ImageAlpha",
+      "link": "http://pngmini.com/",
+      "description": "Mac OS X GUI for pngquant and other tools"
+    },
+    {
+      "pricing": "Free",
+      "name": "PNGGauntlet",
+      "link": "http://pnggauntlet.com/",
+      "description": "Smash PNGs for faster sites"
+    },
+    {
+      "pricing": "Free",
+      "name": "PNGoo",
+      "link": "https://pngquant.org/PNGoo.0.1.1.zip",
+      "description": "Windows GUI for batch conversion."
+    },
+    {
+      "pricing": "Open",
+      "name": "Pngyu",
+      "link": "http://nukesaq88.github.io/Pngyu/",
+      "description": "simple PNG image file compression tool."
+    },
+    {
+      "pricing": "Freemium",
+      "name": "TinyPNG",
+      "link": "https://tinypng.com/",
+      "description": "Advanced lossy compression for PNG images that preserves full alpha transparency."
+    }
+  ]
+}

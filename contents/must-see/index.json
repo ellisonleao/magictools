@@ -1,0 +1,12 @@
+{
+  "description": "Blogs, portals, magazines and more",
+  "contents": [
+    "blogs-and-portals",
+    "books",
+    "magazines",
+    "videos_podcasts",
+    "game-jams",
+    "project-management",
+    "complete-game-sources"
+  ]
+}

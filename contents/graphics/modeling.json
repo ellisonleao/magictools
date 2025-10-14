@@ -1,0 +1,89 @@
+{
+  "name": "Modeling",
+  "contents": [
+    {
+      "pricing": "Paid",
+      "name": "3ds Max",
+      "link": "http://www.autodesk.com/products/3ds-max/overview",
+      "description": ""
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Besel",
+      "link": "https://www.bezel.it/hq",
+      "description": "Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR."
+    },
+    {
+      "pricing": "Open",
+      "name": "Blender",
+      "link": "http://www.blender.org/",
+      "description": "The free software and open-source 3D grate of the world"
+    },
+    {
+      "pricing": "Free",
+      "name": "Canvascript",
+      "link": "https://github.com/VBproDev/Canvascript",
+      "description": "A tool for creating HTML canvas graphics without writing code."
+    },
+    {
+      "pricing": "Free",
+      "name": "Clara.io",
+      "link": "https://clara.io/",
+      "description": ""
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Daz 3D",
+      "link": "https://www.daz3d.com/",
+      "description": "A 3D software allows you to easily create custom scenes and characters in seconds."
+    },
+    {
+      "pricing": "Free",
+      "name": "MakeHuman",
+      "link": "http://www.makehumancommunity.org/",
+      "description": ""
+    },
+    {
+      "pricing": "Paid",
+      "name": "Maya",
+      "link": "http://www.autodesk.com/products/maya/overview",
+      "description": ""
+    },
+    {
+      "pricing": "Paid",
+      "name": "modo",
+      "link": "https://www.foundry.com/products/modo",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "sculptris",
+      "link": "https://sculptris.br.uptodown.com/windows",
+      "description": "A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Spline",
+      "link": "https://spline.design/",
+      "description": "A 3d collaborative real-time"
+    },
+    {
+      "pricing": "Free",
+      "name": "Womp",
+      "link": "https://womp.com/",
+      "description": "A 3D intuitive and easy to use for create right in your browser"
+    },
+    {
+      "pricing": "Paid",
+      "name": "ZBrush",
+      "link": "https://pixologic.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "ZBRUSHCOREMINI",
+      "link": "https://www.maxon.net/en/zbrushcoremini",
+      "description": "The new version of sculptris by MAXON"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "name": "Blogs and Portals",
+  "contents": [
+    {
+      "pricing": "Unknown",
+      "name": "Amit's Game Programming",
+      "link": "http://www-cs-students.stanford.edu/~amitp/gameprog.html",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Designer Notes",
+      "link": "http://www.designer-notes.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Emanuele Feronato's Blog",
+      "link": "http://www.emanueleferonato.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "GameIdea",
+      "link": "https://gameidea.org",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Gamasutra",
+      "link": "http://www.gamasutra.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Development on StackExchange",
+      "link": "http://gamedev.stackexchange.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "GameDevs.org",
+      "link": "http://gamedevs.org/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "GameJolt",
+      "link": "http://gamejolt.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Greenlit Gaming",
+      "link": "http://greenlitgaming.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "HTML5 Game Devs Forum",
+      "link": "http://www.html5gamedevs.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "HobbyGameDev",
+      "link": "http://www.hobbygamedev.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Html5 Game Development",
+      "link": "http://www.html5gamedevelopment.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "IndieDB",
+      "link": "http://www.indiedb.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Mod DB",
+      "link": "http://www.moddb.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Java Gaming",
+      "link": "http://www.java-gaming.org/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Lost Garden",
+      "link": "http://www.lostgarden.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Polygon",
+      "link": "http://www.polygon.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Real-Time Rendering",
+      "link": "http://www.realtimerendering.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Slidedb",
+      "link": "http://www.slidedb.com/",
+      "description": "On Slide DB we give developers a community they can share their ideas with and showcase the work they are doing, beyond the basic app stores and the highly contested \"top charts\"."
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Superlevel",
+      "link": "https://superlevel.de/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "TIGSource",
+      "link": "http://www.tigsource.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "WhatGamesAre",
+      "link": "http://www.whatgamesare.com/featured-posts.html",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "iforce2d",
+      "link": "http://www.iforce2d.net/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "indiegames",
+      "link": "http://indiegames.com/index.html",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Game Jams",
+  "contents": [
+    {
+      "pricing": "Unknown",
+      "name": "Game jams on itch.io",
+      "link": "https://itch.io/jams",
+      "description": "Listing of itch.io game jams"
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Off",
+      "link": "https://gameoff.github.com",
+      "description": "GitHub's game jam :octocat:"
+    },
+    {
+      "pricing": "Unknown",
+      "name": "GMTK Game Jam",
+      "link": "https://itch.io/jam/gmtk-jam-2022",
+      "description": "Popular yearly game jam"
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Indie Game Jams",
+      "link": "http://www.indiegamejams.com/",
+      "description": "Listing of game jams"
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Ludum Dare",
+      "link": "http://ludumdare.com/",
+      "description": "very popular game jam"
+    },
+    {
+      "pricing": "Unknown",
+      "name": "One Hour Game Jam",
+      "link": "http://onehourgamejam.com/",
+      "description": "Weekly 1 hour game jam"
+    }
+  ]
+}

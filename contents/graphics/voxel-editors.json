@@ -1,0 +1,23 @@
+{
+  "name": "Voxel Editors",
+  "contents": [
+    {
+      "pricing": "Open",
+      "name": "goxel",
+      "link": "https://github.com/guillaumechereau/goxel",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "MagicaVoxel",
+      "link": "https://ephtracy.github.io/",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Sproxel",
+      "link": "http://sproxel.blogspot.com.br/",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Tile/Level Editors",
+  "contents": [
+    {
+      "pricing": "Paid",
+      "name": "AutoTileGen",
+      "link": "http://pixelatto.com",
+      "description": "AutoTileGen is an automatic tileset generator for 2D game terrains."
+    },
+    {
+      "pricing": "Open",
+      "name": "LDtk",
+      "link": "https://deepnight.net/tools/ldtk-2d-level-editor/",
+      "description": "LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness."
+    },
+    {
+      "pricing": "Freemium",
+      "name": "MapperMate",
+      "link": "https://mappermate.com/",
+      "description": "A cloud based tile map editor used to create 2D levels directly in the browser."
+    },
+    {
+      "pricing": "Open",
+      "name": "Material Maker",
+      "link": "https://github.com/RodZill4/material-maker",
+      "description": "procedural texture creator made in Godot"
+    },
+    {
+      "pricing": "Open",
+      "name": "OGMO Editor",
+      "link": "https://ogmo-editor-3.github.io/",
+      "description": "Generic level editor."
+    },
+    {
+      "pricing": "Open",
+      "name": "Overlap2D",
+      "link": "https://github.com/UnderwaterApps/overlap2d/",
+      "description": "a 2D level and UI editor with an engine agnostic philosophy."
+    },
+    {
+      "pricing": "Free",
+      "name": "Sprite Fusion",
+      "link": "https://spritefusion.com/",
+      "description": "A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset."
+    },
+    {
+      "pricing": "Open",
+      "name": "Tiled",
+      "link": "http://www.mapeditor.org/",
+      "description": "free, easy to use and flexible tile map editor."
+    }
+  ]
+}

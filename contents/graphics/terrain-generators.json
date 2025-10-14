@@ -1,0 +1,35 @@
+{
+  "name": "Terrain Generators",
+  "contents": [
+    {
+      "pricing": "Free",
+      "name": "Canyon Terrain Editor",
+      "link": "https://entardev.wordpress.com/other-projects/canyon-terrain-editor/",
+      "description": "Create quality, realistic terrain quickly and intuitively"
+    },
+    {
+      "pricing": "Open",
+      "name": "DEM Net Elevation API",
+      "link": "https://elevationapi.com",
+      "description": "Live 3D textured terrain generation from real data - export height/normal maps, glTF, OBJ, STL"
+    },
+    {
+      "pricing": "Open",
+      "name": "Fracplanet",
+      "link": "https://sourceforge.net/projects/fracplanet/",
+      "description": "Fractal planet and terrain generator"
+    },
+    {
+      "pricing": "Paid",
+      "name": "World Creator",
+      "link": "https://www.world-creator.com/",
+      "description": "Procedural terrain and landscape generation on the GPU in real time, simulation of erosion and sediment, beautiful editor. much more"
+    },
+    {
+      "pricing": "Paid",
+      "name": "World Machine",
+      "link": "http://www.world-machine.com/",
+      "description": "Procedural terrain creation, simulations of nature, and interactive editing"
+    }
+  ]
+}

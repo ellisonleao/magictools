@@ -1,0 +1,17 @@
+{
+  "name": "Magazines",
+  "contents": [
+    {
+      "pricing": "Free",
+      "name": "Game Developer Magazine",
+      "link": "http://www.gdcvault.com/gdmag",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "IndieMag",
+      "link": "https://www.indiemag.fr/",
+      "description": ""
+    }
+  ]
+}

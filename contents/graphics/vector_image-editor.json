@@ -1,0 +1,173 @@
+{
+  "name": "Vector/Image Editor",
+  "contents": [
+    {
+      "pricing": "Paid",
+      "name": "Affinity Designer",
+      "link": "https://affinity.serif.com/de/designer",
+      "description": "Vector graphics editor with a bunch of features which also supports Adobe file formats"
+    },
+    {
+      "pricing": "Paid",
+      "name": "Affinity Photo",
+      "link": "https://affinity.serif.com/de/photo",
+      "description": "Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Aseprite",
+      "link": "http://www.aseprite.org/",
+      "description": "animated sprite editor & pixel art tool."
+    },
+    {
+      "pricing": "Open",
+      "name": "Gimp",
+      "link": "http://www.gimp.org/",
+      "description": "GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring."
+    },
+    {
+      "pricing": "Open",
+      "name": "Inkscape",
+      "link": "https://inkscape.org/en/",
+      "description": "An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X."
+    },
+    {
+      "pricing": "Open",
+      "name": "Krita",
+      "link": "https://krita.org/",
+      "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone."
+    },
+    {
+      "pricing": "Open",
+      "name": "LibreSprite",
+      "link": "https://libresprite.github.io/",
+      "description": "LibreSprite is an open source fork of Aseprite."
+    },
+    {
+      "pricing": "Paid",
+      "name": "Lightcube",
+      "link": "https://www.lightcube.art/",
+      "description": "Pixel Art Editor for Windows, supposed PSD files in addition to JPEG, PNG, BMP, GIF."
+    },
+    {
+      "pricing": "Free",
+      "name": "Multipaint",
+      "link": "http://multipaint.kameli.net",
+      "description": "A cross-platform (Win, Linux, Mac) image editor/painter which covers the color limitations of 8-bit machines (like C64, ZX Spectrum etc.)"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Paint.NET",
+      "link": "http://www.getpaint.net/",
+      "description": "Paint.NET is free image and photo editing software for PCs that run Windows."
+    },
+    {
+      "pricing": "Paid",
+      "name": "Pickle",
+      "link": "http://www.pickleeditor.com/",
+      "description": "Another Pixel art Editor."
+    },
+    {
+      "pricing": "Open",
+      "name": "PiskelApp",
+      "link": "http://www.piskelapp.com/",
+      "description": "Free Online Pixel Art and Animated Sprite Tool."
+    },
+    {
+      "pricing": "Paid",
+      "name": "Pixelmator",
+      "link": "http://www.pixelmator.com",
+      "description": "Full-featured image editing app for the Mac"
+    },
+    {
+      "pricing": "Paid",
+      "name": "Pixelator",
+      "link": "http://pixelatorapp.com",
+      "description": "Turn any image into fancy pixel-art"
+    },
+    {
+      "pricing": "Paid",
+      "name": "Pixen",
+      "link": "https://github.com/Pixen/Pixen",
+      "description": "Pixel Art Editor for OSX"
+    },
+    {
+      "pricing": "Free",
+      "name": "project one",
+      "link": "http://p1.untergrund.net",
+      "description": "A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only"
+    },
+    {
+      "pricing": "Paid",
+      "name": "PyxelEdit",
+      "link": "http://pyxeledit.com/",
+      "description": "Pixel art editor designed to make it fun and easy to make tilesets, levels and animations."
+    },
+    {
+      "pricing": "Free",
+      "name": "REXPaint",
+      "link": "https://www.gridsagegames.com/rexpaint/",
+      "description": "a powerful and user-friendly ASCII art editor."
+    },
+    {
+      "pricing": "Open",
+      "name": "rx",
+      "link": "https://rx.cloudhead.io/",
+      "description": "a modern & minimalist pixel editor"
+    },
+    {
+      "pricing": "Free",
+      "name": "Tilemancer",
+      "link": "https://led.itch.io/tilemancer",
+      "description": "A quick procedural tile creator designed for pixel-art games."
+    },
+    {
+      "pricing": "Free",
+      "name": "Timanthes",
+      "link": "http://csdb.dk/release/?id=75871",
+      "description": "A pixel art editor for the Commodore 64 computer running on Windows"
+    },
+    {
+      "pricing": "Free",
+      "name": "Charas",
+      "link": "http://charas-project.net/index.php",
+      "description": "Charas is a charset generator for RPG Maker."
+    },
+    {
+      "pricing": "Free",
+      "name": "Spritemate",
+      "link": "http://www.spritemate.com",
+      "description": "Online Editor for Commodore 64 Sprites"
+    },
+    {
+      "pricing": "Open",
+      "name": "Squoosh",
+      "link": "https://squoosh.app",
+      "description": "Make images smaller using best-in-class codecs, right in the browser."
+    },
+    {
+      "pricing": "Open",
+      "name": "SVGcode",
+      "link": "https://svgco.de/",
+      "description": "SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format."
+    },
+    {
+      "pricing": "Free",
+      "name": "SVG to PNG",
+      "link": "https://vexlio.com/svg-to-png/",
+      "description": "Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets."
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Vector Magic",
+      "link": "https://vectormagic.com/",
+      "description": "Free Raster to Vector Graphics Converter"
+    },
+    {
+      "pricing": "Open",
+      "name": "VTracer",
+      "link": "https://www.visioncortex.org/vtracer/",
+      "description": "Raster to Vector Graphics Converter built on top of visioncortex"
+    }
+  ]
+}

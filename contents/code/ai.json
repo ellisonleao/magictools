@@ -1,0 +1,29 @@
+{
+  "name": "AI",
+  "contents": [
+    {
+      "pricing": "Open",
+      "name": "AI Game Developer",
+      "link": "https://github.com/IvanMurzak/Unity-MCP",
+      "description": "`Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay."
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Coplay",
+      "link": "https://coplay.dev?ref=github&utm_source=magictools",
+      "description": "AI Copilot for Unity"
+    },
+    {
+      "pricing": "Open",
+      "name": "Fluent Behaviour Tree",
+      "link": "https://github.com/codecapers/Fluent-Behaviour-Tree",
+      "description": "C# behaviour tree library with a fluent API released under MIT."
+    },
+    {
+      "pricing": "Open",
+      "name": "SimpleAI",
+      "link": "https://github.com/mgerhardy/simpleai/",
+      "description": "C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT."
+    }
+  ]
+}

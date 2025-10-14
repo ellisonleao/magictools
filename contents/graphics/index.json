@@ -1,0 +1,16 @@
+{
+  "description": "Great graphics placeholders and tools to turn that squared game into a picasso painting",
+  "contents": [
+    "assets_placeholders",
+    "spritesheet-tools",
+    "bitmap-compression",
+    "texture-tools",
+    "character-generators",
+    "tile_level-editors",
+    "animation",
+    "vector_image-editor",
+    "modeling",
+    "terrain-generators",
+    "voxel-editors"
+  ]
+}

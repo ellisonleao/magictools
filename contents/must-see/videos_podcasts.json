@@ -1,0 +1,17 @@
+{
+  "name": "Videos/Podcasts",
+  "contents": [
+    {
+      "pricing": "Unknown",
+      "name": "awesome-gametalks",
+      "link": "https://github.com/hzoo/awesome-gametalks",
+      "description": "A curated list of game talks (GDC, youtube, etc)."
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Twitch GameDev",
+      "link": "http://www.twitch.tv/directory/game/Game%20Development",
+      "description": "Twitch GameDev Streams"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Animation",
+  "contents": [
+    {
+      "pricing": "Freemium",
+      "name": "Cascadeur",
+      "link": "https://cascadeur.com/",
+      "description": "Powerful physics-based 3D character animation"
+    },
+    {
+      "pricing": "Open",
+      "name": "LWF",
+      "link": "http://gree.github.io/lwf/",
+      "description": "Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more."
+    },
+    {
+      "pricing": "Paid",
+      "name": "Fusion Character Animator",
+      "link": "http://loopengo.free.fr/",
+      "description": "small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers."
+    },
+    {
+      "pricing": "Free",
+      "name": "GraphicsDale",
+      "link": "https://graphicsgale.com/us/",
+      "description": "Powerful tool for spriting and pixel art."
+    },
+    {
+      "pricing": "Paid",
+      "name": "Mixamo",
+      "link": "https://www.mixamo.com/#/",
+      "description": "tool for auto auto rigging and animation of 3D humanoid models,"
+    },
+    {
+      "pricing": "Open",
+      "name": "Pixel Composer",
+      "link": "https://github.com/Ttanasart-pt/Pixel-Composer",
+      "description": "Powerful node-based VFX editor for pixel art"
+    },
+    {
+      "pricing": "Paid",
+      "name": "Spine",
+      "link": "http://esotericsoftware.com/",
+      "description": "Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games."
+    },
+    {
+      "pricing": "Paid",
+      "name": "Spriter Pro",
+      "link": "https://brashmonkey.com/download-spriter-pro/",
+      "description": "Modern tool for sprite animation."
+    }
+  ]
+}

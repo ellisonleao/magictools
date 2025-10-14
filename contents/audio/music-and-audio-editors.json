@@ -1,0 +1,101 @@
+{
+  "name": "Music and Audio Editors",
+  "contents": [
+    {
+      "pricing": "Open",
+      "name": "Audacity",
+      "link": "http://sourceforge.net/projects/audacity/",
+      "description": "open source, cross-platform software for recording and editing sounds."
+    },
+    {
+      "pricing": "Free",
+      "name": "Audiosauna",
+      "link": "http://www.audiosauna.com/",
+      "description": "transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects."
+    },
+    {
+      "pricing": "Free",
+      "name": "Audiotool",
+      "link": "http://www.audiotool.com/app",
+      "description": "Online music producer."
+    },
+    {
+      "pricing": "Free",
+      "name": "Bfxr",
+      "link": "https://www.bfxr.net/",
+      "description": "A tool to make sound effects for computer games."
+    },
+    {
+      "pricing": "Free",
+      "name": "Bosca Ceoil",
+      "link": "http://boscaceoil.net/",
+      "description": "Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound."
+    },
+    {
+      "pricing": "Free",
+      "name": "ChipTone",
+      "link": "http://sfbgames.com/chiptone/",
+      "description": "Online sound effect generator"
+    },
+    {
+      "pricing": "Free",
+      "name": "Famistudio",
+      "link": "https://github.com/BleuBleu/FamiStudio",
+      "description": "FamiStudio NES Music Editor."
+    },
+    {
+      "pricing": "Free",
+      "name": "FamiTracker",
+      "link": "https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker",
+      "description": "free windows tracker for producing music for the NES/Famicom-systems."
+    },
+    {
+      "pricing": "Open",
+      "name": "jfxr",
+      "link": "http://jfxr.frozenfractal.com",
+      "description": "A JavaScript port of the Bfxr sound effect generator."
+    },
+    {
+      "pricing": "Open",
+      "name": "LMMS",
+      "link": "https://lmms.io/",
+      "description": "Cross-platform music production software."
+    },
+    {
+      "pricing": "Free",
+      "name": "MadTracker",
+      "link": "http://www.madtracker.org/main.php",
+      "description": "a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST\u2122, ASIO\u2122 and ReWire\u2122 support."
+    },
+    {
+      "pricing": "Open",
+      "name": "MilkyTracker",
+      "link": "https://github.com/milkytracker/MilkyTracker",
+      "description": "open source tracker for Mac/Linux/Windows platforms."
+    },
+    {
+      "pricing": "Open",
+      "name": "musagi",
+      "link": "http://www.drpetter.se/project_musagi.html",
+      "description": "open source, fairly large and sophisticated music editor and synthesizer"
+    },
+    {
+      "pricing": "Paid",
+      "name": "Resemble",
+      "link": "https://www.resemble.ai/unity",
+      "description": "Resemble's voice cloning engine within Unity"
+    },
+    {
+      "pricing": "Free",
+      "name": "Soundation",
+      "link": "https://soundation.com/",
+      "description": "Online Professional music studio."
+    },
+    {
+      "pricing": "Free",
+      "name": "SunVox",
+      "link": "http://www.warmplace.ru/soft/sunvox/",
+      "description": "a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker)."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Computer Graphics",
+  "contents": [
+    {
+      "pricing": "Free",
+      "name": "3D Game Shaders For Beginners",
+      "link": "https://github.com/lettier/3d-game-shaders-for-beginners",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Interactive 3D Graphics",
+      "link": "https://www.udacity.com/course/interactive-3d-graphics--cs291",
+      "description": ""
+    },
+    {
+      "pricing": "Paid",
+      "name": "Interactive Computer Graphics",
+      "link": "https://www.coursera.org/learn/interactive-computer-graphics",
+      "description": ""
+    }
+  ]
+}

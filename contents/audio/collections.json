@@ -1,0 +1,41 @@
+{
+  "name": "Collections",
+  "contents": [
+    {
+      "pricing": "Free",
+      "name": "Free Game Sounds",
+      "link": "https://gamesounds.xyz/",
+      "description": "Archive of all kinds of royalty-free game sounds."
+    },
+    {
+      "pricing": "Free",
+      "name": "Freesound",
+      "link": "http://www.freesound.org/",
+      "description": "collaborative database of Creative Commons Licensed sounds."
+    },
+    {
+      "pricing": "Free",
+      "name": "Musopen",
+      "link": "https://musopen.org/",
+      "description": "Royalty free music."
+    },
+    {
+      "pricing": "Free",
+      "name": "Octave",
+      "link": "http://raisedbeaches.com/octave/index.html",
+      "description": "free library of UI sounds."
+    },
+    {
+      "pricing": "Free",
+      "name": "PacDV",
+      "link": "http://www.pacdv.com/sounds/index.html",
+      "description": "royalty free sounds collection."
+    },
+    {
+      "pricing": "Free",
+      "name": "SoundBible.com",
+      "link": "http://soundbible.com/",
+      "description": "Royalty-free, searchable archive of sound effects under various licenses."
+    }
+  ]
+}

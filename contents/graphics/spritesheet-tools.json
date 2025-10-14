@@ -1,0 +1,53 @@
+{
+  "name": "Spritesheet Tools",
+  "contents": [
+    {
+      "pricing": "Open",
+      "name": "Cheetah-Texture-Packer",
+      "link": "https://github.com/scriptum/Cheetah-Texture-Packer",
+      "description": "High efficient and fast 2D bin packing tool"
+    },
+    {
+      "pricing": "Open",
+      "name": "EzSpriteSheet",
+      "link": "https://github.com/z64me/EzSpriteSheet",
+      "description": "Creates sprite sheets from animated GIFs and more"
+    },
+    {
+      "pricing": "Open",
+      "name": "Libgdx Texture Packer",
+      "link": "https://github.com/libgdx/libgdx/wiki/Texture-packer",
+      "description": "Texture Packer built into Libgdx"
+    },
+    {
+      "pricing": "Free",
+      "name": "Littera",
+      "link": "http://kvazars.com/littera",
+      "description": "Bitmap font generator"
+    },
+    {
+      "pricing": "Open",
+      "name": "SnowB Bitmap Font",
+      "link": "https://snowb.org/",
+      "description": "Bitmap font generator"
+    },
+    {
+      "pricing": "Free",
+      "name": "ShoeBox",
+      "link": "http://renderhjs.net/shoebox/",
+      "description": "Adobe Air based app with game and ui related tools."
+    },
+    {
+      "pricing": "Freemium",
+      "name": "TexturePacker",
+      "link": "https://www.codeandweb.com/texturepacker",
+      "description": "Great spritesheet creation editor."
+    },
+    {
+      "pricing": "Open",
+      "name": "Tilesplit",
+      "link": "https://github.com/AlexPoulsen/tilesplit",
+      "description": "CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size."
+    }
+  ]
+}

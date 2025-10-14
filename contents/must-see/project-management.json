@@ -1,0 +1,41 @@
+{
+  "name": "Project Management",
+  "contents": [
+    {
+      "pricing": "Paid",
+      "name": "Casual",
+      "link": "https://casual.pm/",
+      "description": "Visual Project Management"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Codecks",
+      "link": "https://www.codecks.io",
+      "description": "Project Management Tool inspired by Collectible Card Games"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "IMS Creators",
+      "link": "https://ims.cr5.space/",
+      "description": "Game Design driven Project Management Tool"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "HacknPlan",
+      "link": "http://hacknplan.com/",
+      "description": "Project management for game developers"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Taiga",
+      "link": "https://taiga.io/",
+      "description": "Project management platform for agile developers & designers"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Trello",
+      "link": "https://trello.com/",
+      "description": "Organize and prioritize projects"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Texture Tools",
+  "contents": [
+    {
+      "pricing": "Paid",
+      "name": "FilterForge",
+      "link": "https://www.filterforge.com/",
+      "description": "A plugin for Adobe Photoshop that allows you to build your own filters."
+    },
+    {
+      "pricing": "Free",
+      "name": "Live Normal",
+      "link": "https://tenebrislab.github.io/livenormal/",
+      "description": "An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice."
+    },
+    {
+      "pricing": "Paid",
+      "name": "PixPlant",
+      "link": "http://www.pixplant.com/",
+      "description": "PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos."
+    }
+  ]
+}

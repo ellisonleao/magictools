@@ -1,0 +1,41 @@
+{
+  "name": "Ads",
+  "contents": [
+    {
+      "pricing": "Unknown",
+      "name": "AdMob by Google",
+      "link": "https://www.google.com/admob/",
+      "description": "Google's Ads and monetization service for mobile."
+    },
+    {
+      "pricing": "Unknown",
+      "name": "AdColony",
+      "link": "http://www.adcolony.com/",
+      "description": "Mobile video Ads service."
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Appodeal",
+      "link": "http://www.appodeal.com/",
+      "description": "A programmatic ad mediation solution for mobile apps."
+    },
+    {
+      "pricing": "Unknown",
+      "name": "ChartBoost",
+      "link": "https://www.chartboost.com/",
+      "description": "Monetization, analytics platform."
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Unity Ads",
+      "link": "https://unity.com/products/unity-ads",
+      "description": "Unity3D Official Ads SDK."
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Vungle",
+      "link": "https://vungle.com/",
+      "description": "Video Ads service."
+    }
+  ]
+}

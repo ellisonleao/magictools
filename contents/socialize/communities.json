@@ -1,0 +1,41 @@
+{
+  "name": "Communities",
+  "contents": [
+    {
+      "pricing": "Free",
+      "name": "Reddit r/gamedev",
+      "link": "https://www.reddit.com/r/gamedev/",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Game Dev League",
+      "link": "https://discord.com/invite/gamedev",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Reddit r/IndieGaming",
+      "link": "https://www.reddit.com/r/IndieGaming/",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Brackeys Discord",
+      "link": "https://discord.gg/brackeys",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Brackeys Forum",
+      "link": "https://forum.brackeys.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "GameDev.tv",
+      "link": "https://community.gamedev.tv/",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "name": "Books",
+  "contents": [
+    {
+      "pricing": "Free",
+      "name": "2D Game Development: From Zero To Hero",
+      "link": "https://gitlab.com/Penaz/2dgd_f0th",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "3D Math Primer for Graphics and Game Development",
+      "link": "http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Artificial Intelligence for Games",
+      "link": "http://www.amazon.com/dp/0123747317?tag=game-prog-books-20",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Designing Games: A Guide to Engineering Experiences",
+      "link": "https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Essential Mathematics for Games and Interactive Applications: A Programmer's Guide",
+      "link": "http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Flow",
+      "link": "http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Coding Complete",
+      "link": "http://www.amazon.com/Game-Coding-Complete-Fourth-McShaffry/dp/1133776574/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Development Essentials: Game Level Design",
+      "link": "http://www.goodreads.com/book/show/1633392.Game_Development_Essentials",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Engine Architecture",
+      "link": "http://www.gameenginebook.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Mechanics: Advanced Game Design",
+      "link": "http://www.goodreads.com/book/show/13705461-game-mechanics",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Programming Gems",
+      "link": "http://www.amazon.com/Game-Programming-Gems-CD/dp/1584500492",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Programming Patterns",
+      "link": "http://gameprogrammingpatterns.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Game Scripting Mastery",
+      "link": "http://www.amazon.com/Scripting-Mastery-Premier-Press-Development/dp/1931841578",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Geometry for Programmers (book)",
+      "link": "https://www.manning.com/books/geometry-for-programmers",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Hello Scratch: Learn to Program by Making Arcade Games",
+      "link": "https://www.manning.com/books/hello-scratch",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Level Up!",
+      "link": "http://www.amazon.com/dp/047068867X?tag=game-prog-books-20",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Making Games with Python & Pygame",
+      "link": "http://inventwithpython.com/pygame/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Mathematics For 3D Game Programming And Computer Graphics",
+      "link": "http://www.amazon.com/dp/1435458869?tag=game-prog-books-20",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Nature of Code",
+      "link": "http://natureofcode.com/book/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Physics for Game Developers",
+      "link": "http://www.amazon.com/Physics-Game-Developers-David-Bourg/dp/0596000065",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Programming Game AI by Example",
+      "link": "http://www.amazon.com/dp/1556220782?tag=game-prog-books-20",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Real-Time Rendering",
+      "link": "http://www.amazon.com/Real-Time-Rendering-Third-Edition-Akenine-Moller/dp/1568814240/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Rules of Play",
+      "link": "http://www.amazon.com/Rules-Play-Game-Design-Fundamentals/dp/0262240459/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "The Art of Game Design",
+      "link": "http://www.amazon.com/The-Art-Game-Design-lenses/dp/0123694965/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "The Ultimate Guide to Video Game Writing and Design",
+      "link": "http://www.goodreads.com/book/show/391752.The_Ultimate_Guide_to_Video_Game_Writing_and_Design",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "The Visual Story",
+      "link": "http://www.amazon.com/The-Visual-Story-Creating-Structure/dp/0240807790/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Theory of Fun",
+      "link": "http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Tricks of the Windows Game Programming Gurus",
+      "link": "http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Unity in Action (book)",
+      "link": "https://www.manning.com/books/unity-in-action-second-edition",
+      "description": ""
+    },
+    {
+      "pricing": "Unknown",
+      "name": "Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++",
+      "link": "https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+      "description": ""
+    }
+  ]
+}

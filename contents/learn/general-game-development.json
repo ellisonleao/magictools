@@ -1,0 +1,53 @@
+{
+  "name": "General Game Development",
+  "contents": [
+    {
+      "pricing": "Freemium",
+      "name": "Chris Courses: Complete courses for an assortment of 2D games",
+      "link": "https://chriscourses.com/",
+      "description": ""
+    },
+    {
+      "pricing": "Paid",
+      "name": "Coursera: Introduction to interactive Python programming",
+      "link": "https://www.coursera.org/course/interactivepython1",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "HandmadeHero: making 2D game from scratch",
+      "link": "https://handmadehero.org/",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Khan Academy: Advanced JS: Games & Visualizations",
+      "link": "https://www.khanacademy.org/computing/cs/programming-games-visualizations",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Simple HTML5 Canvas Game",
+      "link": "http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "miloyip/game-programmer",
+      "link": "https://github.com/miloyip/game-programmer",
+      "description": "A Study Path for Game Programmer :octocat:"
+    },
+    {
+      "pricing": "Free",
+      "name": "TheChernoProject",
+      "link": "https://www.youtube.com/user/TheChernoProject",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "Udacity: HTML5 Game Development",
+      "link": "https://www.udacity.com/course/html5-game-development--cs255",
+      "description": ""
+    }
+  ]
+}

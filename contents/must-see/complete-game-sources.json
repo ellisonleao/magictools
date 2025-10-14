@@ -1,0 +1,95 @@
+{
+  "name": "Complete Game Sources",
+  "contents": [
+    {
+      "pricing": "Open",
+      "name": "Barotrauma",
+      "link": "https://github.com/Regalis11/Barotrauma",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Canabalt iOS",
+      "link": "https://github.com/ericjohnson/canabalt-ios",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Doom 3",
+      "link": "https://github.com/id-Software/DOOM-3",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Doom",
+      "link": "https://github.com/id-Software/DOOM",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Duke Nukem 3D: Atomic Edition",
+      "link": "http://legacy.3drealms.com/duke3d/",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "NetHack",
+      "link": "https://github.com/NetHack/NetHack",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "OpenRA",
+      "link": "https://github.com/OpenRA/OpenRA",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "OpenTTD",
+      "link": "https://github.com/OpenTTD/OpenTTD",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Prince of Persia",
+      "link": "https://github.com/jmechner/Prince-of-Persia-Apple-II",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Quake 2",
+      "link": "https://github.com/id-Software/Quake-2",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Quake III Arena",
+      "link": "https://github.com/id-Software/Quake-III-Arena",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Quake",
+      "link": "https://github.com/id-Software/Quake",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "SimCity",
+      "link": "https://github.com/simhacker/micropolis",
+      "description": ""
+    },
+    {
+      "pricing": "Open",
+      "name": "Wolfenstein 3D",
+      "link": "https://github.com/id-Software/wolf3d",
+      "description": ""
+    },
+    {
+      "pricing": "Free",
+      "name": "VVVVVV",
+      "link": "https://github.com/TerryCavanagh/VVVVVV",
+      "description": ""
+    }
+  ]
+}

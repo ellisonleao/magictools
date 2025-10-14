@@ -1,0 +1,137 @@
+{
+  "name": "Assets/Placeholders",
+  "contents": [
+    {
+      "pricing": "Free",
+      "name": "2D Cartoon Mobile Game UI Pack",
+      "link": "http://graphicburger.com/mobile-game-gui/",
+      "description": "cartoon user interface asset pack. It comes as a layered psd file."
+    },
+    {
+      "pricing": "Free",
+      "name": "420 Pixel Art Icons for RPGs",
+      "link": "http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453",
+      "description": "Set of 420 RPG icons, free for commercial use."
+    },
+    {
+      "pricing": "Free",
+      "name": "Blender 3D models",
+      "link": "https://www.blender-models.com/",
+      "description": "3D models, particle systems/effects"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "CGTextures",
+      "link": "http://www.textures.com",
+      "description": "A large collection of textures."
+    },
+    {
+      "pricing": "Freemium",
+      "name": "GameDev Market",
+      "link": "https://www.gamedevmarket.net/",
+      "description": "a community-driven marketplace that connects indie game developers with talented asset creators."
+    },
+    {
+      "pricing": "Free",
+      "name": "Games-Icons Set",
+      "link": "http://game-icons.net/",
+      "description": "free icons for your games."
+    },
+    {
+      "pricing": "Free",
+      "name": "Iconmonstr",
+      "link": "http://iconmonstr.com/",
+      "description": "Another free icons resource for your games."
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Kenney Assets",
+      "link": "http://kenney.nl/assets",
+      "description": "Royalty free assets"
+    },
+    {
+      "pricing": "Free",
+      "name": "Liberated Pixel Cup assets",
+      "link": "http://lpc.opengameart.org",
+      "description": "Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums"
+    },
+    {
+      "pricing": "Free",
+      "name": "Matcaps",
+      "link": "https://github.com/nidorx/matcaps#matcaps",
+      "description": "A Huge library of matcap textures in PNG and ZMT, organized by color."
+    },
+    {
+      "pricing": "Free",
+      "name": "OpenGameArt",
+      "link": "http://opengameart.org/",
+      "description": "a media repository intended for use with free software game projects."
+    },
+    {
+      "pricing": "Paid",
+      "name": "Oryx Design Lab",
+      "link": "http://oryxdesignlab.com/",
+      "description": "Cheap high quality royalty free sprites"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "PlainTextures",
+      "link": "http://www.plaintextures.com/",
+      "description": "Free high resolution textures, brushes and photos"
+    },
+    {
+      "pricing": "Free",
+      "name": "Pixelicious",
+      "link": "https://www.pixelicious.xyz/",
+      "description": "Image-to-Pixel Art converter."
+    },
+    {
+      "pricing": "Free",
+      "name": "Poly Pizza",
+      "link": "https://poly.pizza",
+      "description": "6000+ free low poly models"
+    },
+    {
+      "pricing": "Free",
+      "name": "Reiner's Tilesets",
+      "link": "http://www.reinerstilesets.de/",
+      "description": "A blog with free 2D and 3D graphics."
+    },
+    {
+      "pricing": "Free",
+      "name": "Sketchfab",
+      "link": "https://sketchfab.com/",
+      "description": "Publish & embed interactive 3D models."
+    },
+    {
+      "pricing": "Free",
+      "name": "SpriteLib",
+      "link": "http://www.widgetworx.com/spritelib/",
+      "description": "a collection of static and animated graphic objects (also commonly known as sprites)."
+    },
+    {
+      "pricing": "Free",
+      "name": "StickyPNG",
+      "link": "http://www.stickpng.com/",
+      "description": "Free transparent PNG images."
+    },
+    {
+      "pricing": "Free",
+      "name": "TextureHaven",
+      "link": "https://texturehaven.com/",
+      "description": "Free textures with additional maps like displacement and bump maps. Also HDRIs."
+    },
+    {
+      "pricing": "Free",
+      "name": "TextureKing",
+      "link": "http://www.textureking.com/",
+      "description": "Free material stock textures"
+    },
+    {
+      "pricing": "Freemium",
+      "name": "Vecteezy",
+      "link": "http://www.vecteezy.com/",
+      "description": "Free Vector Art."
+    }
+  ]
+}
