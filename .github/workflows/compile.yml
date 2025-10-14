@@ -1,0 +1,30 @@
+name: Compile
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Compile README
+        run: python3 ./scripts/compile.py
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update README.md"
+            git push
+          else
+            echo "No changes to commit"
+          fi
