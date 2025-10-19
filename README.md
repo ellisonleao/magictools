@@ -95,10 +95,10 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Bitmap Compression
 
 - :tada: [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
+- :free: [Photo Resizer In KB](https://photoresizerinkb.com/) - Resize photos easily and free to use
 - :free: [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
 - :free: [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
 - :tada: [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool.
-- :free: [Photo Resizer In KB](https://photoresizerinkb.com/) - Resize photos easily and free to use
 - :money_with_wings: [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 
 #### Texture Tools
