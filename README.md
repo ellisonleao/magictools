@@ -248,6 +248,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Flame](https://github.com/flame-engine/flame) - a minimalist game engine for Flutter
 - :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 - :tada: :money_with_wings: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
+- :free: :tada: [Folded Paper Engine](https://github.com/papercraftgames/folded-paper-engine) – Blender to Godot Game Mechanics engine/plug-ins. Just A Few Clicks. Super Easy. Featuring: 2.5d/First Person/Third Person Controls, Trigger Commands/Events, Inventory, Holdable Items and All Kinds of Stuff.
 - :tada: [Forge](https://forgeleaf.com/forge) - Powerful and lightweight game framework for Go.
 - :tada: [Foster](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
 - :money_with_wings: [GameMaker](https://gamemaker.io/) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
