@@ -73,6 +73,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [PlainTextures](http://www.plaintextures.com/) - Free high resolution textures, brushes and photos
 - :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
 - :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
+- :free: [Quaternius](https://quaternius.com/) - Thousands of free CC0 low-poly 3D models and animated characters.
 - :free: [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 - :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
 - :free: [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
@@ -80,6 +81,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs.
 - :free: [TextureKing](http://www.textureking.com/) - Free material stock textures
 - :money_with_wings: [Vecteezy](http://www.vecteezy.com/) - Free Vector Art.
+
 
 #### Spritesheet Tools
 
