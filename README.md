@@ -340,6 +340,7 @@ _Set of game frameworks, engines and platforms_
 - :free: [SpriteKit](https://developer.apple.com/documentation/spritekit) - Apple proprietary 2D game engine (available on macOS, iOS, iPadOS, tvOS and watchOS).
 - :tada: [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 - :tada: [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
+- :free: [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) - a Node.js wrapper for Steamworks SDK.
 - :money_with_wings: [Stencyl](http://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 - :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
 - :tada: [Supernova Engine](https://supernovaengine.org/) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
