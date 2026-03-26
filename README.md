@@ -506,6 +506,7 @@ _Blogs, portals, magazines and more_
 - :tada: [Doom 3](https://github.com/id-Software/DOOM-3)
 - :tada: [Doom](https://github.com/id-Software/DOOM)
 - :tada: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
+- :tada: [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - N64 dungeon crawler with AI NPCs powered by an 819K-parameter LLM running on the MIPS R4300i
 - :tada: [NetHack](https://github.com/NetHack/NetHack)
 - :tada: [OpenRA](https://github.com/OpenRA/OpenRA)
 - :tada: [OpenTTD](https://github.com/OpenTTD/OpenTTD)
