@@ -498,6 +498,7 @@ _Blogs, portals, magazines and more_
 - :money_with_wings: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
 - :money_with_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
 - :money_with_wings: [HacknPlan](http://hacknplan.com/) - Project management for game developers
+- :money_with_wings: [Questlog](https://www.questlog.build) - Project management built for game developers. Kanban boards, bug tracking with severity, milestones, and a built-in GDD editor. Free for solo devs.
 - :money_with_wings: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers
 - :money_with_wings: [Trello](https://trello.com/) - Organize and prioritize projects
 
