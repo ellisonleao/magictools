@@ -506,10 +506,10 @@ _Blogs, portals, magazines and more_
 ### Version Control
 
 - :money_with_wings: [Diversion](https://www.diversion.dev/) - Cloud version control for game development, with Unreal Engine and Unity integration. Free tier for 5 users and 100GB storage.
+- :tada: [Git LFS](https://git-lfs.com/) - Git extension for versioning large files, widely used in indie game pipelines.
+- :moneybag: [Helix Core (Perforce)](https://www.perforce.com/products/helix-core) - Centralized version control used in AAA game development.
 - :tada: [Subversion](https://subversion.apache.org/) - Open source centralized version control system, still used in some studio pipelines.
 - :money_with_wings: [Unity Version Control](https://unity.com/features/version-control) - Previously known as Plastic SCM. Version control integrated with Unity.
-- :tada: [Git LFS](https://git-lfs.com/) - Git extension for versioning large files, widely used in indie game pipelines.
-- :money_with_wings: [Helix Core (Perforce)](https://www.perforce.com/products/helix-core) - Centralized version control used in AAA game development.
 
 ### Complete Game Sources
 
