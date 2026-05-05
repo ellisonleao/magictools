@@ -509,7 +509,7 @@ _Blogs, portals, magazines and more_
 - :tada: [Git LFS](https://git-lfs.com/) - Git extension for versioning large files, widely used in indie game pipelines.
 - :moneybag: [Helix Core (Perforce)](https://www.perforce.com/products/helix-core) - Centralized version control used in AAA game development.
 - :tada: [Subversion](https://subversion.apache.org/) - Open source centralized version control system, still used in some studio pipelines.
-- :money_with_wings: [Unity Version Control](https://unity.com/features/version-control) - Previously known as Plastic SCM. Version control integrated with Unity.
+- :money_with_wings: [Unity Version Control](https://unity.com/features/version-control) - Formerly known as Plastic SCM. Version control integrated with Unity.
 
 ### Complete Game Sources
 
