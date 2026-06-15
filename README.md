@@ -357,6 +357,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [ursina](https://www.ursinaengine.org/) - A game engine powered by python and panda3d.
 - :tada: [Vassal](http://www.vassalengine.org/) - Vassal is a game engine for building and playing online adaptations of board games and card games. Play live on the Internet or by email. Vassal runs on all platforms, and is free, open-source software.
 - :tada: [vectarine](https://github.com/vanyle/vectarine/) - Vectarine is a cross-platform game engine focusing on fast prototyping and having fun. Write games using Luau and extend the engine with Rust modules.
+- :free: [VNovels](https://vnovels.com) - A browser-based visual novel maker and platform: build branching, choice-based stories in a visual graph and scene editor with an AI story assistant, generate backgrounds, character art, music and SFX with AI, and publish playable visual novels. No coding required.
 - :tada: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 - :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
 - :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
