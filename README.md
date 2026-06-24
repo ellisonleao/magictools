@@ -172,6 +172,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 - :money_with_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
 - :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the world
+- :tada: [Vesper Tools for Blender](https://github.com/vesper-astrena/blender-quick-exporter) - 10 free Blender add-ons for game-asset workflows: batch export (FBX/glTF/OBJ), mesh analysis, modifier management, UV tools, scene cleanup, and more. MIT licensed.
 - :free: [Canvascript](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 - :free: [Clara.io](https://clara.io/)
 - :money_with_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
