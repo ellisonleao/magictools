@@ -327,6 +327,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 - :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 - :tada: [PyGame-CE](https://pyga.me/docs/index.html) - Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
+- :tada: [Python Game Server](https://github.com/feberts/python-game-server) - A lightweight server and framework for turn-based multiplayer games.
 - :tada: [Pyxel](https://github.com/kitao/pyxel) - a retro game engine for Python.
 - :moneybag: [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 - :tada: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
