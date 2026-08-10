@@ -172,6 +172,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
 - :money_with_wings: [Vector Magic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 - :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
+- :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 
 #### Modeling
 
