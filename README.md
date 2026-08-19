@@ -199,7 +199,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 - :moneybag: [World Creator](https://www.world-creator.com/) - Procedural terrain and landscape generation on the GPU in real time, simulation of erosion and sediment, beautiful editor. much more
 - :moneybag: [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing
-- :free: [WorldLoop](https://github.com/Daniele-Cangi/worldloop-technical-showcase) - Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water with direct Roblox Studio delivery.
+- :free: [WorldLoop](https://github.com/Daniele-Cangi/worldloop-technical-showcase) - Procedural architecture and world generation combining semantic CAD, playable structures, voxel terrain, caves and water, with direct export to Roblox Studio
 
 #### Voxel Editors
 
