@@ -256,6 +256,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
 - :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 - :tada: [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
+- :tada: [Excalibur.js](https://excaliburjs.com/) - Your friendly TypeScript 2D game engine for the web.
 - :tada: [FXGL](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
 - :tada: [Farseer](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
 - :tada: [Flame](https://github.com/flame-engine/flame) - a minimalist game engine for Flutter
