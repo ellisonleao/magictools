@@ -1,0 +1,32 @@
+reviews:
+  tools:
+    github-checks:
+      enabled: true
+  path_instructions:
+    - path: "README.md"
+      instructions: |
+        When reviewing changes to README.md, perform the following checks:
+
+        ## 1. Link Validation
+        For every link in the markdown file (both new and existing), verify they are accessible:
+        - Use curl or HTTP requests to check if URLs return a 200 status code
+        - Flag any broken links (404, timeout, DNS failure, etc.)
+        - Report dead links as issues that need fixing
+
+        ## 2. Alphabetical Ordering
+        Each section/subsection must have its entries in alphabetical order:
+        - Entries within `#### Assets/Placeholders`, `#### Spritesheet Tools`, etc. should be sorted A-Z by name
+        - The sort key is the link text (the part inside `[]`)
+        - Flag entries that are out of alphabetical order
+
+        ## 3. License Emoji Validation
+        Each list entry must start with one of these valid emojis:
+        - `:free:` - Free
+        - `:tada:` - Open Source  
+        - `:moneybag:` - Paid
+        - `:money_with_wings:` - Partially Free
+
+        Flag any entries that:
+        - Use an invalid emoji (not one of the four above)
+        - Are missing an emoji entirely
+        - Use inconsistent emoji format (e.g., `🆓` instead of `:free:`)
