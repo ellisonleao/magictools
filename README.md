@@ -90,8 +90,8 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 - :free: [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Pack frames into a sheet with a JSON atlas, slice sheets back into PNGs, and convert between sheets and animated GIFs. Runs in the browser, no upload.
-- :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
+- :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 - :tada: [Tilesplit](https://github.com/AlexPoulsen/tilesplit) - CLI text-based tilesheet splitter and namer. Turn a spritesheet into many separate files with names you pick, or not if you don't care. Support templates and textures that are not all the same size.
 
@@ -130,10 +130,10 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :moneybag: [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit with live tweening, smart keys, motion trails, a pose library and Mixamo retargeting. An affordable animBot alternative.
 - :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
-- :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 - :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
-- 🆓 [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
+- :free: [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
+- :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 - :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
 - :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
@@ -145,6 +145,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 - :moneybag: [Affinity Photo](https://affinity.serif.com/de/photo) - Photo and raster graphics editor which works together with Adobe file formats and Affinity Designer
 - :money_with_wings: [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
+- :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :tada: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
@@ -157,23 +158,22 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 - :moneybag: [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+- :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 - :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
 - :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
 - :free: [REXPaint](https://www.gridsagegames.com/rexpaint/) - a powerful and user-friendly ASCII art editor.
 - :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
-- :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
-- :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
-- :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
 - :free: [Spritemate](http://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 - :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser. 
 - :tada: [SVGcode](https://svgco.de/) - SVGcode is a Progressive Web App that lets you convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format.
 - :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
+- :free: [Tilemancer](https://led.itch.io/tilemancer) - A quick procedural tile creator designed for pixel-art games.
+- :free: [Timanthes](http://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 - :money_with_wings: [Vector Magic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 - :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
-- :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 
 #### Modeling
 

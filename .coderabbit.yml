@@ -1,0 +1,46 @@
+reviews:
+  tools:
+    github-checks:
+      enabled: true
+  path_instructions:
+    - path: "README.md"
+      instructions: |
+        When reviewing changes to README.md, perform the following checks:
+
+        ## 1. Link Validation
+        For every link in the markdown file (both new and existing), verify they are accessible:
+        - Only allow http and https URLs; flag any other protocol (ftp, file, mailto, javascript, etc.)
+        - Resolve the hostname and reject private, loopback, link-local, and other internal addresses (e.g., 127.0.0.1, 10.x.x.x, 192.168.x.x, 169.254.x.x, ::1)
+        - Follow HTTP redirects and revalidate each redirect target against the same rules
+        - Perform requests without credentials (no cookies, tokens, or auth headers)
+        - A link is valid if the final response returns 200
+        - Flag broken links: 404, timeout, DNS failure, or any non-200 final status
+        - Report dead links as issues that need fixing
+
+        ## 2. Alphabetical Ordering
+        Each section/subsection must have its entries in alphabetical order:
+        - Entries within `#### Assets/Placeholders`, `#### Spritesheet Tools`, etc. should be sorted A-Z by name
+        - The sort key is the link text (the part inside `[]`)
+        - Flag entries that are out of alphabetical order
+
+        ## 3. License Emoji Validation
+        Each list entry must start with one of these valid emojis:
+        - `:free:` - Free
+        - `:tada:` - Open Source  
+        - `:moneybag:` - Paid
+        - `:money_with_wings:` - Partially Free
+
+        Flag any entries that:
+        - Use an invalid emoji (not one of the four above)
+        - Are missing an emoji entirely
+        - Use inconsistent emoji format (e.g., `🆓` instead of `:free:`)
+  pre_merge_checks:
+    custom_checks:
+      - name: "README Validation"
+        mode: "error"
+        instructions: |
+          If README.md is changed in this PR, validate the following:
+          1. Link Validation: Only allow http/https URLs. Resolve hostnames and reject private, loopback, link-local, and internal addresses (127.0.0.1, 10.x.x.x, 192.168.x.x, 169.254.x.x, ::1). Follow redirects and revalidate each target. Perform requests without credentials. All links must return HTTP 200. Report any broken, invalid, or internal links.
+          2. Alphabetical Ordering: Each subsection (e.g., Assets/Placeholders, Spritesheet Tools, Animation) must have entries sorted alphabetically by link text (the text inside []).
+          3. License Emoji: Each list entry must start with exactly one of: :free:, :tada:, :moneybag:, :money_with_wings:. No other emojis or missing emojis are allowed.
+          Pass only if all three conditions are met. Fail if any condition is violated.
