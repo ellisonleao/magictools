@@ -9,8 +9,9 @@ reviews:
 
         ## 1. Link Validation
         For every link in the markdown file (both new and existing), verify they are accessible:
-        - Use curl or HTTP requests to check if URLs return a 200 status code
-        - Flag any broken links (404, timeout, DNS failure, etc.)
+        - Follow HTTP redirects before evaluating URL accessibility (e.g., use `curl -L`)
+        - A link is valid if the final response after following redirects returns 200
+        - Flag broken links: 404, timeout, DNS failure, or any non-200 final status
         - Report dead links as issues that need fixing
 
         ## 2. Alphabetical Ordering
@@ -30,3 +31,13 @@ reviews:
         - Use an invalid emoji (not one of the four above)
         - Are missing an emoji entirely
         - Use inconsistent emoji format (e.g., `🆓` instead of `:free:`)
+  pre_merge_checks:
+    custom_checks:
+      - name: "README Validation"
+        mode: "error"
+        instructions: |
+          If README.md is changed in this PR, validate the following:
+          1. Link Validation: All links in README.md must be accessible (HTTP 200 after following redirects). Report any broken links (404, timeout, DNS failure, non-200 status).
+          2. Alphabetical Ordering: Each subsection (e.g., Assets/Placeholders, Spritesheet Tools, Animation) must have entries sorted alphabetically by link text (the text inside []).
+          3. License Emoji: Each list entry must start with exactly one of: :free:, :tada:, :moneybag:, :money_with_wings. No other emojis or missing emojis are allowed.
+          Pass only if all three conditions are met. Fail if any condition is violated.
