@@ -160,6 +160,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
 - :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
+- :tada: [Pixelorama](https://orama-interactive.itch.io/pixelorama) - Free & open source pixel art editor with animation support, made with Godot.
 - :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 - :free: [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
 - :moneybag: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations.
