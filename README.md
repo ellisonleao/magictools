@@ -41,10 +41,10 @@ A curated list of game development resources to make **magic** happen.
 - [Must see](#must-see)
   - [Blogs and Portals](#blogs-and-portals)
   - [Books](#books)
+  - [Documentation Tools](#documentation-tools)
   - [Magazines](#magazines)
   - [Videos/Podcasts](#videospodcasts)
   - [Game Jams](#game-jams)
-  - [Documentation Tools](#documentation-tools)
   - [Project Management](#project-management)
   - [Complete Game Sources](#complete-game-sources)
   - [Communities](#communities)
@@ -489,6 +489,10 @@ _Blogs, portals, magazines and more_
 * [Unity in Action (book)](https://www.manning.com/books/unity-in-action-second-edition)
 * [Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++](https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
+### Documentation Tools
+
+- :money_with_wings: [Strudo](https://strudoapp.com/) - Game development documentation platform for creating and managing GDDs and other production documents.
+
 ### Magazines
 
 - :free: [Game Developer Magazine](http://www.gdcvault.com/gdmag)
@@ -507,10 +511,6 @@ _Blogs, portals, magazines and more_
 - [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
 - [Ludum Dare](http://ludumdare.com/) - very popular game jam
 - [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
-
-### Documentation Tools
-
-- :money_with_wings: [Strudo](https://strudoapp.com/) - Game development documentation platform for creating and managing GDDs and other production documents.
 
 ### Project Management
 
