@@ -44,6 +44,7 @@ A curated list of game development resources to make **magic** happen.
   - [Magazines](#magazines)
   - [Videos/Podcasts](#videospodcasts)
   - [Game Jams](#game-jams)
+  - [Documentation Tools](#documentation-tools)
   - [Project Management](#project-management)
   - [Complete Game Sources](#complete-game-sources)
   - [Communities](#communities)
@@ -506,6 +507,10 @@ _Blogs, portals, magazines and more_
 - [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
 - [Ludum Dare](http://ludumdare.com/) - very popular game jam
 - [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
+
+### Documentation Tools
+
+- :money_with_wings: [Strudo](https://strudoapp.com/) - Game development documentation platform for creating and managing GDDs and other production documents.
 
 ### Project Management
 
