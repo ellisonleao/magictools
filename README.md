@@ -266,6 +266,7 @@ _Set of game frameworks, engines and platforms_
 - :free: :tada: [Folded Paper Engine](https://github.com/papercraftgames/folded-paper-engine) – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
 - :tada: [Forge](https://forgeleaf.com/forge) - Powerful and lightweight game framework for Go.
 - :tada: [Foster](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
+- :tada: [GameFrameX](https://github.com/GameFrameX/GameFrameX) - A cross-engine game framework: Unity and Godot clients on a single actor-model .NET server, sharing one Protobuf contract and LuBan config pipeline. AI-agent friendly: instruction docs in-repo, codegen'd protocol/config layers.
 - :money_with_wings: [GameMaker](https://gamemaker.io/) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 - :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 - :money_with_wings: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
