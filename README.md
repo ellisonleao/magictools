@@ -453,6 +453,7 @@ _Blogs, portals, magazines and more_
 - [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 - [iforce2d](http://www.iforce2d.net/)
 - [indiegames](http://indiegames.com/index.html)
+- :free: [WTF Games](https://wtfgames.io/) - Free HTML5 games playable directly in the browser without downloads or registration.
 
 ### Books
 
