@@ -451,9 +451,9 @@ _Blogs, portals, magazines and more_
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
 - [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
+- :free: [WTF Games](https://wtfgames.io/) - Free HTML5 games playable directly in the browser without downloads or registration.
 - [iforce2d](http://www.iforce2d.net/)
 - [indiegames](http://indiegames.com/index.html)
-- :free: [WTF Games](https://wtfgames.io/) - Free HTML5 games playable directly in the browser without downloads or registration.
 
 ### Books
 
@@ -579,3 +579,4 @@ _Online courses, tutorials, screencasts_
 - :free: [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 - :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 - :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+
