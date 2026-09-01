@@ -441,7 +441,9 @@ _Blogs, portals, magazines and more_
 - [HTML5 Game Devs Forum](http://www.html5gamedevs.com/)
 - [HobbyGameDev](http://www.hobbygamedev.com/)
 - [Html5 Game Development](http://www.html5gamedevelopment.com/)
+- [iforce2d](http://www.iforce2d.net/)
 - [IndieDB](http://www.indiedb.com/)
+- [indiegames](http://indiegames.com/index.html)
 - [Mod DB](http://www.moddb.com/)
 - [Java Gaming](http://www.java-gaming.org/)
 - [Lost Garden](http://www.lostgarden.com/)
@@ -451,8 +453,7 @@ _Blogs, portals, magazines and more_
 - [Superlevel](https://superlevel.de/)
 - [TIGSource](http://www.tigsource.com/)
 - [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
-- [iforce2d](http://www.iforce2d.net/)
-- [indiegames](http://indiegames.com/index.html)
+- :free: [WTF Games](https://wtfgames.io/) - Free HTML5 games playable directly in the browser without downloads or registration.
 
 ### Books
 
