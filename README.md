@@ -460,6 +460,7 @@ _Blogs, portals, magazines and more_
 - :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
+* :free: [AI Workflow for Game Designers](https://eremes81.github.io/game-design-ai-practice-en/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
 * [Designing Games: A Guide to Engineering Experiences](https://www.amazon.com/Designing-Games-Guide-Engineering-Experiences/dp/1449337937)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
