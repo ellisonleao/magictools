@@ -328,6 +328,7 @@ _Set of game frameworks, engines and platforms_
 - :moneybag: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 - :tada: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library
 - :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
+- :tada: [Parlour](https://github.com/braedonsaunders/parlour) - Deterministic TypeScript card-game engine with a cozy playable browser table (Blitz, Wild, P2P rooms, no backend).
 - :tada: [Phaser](http://phaser.io/) - free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 - :tada: [Pixel Vision 8](https://github.com/PixelVision8/PixelVision8) - Pixel Vision 8's core philosophy is to teach retro game development with streamlined workflows. PV8 is also a platform that standardizes 8-bit fantasy console limitations built on top of the open-source C# game engine based on MonoGame.
