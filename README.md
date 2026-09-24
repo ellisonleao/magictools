@@ -109,6 +109,9 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
 - :free: [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
+
+- :free: [Normal Map Bench](https://normalmapbench.com/) - Browser-based normal map generator: upload an image and tune strength, smoothing, edges and lighting live, then export OpenGL or DirectX normal maps.
+
 - :free: [PixelChart Normal Map Generator](https://pixelchart.app/tools/normal-map-generator/) - Turns an image into normal, height and ambient occlusion maps with a live WebGL lit preview. Exports PNG or ZIP, runs entirely in the browser.
 - :moneybag: [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 
