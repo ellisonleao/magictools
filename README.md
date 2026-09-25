@@ -392,6 +392,7 @@ _Audio editors, sounds collections and more._
 
 ### Collections
 
+- :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 - :free: [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 - :free: [Freesound](http://www.freesound.org/) - collaborative database of Creative Commons Licensed sounds.
 - :free: [Musopen](https://musopen.org/) - Royalty free music.
