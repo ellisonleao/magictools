@@ -423,6 +423,7 @@ _Audio editors, sounds collections and more._
 _Tools for making board games_
 
 - :free: [Iterary](http://www.iterary.com) - Board Game Design Tool.
+- :tada: [PnPInk](https://github.com/xoellijo/pnpink) - Inkscape extension for data-driven board game component design and bulk generation. Create cards, tiles, tokens, boards hexgrids, and maps from SVG templates using CSV or Google Sheets data, with dynamic text, images and icons, automated layouts, and print-ready PDF/image export.
 - :tada: [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
 
 ## Must see
