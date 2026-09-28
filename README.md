@@ -377,6 +377,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Wave](http://waveengine.net/) - Cross-platform engine written in C#.
 - :tada: [Wolf RPG Editor English](https://widderune.wixsite.com/widderune/wolf-rpg-editor-english) - open source editor for RPG Maker style gamesl
 - :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
+- :tada: [XCP](https://github.com/Daniele-Cangi/xcp-xbox) - Open-source Windows-to-Xbox Series X Developer Mode platform for building, adapting and verifying game projects and programmable workloads on a physical console.
 
 ### AI
 - :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
