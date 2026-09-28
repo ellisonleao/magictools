@@ -62,6 +62,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 - :free: [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
 - :money_with_wings: [CGTextures](http://www.textures.com) - A large collection of textures.
+- :free: [Free Game Dev Assets](https://tmhsdigital.github.io/Free-Game-Dev-Assets/) - Catalog of free game assets and tools with each licence, commercial-use stance and credit requirement recorded from the source and dated.
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 - :free: [Games-Icons Set](http://game-icons.net/) - free icons for your games.
 - :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
