@@ -190,6 +190,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [modo](https://www.foundry.com/products/modo)
 - :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
 - :money_with_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
+- :tada: [three.ws Forge](https://three.ws/forge) - Generate a textured 3D model from a text prompt, photos, or a sketch in the browser and download it as GLB. Free draft tier, no account needed.
 - :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
 - :moneybag: [ZBrush](https://pixologic.com/)
 - :free: [ZBRUSHCOREMINI](https://www.maxon.net/en/zbrushcoremini) - The new version of sculptris by MAXON
