@@ -59,7 +59,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Assets/Placeholders
 
 - :free: [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
-- :free: [3DTexel](https://3dtexel.com/free-library/) - 1,650+ handmade CC0 assets: seamless PBR materials (incl. stylized), HDRIs, decals, 3D models and IES lights. Free account required.
+- :free: [3DTexel](https://3dtexel.com/free-library/) - 1,600+ handmade CC0 assets: seamless PBR materials (incl. stylized), HDRIs, decals, 3D models and IES lights. A free account may be required for some downloads.
 - :free: [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 - :free: [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
 - :money_with_wings: [CGTextures](http://www.textures.com) - A large collection of textures.
