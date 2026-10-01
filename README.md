@@ -149,6 +149,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool.
 - :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :tada: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
+- :money_with_wings: [Image to Layer](https://image2layers.org/) - AI splits flat concept art, key art or AI-generated game art (JPG/PNG/WebP) into transparent layers with the hidden background filled in, and exports a layered PSD for parallax, animation or UI work. Free single-layer PSD converter in the browser.
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 - :tada: [LibreSprite](https://libresprite.github.io/) - LibreSprite is an open source fork of Aseprite.
