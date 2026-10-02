@@ -87,6 +87,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :tada: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
 - :tada: [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) - Creates sprite sheets from animated GIFs and more
+- :free: [ForgeSprite Sprite Sheet Cutter](https://forgesprite.com/sprite-sheet-cutter) - Browser-based PNG sprite sheet slicer with grid, frame-size and ForgeSprite JSON modes, frame previews, and named PNG ZIP export.
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 - :free: [PixelChart Sprite Sheet Tools](https://pixelchart.app/tools/sprite-sheet-maker/) - Pack frames into a sheet with a JSON atlas, slice sheets back into PNGs, and convert between sheets and animated GIFs. Runs in the browser, no upload.
