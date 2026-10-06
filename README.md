@@ -557,10 +557,10 @@ _Where to find other game developers_
 
 _We still need to make some money, right?_
 
-- [AdMob by Google](https://www.google.com/admob/) - Google's Ads and monetization service for mobile.
 - [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
+- [AdMob by Google](https://www.google.com/admob/) - Google's Ads and monetization service for mobile.
 - [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
-- [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.
+- :tada: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.
 - [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 - [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 - [Vungle](https://vungle.com/) - Video Ads service.
