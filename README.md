@@ -557,6 +557,7 @@ _Where to find other game developers_
 
 _We still need to make some money, right?_
 
+- [AdMob Ads for Unity](https://github.com/satisvizion/unity-admob-ads) - Open-source (MIT) async wrapper for the Google Mobile Ads Unity plugin: rewarded, interstitial and banner, UMP consent, pacing, editor mock.
 - [AdMob by Google](https://www.google.com/admob/) - Google's Ads and monetization service for mobile.
 - [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
 - [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
