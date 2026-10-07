@@ -399,6 +399,7 @@ _Audio editors, sounds collections and more._
 - :free: [Musopen](https://musopen.org/) - Royalty free music.
 - :free: [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 - :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
+- :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 - :free: [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
 
 ### Music and Audio Editors
