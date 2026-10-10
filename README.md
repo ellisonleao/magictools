@@ -351,6 +351,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Screen 13](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 - :tada: [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 - :tada: [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library.
+- :tada: [SleakEngine](https://github.com/CanReader/SleakEngine) - C++23 game engine with DirectX 11, DirectX 12, OpenGL and Vulkan behind one rendering interface, with an ECS and scene management.
 - :tada: [Solar2D](https://solar2d.com/) - A Lua based game engine with focus on ease of iterations and usage.
 - :tada: [Solarus](https://www.solarus-games.org/) - Cross-platform 2D Action/Adventure C++ game engine with Lua API and game editor.
 - :tada: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
