@@ -384,6 +384,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 - :money_with_wings: [Coplay](https://coplay.dev?ref=github&utm_source=magictools) - AI Copilot for Unity
 - :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
+- :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
 - :money_with_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 - :money_with_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - :money_with_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
