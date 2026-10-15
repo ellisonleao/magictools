@@ -136,6 +136,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 - :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
 - :free: [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
+- :money_with_wings: [Img2STL](https://img2stl.art/rigging/) - Browser auto-rigger. Upload a humanoid 3D model and get a skeleton you can export for Blender or a game engine.
 - :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
 - :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 - :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
