@@ -582,6 +582,7 @@ _Online courses, tutorials, screencasts_
 - :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 - :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 - :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
+- :free: [Minecraft mod development with AI — NeoForge 1.21.1](https://universalmodder.dev/guides/minecraft-first-mod/) - Copper Token item and recipe walkthrough with source files, a pinned official MDK, Gradle build instructions, and isolated JAR verification steps.
 - :free: [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 - :free: [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 - :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
