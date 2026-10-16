@@ -78,6 +78,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
 - :free: [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 - :free: [StickyPNG](http://www.stickpng.com/) - Free transparent PNG images.
+- :money_with_wings: [SVGicons](https://svgicons.com/) - Search and preview SVG icons for game interfaces, with source and license information for individual icon sets.
 - :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs.
 - :free: [TextureKing](http://www.textureking.com/) - Free material stock textures
 - :money_with_wings: [Vecteezy](http://www.vecteezy.com/) - Free Vector Art.
