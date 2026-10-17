@@ -524,6 +524,7 @@ _Blogs, portals, magazines and more_
 
 - :moneybag: [Casual](https://casual.pm/) - Visual Project Management
 - :money_with_wings: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
+- :money_with_wings: [Gamifying](https://gamifying.dev/) - Browser workspace for game design: characters, quests, items and lore as linked entries, with Kanban board, timeline and JSON export.
 - :money_with_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
 - :money_with_wings: [HacknPlan](http://hacknplan.com/) - Project management for game developers
 - :money_with_wings: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor
