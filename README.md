@@ -405,6 +405,7 @@ _Audio editors, sounds collections and more._
 - :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
 - :free: [SFXMint](https://sfxmint.com/) - CC0 game and UI sound effects in WAV/MP3; AI-generated or procedurally synthesized, with no signup required for library downloads.
 - :free: [SoundBible.com](http://soundbible.com/) - Royalty-free, searchable archive of sound effects under various licenses.
+- :free: [MeloRaw](https://meloraw.com/) - Royalty-free music tracks and high-res SFX (WAV 24-bit/96–192kHz); free download in MP3 320kbps, no account or attribution needed.
 - :free: [Soundza](https://soundza.com/) - Thousands of free game sound effects, music loops and ambience in WAV/MP3, made by people rather than AI; free for commercial use, no attribution needed. Free API and MCP server.
 
 ### Music and Audio Editors
