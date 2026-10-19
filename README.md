@@ -99,6 +99,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Bitmap Compression
 
+- :money_with_wings: [BatchSet](https://batchset.com/tools/image-compressor) - Compress and convert whole folders of PNG, JPG and WebP sprites in the browser, nothing uploaded.
 - :tada: [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools
 - :free: [Photo Resizer In KB](https://photoresizerinkb.com/) - Resize photos easily and free to use
 - :free: [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
