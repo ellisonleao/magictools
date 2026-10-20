@@ -114,6 +114,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
 - :free: [PixelChart Normal Map Generator](https://pixelchart.app/tools/normal-map-generator/) - Turns an image into normal, height and ambient occlusion maps with a live WebGL lit preview. Exports PNG or ZIP, runs entirely in the browser.
 - :moneybag: [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
+- :tada: [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Generate normal maps from pixel art sprites and animations.
 
 #### Character Generators
 
