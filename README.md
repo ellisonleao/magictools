@@ -189,6 +189,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Canvascript](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 - :free: [Clara.io](https://clara.io/)
 - :money_with_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
+- :tada: [Inca](https://incacad.com) - Free, open-source 3D modeling, animation and rendering app that works like Maya 2020, with OBJ, FBX, glTF and STL import.
 - :free: [MakeHuman](http://www.makehumancommunity.org/)
 - :moneybag: [Maya](http://www.autodesk.com/products/maya/overview)
 - :moneybag: [modo](https://www.foundry.com/products/modo)
