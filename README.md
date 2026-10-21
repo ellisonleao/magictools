@@ -408,6 +408,7 @@ _Audio editors, sounds collections and more._
 - :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 - :free: [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 - :free: [Freesound](http://www.freesound.org/) - collaborative database of Creative Commons Licensed sounds.
+- :free: [MeloRaw](https://meloraw.com/) - Royalty-free music tracks and high-res SFX (WAV 24-bit/96–192kHz); free download in MP3 320kbps, no account or attribution needed.
 - :free: [Musopen](https://musopen.org/) - Royalty free music.
 - :free: [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 - :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection.
