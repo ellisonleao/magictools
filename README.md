@@ -434,6 +434,7 @@ _Audio editors, sounds collections and more._
 - :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 - :money_with_wings: [Remove Audio Noise Remover](https://remove-audio.com/tools/remove-background-noise) - Clean hiss, hum, wind and crowd noise out of voice lines, dialogue and trailer voice-overs with AI, free in the browser (optional paid Cloud mode for long files).
 - :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
+- :free: [Seance](https://hexenwerkzeug.com/tools/seance) - Browser tool that splits drums into kick, snare and cymbals, cuts a break at its hits and meters loudness to BS.1770-4. Nothing is uploaded.
 - :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 - :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 
