@@ -112,6 +112,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
+- :tada: [MeshCoat](https://stuyk.github.io/meshcoat) - Fast, offline desktop texture painter: load a 3D model and paint PBR materials directly onto the mesh, then export texture maps. [Source](https://github.com/stuyk/meshcoat)
 - :free: [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
 - :free: [PixelChart Normal Map Generator](https://pixelchart.app/tools/normal-map-generator/) - Turns an image into normal, height and ambient occlusion maps with a live WebGL lit preview. Exports PNG or ZIP, runs entirely in the browser.
 - :moneybag: [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
@@ -140,6 +141,8 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
 - :free: [GraphicsDale](https://graphicsgale.com/us/) - Powerful tool for spriting and pixel art.
 - :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+- :tada: [MeshAnimate](https://stuyk.github.io/meshanimate) - Pivot-style pose-to-pose animator for rigged Blender characters, with a simple timeline and onion-skin ghosts. Saves animations back into the .blend as normal Blender actions. [Source](https://github.com/stuyk/meshanimate)
+- :tada: [MeshRig](https://stuyk.github.io/meshrig) - Rig any mesh in a .blend in minutes: fit a starting skeleton, skin weights and IK. Writes a standard Blender armature that works anywhere a Blender rig does. [Source](https://github.com/stuyk/meshrig)
 - :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 - :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
 - :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
@@ -435,6 +438,7 @@ _Audio editors, sounds collections and more._
 - :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 - :money_with_wings: [Remove Audio Noise Remover](https://remove-audio.com/tools/remove-background-noise) - Clean hiss, hum, wind and crowd noise out of voice lines, dialogue and trailer voice-overs with AI, free in the browser (optional paid Cloud mode for long files).
 - :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
+- :tada: [Slip Sound](https://stuyk.github.io/slip-sound) - Fast, local desktop audio sample manager for searching and organizing large sound libraries. No accounts or file caps, with MCP support. [Source](https://github.com/stuyk/slip-sound)
 - :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 - :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 
