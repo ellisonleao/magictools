@@ -387,6 +387,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
 
 ### AI
+- :moneybag: [3D-Agent](https://3d-agent.com/blender-ai) - Desktop AI agent for Blender that handles modeling, materials, lighting, animation and rendering from plain-language prompts, and connects to Roblox Studio for scripts, assets and playtests.
 - :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 - :money_with_wings: [Coplay](https://coplay.dev?ref=github&utm_source=magictools) - AI Copilot for Unity
 - :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
