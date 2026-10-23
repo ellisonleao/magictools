@@ -348,6 +348,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Planck.js](http://piqnt.com/planck.js/) - 2D JavaScript physics engine for cross-platform HTML5 game development.
 - :money_with_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 - :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
+- :tada: [Proof Engine](https://github.com/Mattbusel/proof-engine) - Rust rendering and game engine where every visual is math: glyphs and particles moved by ODEs, strange attractors and force fields, with OpenGL post-processing and synth audio.
 - :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 - :tada: [PyGame-CE](https://pyga.me/docs/index.html) - Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
 - :tada: [Pyxel](https://github.com/kitao/pyxel) - a retro game engine for Python.
