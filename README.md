@@ -60,6 +60,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :free: [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file.
 - :free: [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
+- :money_with_wings: [artgen.net Image to Pixel Art](https://artgen.net/en/tools/image-to-pixel-art) - Web photo-to-pixel-art converter with block size, 8/16/32-colour palettes and optional dithering; free with sign-in.
 - :free: [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
 - :money_with_wings: [CGTextures](http://www.textures.com) - A large collection of textures.
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
