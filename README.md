@@ -388,9 +388,9 @@ _Set of game frameworks, engines and platforms_
 - :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
 - :money_with_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
 - :money_with_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
+- :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 - :money_with_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
 - :money_with_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
-- :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 ## Audio
 
