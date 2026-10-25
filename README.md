@@ -243,10 +243,10 @@ _Set of game frameworks, engines and platforms_
 - :tada: [boardgame.io](https://github.com/boardgameio/boardgame.io) - State management and multiplayer networking for turn-based games.
 - :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 - :tada: [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
-- :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+- :tada: [Bullet](https://github.com/bulletphysics/bullet3) - Real-time physics simulation.
 - :tada: [Carimbo](https://github.com/willtobyte/carimbo) - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly.
 - :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
-- :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
+- :tada: [Chipmunk2D](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library.
 - :tada: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.
 - :free: [Cocos Creator](https://www.cocos.com/en/creator) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
 - :tada: [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
@@ -292,7 +292,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Grid](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
 - :tada: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
 - :tada: [Heaps](https://heaps.io/) - Cross platform graphics for high performance games.
-- :tada: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
+- :tada: [Horde3D](https://github.com/horde3d/Horde3D) - small open source 3D rendering engine.
 - :tada: [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 - :tada: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 - :free: [Inform7](http://inform7.com/) - A design system for interactive fiction based on natural language.
@@ -307,7 +307,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 - :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 - :tada: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
-- :tada: [KogGE](https://korge.soywiz.com) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
+- :tada: [KogGE](https://korge.org/) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 - :money_with_wings: [Leadwerks](https://www.leadwerks.com/) - Easy-to-learn game engine for 3D and VR.
 - :tada: [LibGDX](https://libgdx.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 - :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
@@ -372,10 +372,10 @@ _Set of game frameworks, engines and platforms_
 - :tada: [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) - a Node.js wrapper for Steamworks SDK.
 - :money_with_wings: [Stencyl](http://www.stencyl.com/) - a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 - :tada: [Stride](https://stride3d.net/) - Open Source C# Game Engine.
-- :tada: [Supernova Engine](https://supernovaengine.org/) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
+- :tada: [Supernova Engine](https://github.com/supernovaengine/supernova) - Cross-platform game engine for 2D and 3D projects with entity component system (ECS) and data-oriented design in C++ and Lua.
 - :tada: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 - :tada: [TIC-80](https://tic.computer/) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
-- :tada: [Tiny Physics Engine](https://codeberg.org/drummyfish/tinyphysicsengine/) - TPE is a small, completely public domain fixed point physically inaccurate pure C header-only 3D physics engine built to run on tiny computers such as embedded and even bare metal.
+- :tada: [Tiny Physics Engine](https://git.coom.tech/drummyfish/tinyphysicsengine) - TPE is a small, completely public domain fixed point physically inaccurate pure C header-only 3D physics engine built to run on tiny computers such as embedded and even bare metal.
 - :tada: [Three.js](http://threejs.org/) - Javascript 3D Library.
 - :tada: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 - :tada: [Twine](http://twinery.org/) - Downloadable or browser-based game development platform that allows users to create linked story paths. Not just text-based, Twine supports music, images, and sound effects. Very little coding knowledge required for basic text adventure games.
@@ -472,7 +472,7 @@ _Blogs, portals, magazines and more_
 - [Html5 Game Development](http://www.html5gamedevelopment.com/)
 - [iforce2d](http://www.iforce2d.net/)
 - [IndieDB](http://www.indiedb.com/)
-- [indiegames](http://indiegames.com/index.html)
+- [indiegames](https://indiegamesplus.com/)
 - [Mod DB](http://www.moddb.com/)
 - [Java Gaming](http://www.java-gaming.org/)
 - [Lost Garden](http://www.lostgarden.com/)
