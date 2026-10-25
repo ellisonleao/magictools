@@ -217,8 +217,8 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [goxel](https://github.com/guillaumechereau/goxel)
 - :free: [MagicaVoxel](https://ephtracy.github.io/)
 - :free: [Sproxel](http://sproxel.blogspot.com.br/)
-- :money_with_wings: [VoxiGen](https://voxigen.io/en/studio)
 - :free: [Voxelle Desktop](https://github.com/Velfi/Voxelle-Desktop)
+- :money_with_wings: [VoxiGen](https://voxigen.io/en/studio)
 
 ## Code
 
