@@ -438,6 +438,7 @@ _Audio editors, sounds collections and more._
 - :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 - :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms.
 - :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
+- :free: [Online Tone Generator](https://theaudiostuff.com/tools/signal-generator/) - Browser tone generator: sine, square, triangle and sawtooth waves, five noise colours and frequency sweeps, with 5-second WAV export. Runs locally, no signup.
 - :money_with_wings: [Remove Audio Noise Remover](https://remove-audio.com/tools/remove-background-noise) - Clean hiss, hum, wind and crowd noise out of voice lines, dialogue and trailer voice-overs with AI, free in the browser (optional paid Cloud mode for long files).
 - :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
 - :tada: [Slip Sound](https://stuyk.github.io/slip-sound) - Fast, local desktop audio sample manager for searching and organizing large sound libraries. No accounts or file caps, with MCP support. [Source](https://github.com/stuyk/slip-sound)
