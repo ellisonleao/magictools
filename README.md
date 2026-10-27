@@ -579,7 +579,7 @@ _Where to find other game developers_
 - [Brackeys Discord](https://discord.gg/brackeys)
 - [Brackeys Forum](https://forum.brackeys.com/)
 - [GameDev.tv](https://community.gamedev.tv/)
-- :free: [IndieGuild](https://indieguild.dev) - Free hub where indie devs post roles and find composers, artists, programmers and other creators.
+- [IndieGuild](https://indieguild.dev) - Free hub where indie devs post roles and find composers, artists, programmers and other creators.
 
 ## Ads
 
