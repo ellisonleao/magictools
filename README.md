@@ -462,7 +462,7 @@ _Blogs, portals, magazines and more_
 - [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 - [Designer Notes](http://www.designer-notes.com/)
 - [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
-- :free: [Foundplay](https://foundplay.io/) - Free browser games, with new ones out twice a day. Makers list their games free, and Play opens each game on its own site.
+- :free: [Foundplay](https://foundplay.io/) - Free browser games, with new ones out twice a day. Makers list their games free, and Play opens each game on the site where it is published.
 - [GameIdea](https://gameidea.org)
 - [Gamasutra](http://www.gamasutra.com/)
 - [Game Development on StackExchange](http://gamedev.stackexchange.com/)
