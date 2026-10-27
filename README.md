@@ -70,6 +70,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
 - :free: [OpenGameArt](http://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
+- :free: [Pixel Art From Image](https://pixelartfromimage.xyz/) - Free browser-based image converter with palette reduction, dithering, color replacement, and PNG export.
 - :money_with_wings: [PlainTextures](http://www.plaintextures.com/) - Free high resolution textures, brushes and photos
 - :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
 - :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
