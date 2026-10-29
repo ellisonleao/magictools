@@ -72,6 +72,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [420 Pixel Art Icons for RPGs](https://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 - :free: [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
 - :money_with_wings: [CGTextures](https://www.textures.com) - A large collection of textures.
+- :free: [Crisp Icons Free](https://anipixels.itch.io/crisp-icons-free) - 42 rounded game UI icons in white and dark, as 64 px PNG and SVG; royalty-free for commercial use, no credit required. Drawn procedurally by code written with an AI assistant, no image generators.
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 - :free: [Games-Icons Set](https://game-icons.net/) - free icons for your games.
 - :free: [Iconmonstr](https://iconmonstr.com/) - Another free icons resource for your games.
@@ -402,6 +403,7 @@ _Audio editors, sounds collections and more._
 ### Collections
 
 - :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects (UI clicks, impacts, whooshes) and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
+- :free: [Crisp UI Free](https://anipixels.itch.io/crisp-ui-free) - 20 game UI sound effects (clicks, toggles, menu open/close, confirm, error, coin, level up and more) in WAV/OGG; royalty-free for commercial use, no credit required. Synthesized by code written with an AI assistant, no samples or AI audio models.
 - :free: [DailySounds](https://dailysounds.org/?ref=magictools) - Searchable sound effects for games, with browser previews and downloadable audio; free for commercial projects under the DailySounds license.
 - :free: [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 - :free: [Freesound](https://www.freesound.org/) - collaborative database of Creative Commons Licensed sounds.
