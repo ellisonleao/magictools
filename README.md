@@ -32,6 +32,7 @@ To get your pull request accepted, your link must follow these rules:
 - [Graphics](#graphics)
   - [Assets/Placeholders](#assetsplaceholders)
   - [Spritesheet Tools](#spritesheet-tools)
+  - [Store Page Tools](#store-page-tools)
   - [Bitmap Compression](#bitmap-compression)
   - [Texture Tools](#texture-tools)
   - [Character Generators](#character-generators)
@@ -103,6 +104,10 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
+
+#### Store Page Tools
+
+- :money_with_wings: [Storefront Lab](https://storefront-lab-qamar.oasisaqa.chatgpt.site/) - Free Steam capsule dimension checker with local image previews, plus an optional paid offline store-page editor.
 
 #### Bitmap Compression
 
