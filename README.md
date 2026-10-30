@@ -438,6 +438,7 @@ _Audio editors, sounds collections and more._
 - :tada: [Slip Sound](https://stuyk.github.io/slip-sound) - Fast, local desktop audio sample manager for searching and organizing large sound libraries. No accounts or file caps, with MCP support. [Source](https://github.com/stuyk/slip-sound)
 - :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 - :free: [SunVox](https://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+- :money_with_wings: [SuperClonica](https://superclonica.com/en/guides/text-to-speech-for-games) - AI voice acting for NPC lines and dialogue: a free, open-source (Apache-2.0) offline TTS engine for 31 languages that runs on a CPU, with Unity and Godot guides; character voices are sold separately.
 
 ## Board Games
 
