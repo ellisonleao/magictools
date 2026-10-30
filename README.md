@@ -221,6 +221,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [goxel](https://github.com/guillaumechereau/goxel)
 - :free: [MagicaVoxel](https://ephtracy.github.io/)
 - :free: [Sproxel](https://sproxel.blogspot.com.br/)
+- :money_with_wings: [VoxiGen](https://voxigen.io/en/studio) - Voxel editor for building game models and levels in the browser or on desktop, with game-ready export.
 
 ## Code
 
