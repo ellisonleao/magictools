@@ -577,6 +577,7 @@ _We still need to make some money, right?_
 - :free: [Appodeal](https://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 - :tada: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.
 - :free: [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
+- :free: [GameDevTool](https://gamedevtool.com/roblox) - Free Roblox monetization calculators for the 30% Marketplace Fee, DevEx cash-out value, UGC creator share and game pass pricing.
 - :free: [Unity Ads](https://unity.com/products/unity-ads) - Unity3D Official Ads SDK.
 - :free: [Vungle](https://vungle.com/) - Video Ads service.
 
