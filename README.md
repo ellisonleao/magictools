@@ -105,6 +105,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
+- :moneybag: [SpritePouch](https://natethagreat1213.itch.io/spritepouch) - Paid offline HTML tool for slicing fixed-grid PNG sprite sheets, previewing frame sequences, and exporting untrimmed PNG frames plus generic JSON in a ZIP.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 
 #### Bitmap Compression
