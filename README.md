@@ -193,6 +193,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Timanthes](https://csdb.dk/release/?id=75871) - A pixel art editor for the Commodore 64 computer running on Windows
 - :money_with_wings: [Vector Magic](https://vectormagic.com/) - Free Raster to Vector Graphics Converter
 - :tada: [VTracer](https://www.visioncortex.org/vtracer/) - Raster to Vector Graphics Converter built on top of visioncortex
+- :tada: [Xprite](https://xprite.cc/) - Browser-based editor for creating pixel art and animated sprites for 2D games. Opens and saves .aseprite files.
 
 #### Modeling
 
