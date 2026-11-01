@@ -1,46 +1,27 @@
 reviews:
+  auto_approvals:
+    enabled: true
   tools:
     github-checks:
       enabled: true
   path_instructions:
     - path: "README.md"
       instructions: |
-        When reviewing changes to README.md, perform the following checks:
+        When reviewing changes to README.md, only evaluate list entries/links that are newly added by this pull request (new `- ` / `* ` lines introducing a link). Do not re-validate or flag pre-existing entries that the PR did not touch, even if they would fail one of the checks below. If an existing entry was only repositioned (e.g. as a side effect of inserting a new entry) without any content change, do not flag it, but still use it as context to confirm the resulting order is correct.
 
-        ## 1. Link Validation
-        For every link in the markdown file (both new and existing), verify they are accessible:
-        - Only allow http and https URLs; flag any other protocol (ftp, file, mailto, javascript, etc.)
-        - Resolve the hostname and reject private, loopback, link-local, and other internal addresses (e.g., 127.0.0.1, 10.x.x.x, 192.168.x.x, 169.254.x.x, ::1)
-        - Follow HTTP redirects and revalidate each redirect target against the same rules
-        - Perform requests without credentials (no cookies, tokens, or auth headers)
-        - A link is valid if the final response returns 200
-        - Flag broken links: 404, timeout, DNS failure, or any non-200 final status
-        - Report dead links as issues that need fixing
+        Apply the full "Rules that apply to any change to README.md" checklist from AGENTS.md at the repo root to every newly added entry: alphabetical ordering within its section, required license emoji (with the documented exceptions for Blogs and Portals, Videos/Podcasts, Game Jams, and Communities), link validation (https:// only, well-formed, reachable, 100+ GitHub stars for repo links), and game-development relevance.
 
-        ## 2. Alphabetical Ordering
-        Each section/subsection must have its entries in alphabetical order:
-        - Entries within `#### Assets/Placeholders`, `#### Spritesheet Tools`, etc. should be sorted A-Z by name
-        - The sort key is the link text (the part inside `[]`)
-        - Flag entries that are out of alphabetical order
-
-        ## 3. License Emoji Validation
-        Each list entry must start with one of these valid emojis:
-        - `:free:` - Free
-        - `:tada:` - Open Source  
-        - `:moneybag:` - Paid
-        - `:money_with_wings:` - Partially Free
-
-        Flag any entries that:
-        - Use an invalid emoji (not one of the four above)
-        - Are missing an emoji entirely
-        - Use inconsistent emoji format (e.g., `🆓` instead of `:free:`)
+        If any check fails for a newly added link, comment directly on that line, tag the PR author, and clearly explain which check(s) failed and what needs to be fixed. When any new link fails a check, request changes on the review instead of approving.
   pre_merge_checks:
     custom_checks:
-      - name: "README Validation"
+      - name: "README New Links Validation"
         mode: "error"
         instructions: |
-          If README.md is changed in this PR, validate the following:
-          1. Link Validation: Only allow http/https URLs. Resolve hostnames and reject private, loopback, link-local, and internal addresses (127.0.0.1, 10.x.x.x, 192.168.x.x, 169.254.x.x, ::1). Follow redirects and revalidate each target. Perform requests without credentials. All links must return HTTP 200. Report any broken, invalid, or internal links.
-          2. Alphabetical Ordering: Each subsection (e.g., Assets/Placeholders, Spritesheet Tools, Animation) must have entries sorted alphabetically by link text (the text inside []).
-          3. License Emoji: Each list entry must start with exactly one of: :free:, :tada:, :moneybag:, :money_with_wings:. No other emojis or missing emojis are allowed.
-          Pass only if all three conditions are met. Fail if any condition is violated.
+          If README.md is changed in this PR, validate ONLY the links/entries newly added by this PR. Ignore pre-existing entries that were not changed by the PR, even if they would otherwise fail a check.
+
+          1. Alphabetical Ordering: Each newly added entry must be inserted in the correct alphabetical position (sorted A-Z by the link text inside `[]`) within its section/subsection.
+          2. License Emoji: Each newly added entry must start with exactly one of: :free:, :tada:, :moneybag:, :money_with_wings:. No other emojis or missing emojis are allowed. Exception: entries added under "Blogs and Portals", "Videos/Podcasts", "Game Jams", and "Communities" are exempt from this requirement.
+          3. Link Validity: Each newly added link must be a valid, well-formed, reachable URL using https:// only (reject http:// and any other scheme). If the link is a GitHub repository, it must have at least 100 stars.
+          4. Game Dev Relevance: Each newly added link must be explicitly about game development. Reject general-purpose tools/sites that have no specific game-development focus.
+
+          Pass only if all four conditions are met for every newly added link. If any condition is violated, fail the check and mention/tag the PR author in the result, explicitly asking them to fix the reported issue(s) before the PR can be merged.
