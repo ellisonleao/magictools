@@ -139,7 +139,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Material Maker](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 - :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 - :tada: [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
-- :free: [SimplePixelArt Tileset Editor](https://simplepixelart.com/tileset) - Draw auto-tile tilesets in the browser and export them as Godot TileSet (.tres) and Tiled (.tsx) files.
+- :free: [SimplePixelArt Tileset Editor](https://simplepixelart.com/tilesets/editor) - Draw auto-tile tilesets in the browser and export them as Godot TileSet (.tres) and Tiled (.tsx) files.
 - :free: [Sprite Fusion](https://spritefusion.com/) - A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
 - :tada: [Tiled](https://www.mapeditor.org/) - free, easy to use and flexible tile map editor.
 
