@@ -80,6 +80,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Kenney Assets](https://kenney.nl/assets) - Royalty free assets
 - :free: [Liberated Pixel Cup assets](https://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
 - :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
+- :free: [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Browser image-to-Minecraft block blueprints with material lists, PNG plans and Java structure NBT export; no account required.
 - :free: [OpenGameArt](https://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](https://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 - :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
