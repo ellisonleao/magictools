@@ -106,6 +106,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
+- :free: [SpriteCanvas Sprite Sheet Tools](https://spritecanvas.com/tools/) - Free browser tools that slice a sprite sheet into frames, pack images into a sheet, convert GIFs to sheets and back, and turn MP4/WebM clips into sheets with a JSON atlas. Files stay on your device; no account needed.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 
 #### Bitmap Compression
@@ -395,6 +396,7 @@ _Set of game frameworks, engines and platforms_
 - :money_with_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 - :money_with_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
+- :money_with_wings: [SpriteCanvas](https://spritecanvas.com/) - AI sprite animation generator for 2D games: make a character from text or an image, animate idle, walk, run, jump and attack moves, and export transparent PNG sprite sheets with a JSON atlas for Phaser, PixiJS and Godot. Free daily credits.
 - :money_with_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
 - :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 - :money_with_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
