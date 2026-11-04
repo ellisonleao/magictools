@@ -51,6 +51,7 @@ To get your pull request accepted, your link must follow these rules:
 - [Must see](#must-see)
   - [Blogs and Portals](#blogs-and-portals)
   - [Books](#books)
+  - [Documentation Tools](#documentation-tools)
   - [Magazines](#magazines)
   - [Videos/Podcasts](#videospodcasts)
   - [Game Jams](#game-jams)
@@ -514,6 +515,10 @@ _Blogs, portals, magazines and more_
 - :moneybag: [Theory of Fun](https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 - :moneybag: [Tricks of the Windows Game Programming Gurus](https://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
 - :moneybag: [Unity in Action (book)](https://www.manning.com/books/unity-in-action-second-edition)
+
+### Documentation Tools
+
+- :money_with_wings: [Strudo](https://strudoapp.com/) - Game development documentation platform for creating and managing GDDs and other production documents.
 
 ### Magazines
 
