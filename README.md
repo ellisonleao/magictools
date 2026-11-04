@@ -76,6 +76,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Crisp Icons Free](https://anipixels.itch.io/crisp-icons-free) - 42 rounded game UI icons in white and dark, as 64 px PNG and SVG; royalty-free for commercial use, no credit required. Drawn procedurally by code written with an AI assistant, no image generators.
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 - :free: [Games-Icons Set](https://game-icons.net/) - free icons for your games.
+- :money_with_wings: [Gridwright Studio](https://gridwright.store/) - Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.
 - :free: [Iconmonstr](https://iconmonstr.com/) - Another free icons resource for your games.
 - :money_with_wings: [Kenney Assets](https://kenney.nl/assets) - Royalty free assets
 - :free: [Liberated Pixel Cup assets](https://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
@@ -178,6 +179,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Paint.NET](https://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 - :tada: [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact colour palette from any sprite or image in the browser and export it as GIMP/Aseprite .gpl, Lospec .hex, CSS, JSON or a PNG strip. Runs locally, nothing is uploaded. [Source](https://github.com/pixelpixi/spritewright)
 - :money_with_wings: [Pic2SVG](https://pic2svg.com/) - Raster-to-vector tracing preview for inspecting flat artwork intended for game icons or UI. Free anonymous split preview and enlarged view; downloads require Pro. Images are processed on the server.
+- :free: [Pic2Vector](https://pic2vector.com/) - Free in-browser PNG/JPG/WebP to layered SVG tracer for game icons and UI art. Runs locally with WebAssembly (vtracer); no upload, no account, watermark-free export.
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](https://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 - :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
