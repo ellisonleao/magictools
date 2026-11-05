@@ -533,6 +533,7 @@ _Blogs, portals, magazines and more_
 
 ### Game Jams
 
+- [Fright Queue Horror Jam Tracker](https://frightqueue.thejurn.com/jams/) - Nightly-updated tracker of horror game jams on itch.io
 - [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
 - [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat:
 - [GMTK Game Jam](https://itch.io/jam/gmtk-jam-2022) - Popular yearly game jam
@@ -544,6 +545,7 @@ _Blogs, portals, magazines and more_
 
 - :moneybag: [Casual](https://casual.pm/) - Visual Project Management
 - :money_with_wings: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
+- :free: [Fright Queue Dev Planner](https://frightqueue.thejurn.com/dev-planner/) - Steam sale and festival calendar for indie devs, with 30-day discount cooldown windows to plan launches and discounts
 - :money_with_wings: [Gamifying](https://gamifying.dev/) - Browser workspace for game design: characters, quests, items and lore as linked entries, with Kanban board, timeline and JSON export.
 - :money_with_wings: [HacknPlan](https://hacknplan.com/) - Project management for game developers
 - :money_with_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
