@@ -122,6 +122,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Texture Tools
 
+- :money_with_wings: [DDS Tools](https://ddstools.com/) - Fast DDS texture converter and viewer for game modders that runs in the browser. Converts PNG, JPG, TGA and WebP to BC1, BC3, BC5 or BC7 DDS and DDS back to PNG. Files are processed locally, without uploading to a server.
 - :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
 - :money_with_wings: [GameShipKit Sprite Normal Map](https://gameshipkit.com/tools/sprite-normal-map/) - Generate normal maps from 2D sprites for lit 2D scenes.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
