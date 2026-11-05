@@ -76,10 +76,12 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Crisp Icons Free](https://anipixels.itch.io/crisp-icons-free) - 42 rounded game UI icons in white and dark, as 64 px PNG and SVG; royalty-free for commercial use, no credit required. Drawn procedurally by code written with an AI assistant, no image generators.
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 - :free: [Games-Icons Set](https://game-icons.net/) - free icons for your games.
+- :money_with_wings: [Gridwright Studio](https://gridwright.store/) - Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.
 - :free: [Iconmonstr](https://iconmonstr.com/) - Another free icons resource for your games.
 - :money_with_wings: [Kenney Assets](https://kenney.nl/assets) - Royalty free assets
 - :free: [Liberated Pixel Cup assets](https://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
 - :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
+- :free: [Minecraft Pixel Art](https://minecraft-pixel-art.com/editor/blueprint) - Browser image-to-Minecraft block blueprints with material lists, PNG plans and Java structure NBT export; no account required.
 - :free: [OpenGameArt](https://opengameart.org/) - a media repository intended for use with free software game projects.
 - :moneybag: [Oryx Design Lab](https://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 - :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter.
@@ -105,6 +107,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
+- :free: [SpriteCanvas Sprite Sheet Tools](https://spritecanvas.com/tools/) - Free browser tools that slice a sprite sheet into frames, pack images into a sheet, convert GIFs to sheets and back, and turn MP4/WebM clips into sheets with a JSON atlas. Files stay on your device; no account needed.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 
 #### Bitmap Compression
@@ -119,7 +122,9 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Texture Tools
 
+- :money_with_wings: [DDS Tools](https://ddstools.com/) - Fast DDS texture converter and viewer for game modders that runs in the browser. Converts PNG, JPG, TGA and WebP to BC1, BC3, BC5 or BC7 DDS and DDS back to PNG. Files are processed locally, without uploading to a server.
 - :moneybag: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
+- :money_with_wings: [GameShipKit Sprite Normal Map](https://gameshipkit.com/tools/sprite-normal-map/) - Generate normal maps from 2D sprites for lit 2D scenes.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
 - :tada: [MeshCoat](https://stuyk.github.io/meshcoat) - Fast, offline desktop texture painter: load a 3D model and paint PBR materials directly onto the mesh, then export texture maps. [Source](https://github.com/stuyk/meshcoat)
 - :free: [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
@@ -130,10 +135,13 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Character Generators
 
 - :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
+- :money_with_wings: [GameShipKit 2D Character Rigging](https://gameshipkit.com/tools/character-rigging/) - Rig a 2D character in the browser and export idle, walk and attack animations as sprite sheets.
 
 #### Tile/Level Editors
 
 - :moneybag: [AutoTileGen](https://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
+- :money_with_wings: [GameShipKit Autotile Generator](https://gameshipkit.com/tools/autotile-generator/) - Make blob and RPG Maker style autotiles from two textures, with Godot 4 and Tiled tilesets.
+- :money_with_wings: [GameShipKit Map Generator](https://gameshipkit.com/tools/map-generator/) - Seeded dungeon, cave and island maps, exported as PNG, Tiled JSON and CSV.
 - :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
 - :money_with_wings: [MapperMate](https://mappermate.com/) - A cloud based tile map editor used to create 2D levels directly in the browser.
 - :tada: [Material Maker](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
@@ -146,7 +154,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Animation
 
 - :moneybag: [AnimKit](https://www.nasrtech.dev/animkit) - Maya animation toolkit with live tweening, smart keys, motion trails, a pose library and Mixamo retargeting. An affordable animBot alternative.
-- :tada: [Ayatsuri2D](https://ayatsuri-2d.org/) - free, open-source 2D mesh rigging editor for Live2D-style puppets: deformers, parameters and physics, exports moc3, with a C ABI (Apache-2.0) to embed models in games. [Source](https://github.com/Yoru-KenomoVT/ayatsuri_2d)
 - :money_with_wings: [Cascadeur](https://cascadeur.com/) - Powerful physics-based 3D character animation
 - :moneybag: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers.
 - :free: [GameAsset.net](https://gameasset.net/) - 10,000+ free CC0 character animations, previewable in 3D with GLB download.
@@ -158,6 +165,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [NixieFX](https://nixiefx.com/) - Free browser-based particle and VFX editor for Three.js and PixiJS web games, with an open-source runtime.
 - :tada: [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) - Powerful node-based VFX editor for pixel art
 - :moneybag: [Riggy](https://riggyapp.com/) - AI rigs a layered PSD into a Spine 4.2 skeleton with animations from a text description; exports plain skeleton.json and atlas.
+- :money_with_wings: [SlotVFX](https://slotvfx.com/) - Desktop editor for particles and game VFX with Spine support. Free to use; exports for Pixi, Phaser, Cocos Creator and WebGL2 need a paid plan.
 - :moneybag: [Spine](https://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games.
 - :moneybag: [Spriter Pro](https://brashmonkey.com/download-spriter-pro/) - Modern tool for sprite animation.
 
@@ -177,6 +185,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [Paint.NET](https://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows.
 - :tada: [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Extract the exact colour palette from any sprite or image in the browser and export it as GIMP/Aseprite .gpl, Lospec .hex, CSS, JSON or a PNG strip. Runs locally, nothing is uploaded. [Source](https://github.com/pixelpixi/spritewright)
 - :money_with_wings: [Pic2SVG](https://pic2svg.com/) - Raster-to-vector tracing preview for inspecting flat artwork intended for game icons or UI. Free anonymous split preview and enlarged view; downloads require Pro. Images are processed on the server.
+- :free: [Pic2Vector](https://pic2vector.com/) - Free in-browser PNG/JPG/WebP to layered SVG tracer for game icons and UI art. Runs locally with WebAssembly (vtracer); no upload, no account, watermark-free export.
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](https://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 - :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
@@ -209,6 +218,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [modo](https://www.foundry.com/products/modo)
 - :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
 - :money_with_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
+- :money_with_wings: [Unity Asset Exporter](https://extractunitypackage.com) - Open .unitypackage files in the browser without Unity and export models as textured GLB.
 - :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
 - :moneybag: [ZBrush](https://pixologic.com/)
 
@@ -389,17 +399,21 @@ _Set of game frameworks, engines and platforms_
 - :moneybag: [3D-Agent](https://3d-agent.com/blender-ai) - AI agent for game-ready 3D assets in Blender: models with clean quad topology and UVs, materials, rigs and animation from plain-language prompts, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio for scripts, assets and playtests, and builds FiveM / GTA V scenes.
 - :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
 - :money_with_wings: [Coplay](https://coplay.dev?ref=github&utm_source=magictools) - AI Copilot for Unity
+- :money_with_wings: [Flockbay](https://flockbay.com/?utm_source=magictools&utm_medium=directory&utm_campaign=listing) - Free AI game maker built on Godot: a desktop app where an AI agent builds and playtests a Godot 4 project on your disk, on free hosted AI, your own Claude or ChatGPT account, or your own agent over MCP. Optional paid plans add hosted AI usage.
 - :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
 - :free: [IndieToolChest](https://indietoolchest.com) - Curated directory of AI tools for indie game dev, organized by task (art, 3D, audio, NPCs, code, QA, marketing).
 - :money_with_wings: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles or matched to your own style references. Ships an MCP server, REST API and Unity plugin.
+- :free: [QuickMatch](https://quickmatch.si) - Free comparison of AI tools for making games and AI agent skills for game dev. Prices, free tiers and commercial-use terms come from each vendor's own page with the date checked, plus a matcher that suggests tools from a few questions.
 - :free: [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for 30+ AI game-dev tools. Each verified row cites its source (vendor page or Steamworks docs) with a link and date.
 - :money_with_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 - :money_with_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
+- :money_with_wings: [SpriteCanvas](https://spritecanvas.com/) - AI sprite animation generator for 2D games: make a character from text or an image, animate idle, walk, run, jump and attack moves, and export transparent PNG sprite sheets with a JSON atlas for Phaser, PixiJS and Godot. Free daily credits.
 - :money_with_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
 - :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 - :money_with_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
 - :free: [WishlistForge Steam Description Scorer](https://wishlistforge.com/tools/steam-description) - free in-browser scorer for Steam short descriptions. It checks length, hook, genre clarity, player fantasy and call to action, and suggests a rewrite. No account needed.
+- :money_with_wings: [Ziva.sh](https://ziva.sh/) - AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.
 
 ## Audio
 
