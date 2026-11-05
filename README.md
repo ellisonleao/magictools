@@ -130,6 +130,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 - :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 - :tada: [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Generate normal maps from pixel art sprites and animations.
+- :money_with_wings: [twirl](https://twirl.tools/) - Generates PBR materials from a text prompt (albedo, normal, roughness, metallic, height). Public material library downloads free without an account.
 
 #### Character Generators
 
