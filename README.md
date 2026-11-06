@@ -32,6 +32,7 @@ To get your pull request accepted, your link must follow these rules:
 - [Graphics](#graphics)
   - [Assets/Placeholders](#assetsplaceholders)
   - [Spritesheet Tools](#spritesheet-tools)
+  - [Store Page Tools](#store-page-tools)
   - [Bitmap Compression](#bitmap-compression)
   - [Texture Tools](#texture-tools)
   - [Character Generators](#character-generators)
@@ -109,6 +110,10 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
 - :free: [SpriteCanvas Sprite Sheet Tools](https://spritecanvas.com/tools/) - Free browser tools that slice a sprite sheet into frames, pack images into a sheet, convert GIFs to sheets and back, and turn MP4/WebM clips into sheets with a JSON atlas. Files stay on your device; no account needed.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
+
+#### Store Page Tools
+
+- :money_with_wings: [Storefront Lab](https://storefront-lab-qamar.oasisaqa.chatgpt.site/) - Free Steam capsule dimension checker with local image previews, plus an optional paid offline store-page editor.
 
 #### Bitmap Compression
 
