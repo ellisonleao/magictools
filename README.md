@@ -213,6 +213,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [modo](https://www.foundry.com/products/modo)
 - :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
 - :money_with_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
+- :money_with_wings: [Trify3D](https://trify3d.com/) - Browser-based AI 3D generator that runs Tripo3D, Meshy and Rodin side by side and exports game-ready GLB and OBJ assets.
 - :money_with_wings: [Unity Asset Exporter](https://extractunitypackage.com) - Open .unitypackage files in the browser without Unity and export models as textured GLB.
 - :free: [Womp](https://womp.com/) - A 3D intuitive and easy to use for create right in your browser
 - :moneybag: [ZBrush](https://pixologic.com/)
