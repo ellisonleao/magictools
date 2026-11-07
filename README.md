@@ -455,6 +455,7 @@ _Audio editors, sounds collections and more._
 _Tools for making board games_
 
 - :free: [Iterary](https://www.iterary.com) - Board Game Design Tool.
+- :free: [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) - Generate NPC cards with names, roles, motives, flaws, secrets, factions and story hooks for tabletop RPG preparation.
 - :tada: [RPTools](https://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
 
 ## Must see
