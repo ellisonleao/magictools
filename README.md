@@ -102,6 +102,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 #### Spritesheet Tools
 
 - :free: [AnimGen Free Sprite Sheet Tools](https://animgen.com/tools) - Browser tools that convert GIFs to sprite sheets and back, slice grid sheets or auto-extract sprites from sheets with no grid, export PNG sequences, and remove solid or green-screen GIF backgrounds. Files stay on your device; sheets come with Aseprite-format JSON.
+- :moneybag: [Border Kit for Tiled](https://frenkitchio.itch.io/border-kit-for-tiled) - Python CLI to extrude PNG tilesets and update external TSX files while preserving tile IDs, animations and collision objects.
 - :tada: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
 - :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 - :tada: [Ludo Toolbox](https://ludo.ai/developers/toolbox) - Free, open-source (MIT) command-line tools that run offline: slice and join spritesheets, find a sprite's feet pivot and box/capsule colliders, check loops, recolor to Lospec palettes, cut tilesets, and export to Godot, Unity, Phaser and TexturePacker. Plain JSON output for scripts and coding agents.
@@ -129,6 +130,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [GameShipKit Sprite Normal Map](https://gameshipkit.com/tools/sprite-normal-map/) - Generate normal maps from 2D sprites for lit 2D scenes.
 - :free: [Live Normal](https://tenebrislab.github.io/livenormal/) - An Android and iOS app for generating seamless materials on the go. You take a photo, and Live Normal creates a tile-able texture and generates texture maps ready for a PBR engine of your choice.
 - :free: [Nebula Forge](https://nebulakit.itch.io/nebula-forge) - Browser-based procedural nebula background generator with adjustable controls and PNG export. Runs locally without signup.
+- :free: [Normal Map Bench](https://normalmapbench.com/) - Generate tangent-space normal maps for game textures from height images in the browser, with a live lighting preview and OpenGL or DirectX PNG export.
 - :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 - :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 - :tada: [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Generate normal maps from pixel art sprites and animations.
@@ -177,6 +179,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :tada: [Gimp](https://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
 - :tada: [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X.
+- :money_with_wings: [klad](https://klad.studio) - Drawing and animation app for 2D game art that people and coding agents edit together: every stroke and fill stays editable data, pixel layers, tilesets with Godot TileSet export, Aseprite in and out, sprite sheet and GIF export, and MIT agent skills that teach any agent to paint and judge drawing and pixel art. Free for personal use and small companies. [Source](https://github.com/klad-app/klad)
 - :tada: [Krita](https://krita.org/) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 - :tada: [LibreSprite](https://libresprite.github.io/) - LibreSprite is an open source fork of Aseprite.
 - :moneybag: [Lightcube](https://www.lightcube.art/) - Pixel Art Editor for Windows, supposed PSD files in addition to JPEG, PNG, BMP, GIF.
@@ -188,6 +191,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :moneybag: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor.
 - :tada: [PiskelApp](https://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool.
 - :money_with_wings: [Pixanima](https://pixanima.app) - Free in-browser pixel-art and animation editor with layers, a frame timeline, GIF/sprite-sheet export, and an optional AI assistant.
+- :free: [PixelArtHive Sprite Upscaler](https://pixelarthive.com/pixel-art-upscaler) - Resize sprites for 2D games at whole-number scales without blur. Runs in the browser without uploading the sprite.
 - :moneybag: [Pixelator](http://pixelatorapp.com) - Turn any image into fancy pixel-art
 - :moneybag: [Pixelmator](https://www.pixelmator.com) - Full-featured image editing app for the Mac
 - :moneybag: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
@@ -395,7 +399,9 @@ _Set of game frameworks, engines and platforms_
 
 ### AI
 - :moneybag: [3D-Agent](https://3d-agent.com/blender-ai) - AI agent for game-ready 3D assets in Blender: models with clean quad topology and UVs, materials, rigs and animation from plain-language prompts, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio for scripts, assets and playtests, and builds FiveM / GTA V scenes.
+- :tada: [AI Art Engine](https://github.com/Justin-sky/ai-art-engine) - Node-based AI game asset studio for generating and refining sprites, Spine 2D/DragonBones/Live2D rigs, 3D models, PBR materials, shaders and SFX, with MCP agent control and Unity/Godot/Cocos export.
 - :tada: [AI Game Developer](https://github.com/IvanMurzak/Unity-MCP) - `Unity Editor` and `Unity Runtime` AI integration. Unit Test, Coding, C# Roslyn, Reflection, Assets. Helps to create games with AI. And helps to run AI logic during gameplay.
+- :moneybag: [Buildaloo](https://buildaloo.com/?utm_source=magictools&utm_medium=directory) - AI game maker for kids 5–12: a kid says a game idea out loud and plays the game in the browser. Parent account, no ads, no stranger chat.
 - :money_with_wings: [Coplay](https://coplay.dev?ref=github&utm_source=magictools) - AI Copilot for Unity
 - :money_with_wings: [Flockbay](https://flockbay.com/?utm_source=magictools&utm_medium=directory&utm_campaign=listing) - Free AI game maker built on Godot: a desktop app where an AI agent builds and playtests a Godot 4 project on your disk, on free hosted AI, your own Claude or ChatGPT account, or your own agent over MCP. Optional paid plans add hosted AI usage.
 - :tada: [Fluent Behaviour Tree](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
