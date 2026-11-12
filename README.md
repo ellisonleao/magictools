@@ -611,6 +611,7 @@ _Online courses, tutorials, screencasts_
 - :money_with_wings: [Chris Courses: Complete courses for an assortment of 2D games](https://chriscourses.com/)
 - :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 - :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
+- :free: [HTML Game Code: 25 one-file HTML5 canvas games with step-by-step tutorials](https://html5gamesstudio.com/html-game-code) - Snake, Pong, Breakout, Tetris, match-3, platformer and more, each with MIT source.
 - :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 - :free: [miloyip/game-programmer](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 - :free: [Simple HTML5 Canvas Game](https://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
