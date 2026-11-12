@@ -475,6 +475,7 @@ _Blogs, portals, magazines and more_
 - [Emanuele Feronato's Blog](https://www.emanueleferonato.com/)
 - [Gamasutra](https://www.gamasutra.com/)
 - [Game Development on StackExchange](https://gamedev.stackexchange.com/)
+- [Gamealia](https://gamealia.app/) - Free HTML5 web games portal in 32 languages; developers publish their web games (HTML5, Unity WebGL, Godot) with an ad revenue share and no exclusivity.
 - [GameDevs.org](https://gamedevs.org/)
 - [GameIdea](https://gameidea.org)
 - [GameJolt](https://gamejolt.com/)
