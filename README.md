@@ -411,6 +411,7 @@ _Set of game frameworks, engines and platforms_
 - :free: [QuickMatch](https://quickmatch.si) - Free comparison of AI tools for making games and AI agent skills for game dev. Prices, free tiers and commercial-use terms come from each vendor's own page with the date checked, plus a matcher that suggests tools from a few questions.
 - :free: [RespawnStack](https://respawnstack.com) - Free directory of pricing, commercial-use and ownership terms for 30+ AI game-dev tools. Each verified row cites its source (vendor page or Steamworks docs) with a link and date.
 - :money_with_wings: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
+- :free: [Roblox GUI Maker](https://robloxguimaker.dev/) - AI-assisted Roblox Studio GUI layout and Lua starter code generator.
 - :tada: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 - :money_with_wings: [Sprite Fusion AI Pixel Art Generator](https://www.spritefusion.com/pixel-art-generator) - AI-powered browser studio for generating, editing, animating, and exporting game-ready pixel art sprites, icons, props, and spritesheets.
 - :money_with_wings: [SpriteCanvas](https://spritecanvas.com/) - AI sprite animation generator for 2D games: make a character from text or an image, animate idle, walk, run, jump and attack moves, and export transparent PNG sprite sheets with a JSON atlas for Phaser, PixiJS and Godot. Free daily credits.
