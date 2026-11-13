@@ -110,6 +110,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [SnowB Bitmap Font](https://snowb.org/) - Bitmap font generator
 - :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
 - :free: [SpriteCanvas Sprite Sheet Tools](https://spritecanvas.com/tools/) - Free browser tools that slice a sprite sheet into frames, pack images into a sheet, convert GIFs to sheets and back, and turn MP4/WebM clips into sheets with a JSON atlas. Files stay on your device; no account needed.
+- :moneybag: [SpritePouch](https://natethagreat1213.itch.io/spritepouch) - Paid offline HTML tool for slicing fixed-grid PNG sprite sheets, previewing frame sequences, and exporting untrimmed PNG frames plus generic JSON in a ZIP.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 
 #### Bitmap Compression
