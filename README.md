@@ -111,6 +111,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Sprite Sheet Builder](https://spritesheetbuilder.com/) - Free browser-based sprite sheet maker: pack frames, split atlases, convert GIFs, export PNG + JSON/XML for Unity, Godot, Phaser and FNF.
 - :free: [SpriteCanvas Sprite Sheet Tools](https://spritecanvas.com/tools/) - Free browser tools that slice a sprite sheet into frames, pack images into a sheet, convert GIFs to sheets and back, and turn MP4/WebM clips into sheets with a JSON atlas. Files stay on your device; no account needed.
 - :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
+- :free: [Voidless Texture Packer](https://voidless.dev/tools/sprite-sheet-packer) - Free browser tool that packs sprites into a texture atlas with JSON (Phaser / PixiJS frame format) or CSS coordinates. Comes with a sprite sheet slicer that exports every frame as a PNG in a ZIP.
 
 #### Bitmap Compression
 
@@ -236,6 +237,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [goxel](https://github.com/guillaumechereau/goxel)
 - :free: [MagicaVoxel](https://ephtracy.github.io/)
 - :free: [Sproxel](https://sproxel.blogspot.com.br/)
+- :free: [Voidless Voxel Editor](https://voidless.dev/tools/voxel-editor) - Free browser voxel editor with box, line and mirror tools. Exports MagicaVoxel .vox, GLB, OBJ, or 8-direction pixel-art sprites for 2D games.
 - :money_with_wings: [VoxiGen](https://voxigen.io/en/studio) - Voxel editor for building game models and levels in the browser or on desktop, with game-ready export.
 
 ## Code
@@ -458,6 +460,8 @@ _Audio editors, sounds collections and more._
 - :moneybag: [Resemble](https://www.resemble.ai/) - Resemble's voice cloning engine within Unity
 - :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 - :free: [SunVox](https://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+- :free: [Voidless 8-Bit Sound Generator](https://voidless.dev/tools/retro-sound-effect-generator) - sfxr-style sound effect generator in the browser: jump, coin, laser, hit and explosion sounds, tweakable synth, WAV export.
+- :free: [Voidless Chiptune Maker](https://voidless.dev/tools/chiptune-tracker) - Browser step sequencer for 8-bit music in any key; arrange sections into a full track and export a WAV.
 
 ## Board Games
 
