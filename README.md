@@ -77,7 +77,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 - :free: [Games-Icons Set](https://game-icons.net/) - free icons for your games.
 - :money_with_wings: [Gridwright Studio](https://gridwright.store/) - Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.
-- :free: [Iconito Free Food](https://iconi.to/free-food-icons) - Colour food icons for cooking, farming and cozy games, as SVG under the MIT license.
+- :free: [Iconito Game Food Icons](https://iconi.to/game-food-icons) - Food icons for cooking, farming and cozy games, free under the MIT license as SVG, in Figma and on Iconify.
 - :free: [Iconmonstr](https://iconmonstr.com/) - Another free icons resource for your games.
 - :money_with_wings: [Kenney Assets](https://kenney.nl/assets) - Royalty free assets
 - :free: [Liberated Pixel Cup assets](https://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
