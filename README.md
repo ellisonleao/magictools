@@ -92,6 +92,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Poly Pizza](https://poly.pizza) - 6000+ free low poly models
 - :free: [Quaternius](https://quaternius.com/) - Thousands of free CC0 low-poly 3D models and animated characters.
 - :free: [Reiner's Tilesets](https://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
+- :free: [SceneCrate Free 3D Game Assets](https://scenecrate.com/free-3d-game-assets) - Nine walkable CC0 1.0 3D browser-game scenes (buildings, heightfield terrain, and static props) in two measured GLB tiers, with JSON colliders and offline Three.js examples; no account required.
 - :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
 - :free: [SpriteLib](https://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 - :free: [StickyPNG](https://www.stickpng.com/) - Free transparent PNG images.
