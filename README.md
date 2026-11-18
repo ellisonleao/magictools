@@ -606,6 +606,7 @@ _We still need to make some money, right?_
 - :free: [AdColony](https://www.adcolony.com/) - Mobile video Ads service.
 - :free: [AdMob by Google](https://www.google.com/admob/) - Google's Ads and monetization service for mobile.
 - :free: [Appodeal](https://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+- :free: [Boltshorts Mobile Game Benchmarks](https://boltshorts.com/data/genres/) - Open data on ~8,000 iPhone and Android games by genre: share with ads and in-app purchases, prices, download size and ratings, read from the App Store and Google Play.
 - :tada: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Rewarded ads, leaderboards and cloud saves for HTML5 games published on the Bounty Board Arcade.
 - :free: [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 - :free: [GameDevTool](https://gamedevtool.com/roblox) - Free Roblox monetization calculators for the 30% Marketplace Fee, DevEx cash-out value, UGC creator share and game pass pricing.
