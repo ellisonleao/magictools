@@ -74,6 +74,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects
 - :money_with_wings: [CGTextures](https://www.textures.com) - A large collection of textures.
 - :free: [Crisp Icons Free](https://anipixels.itch.io/crisp-icons-free) - 42 rounded game UI icons in white and dark, as 64 px PNG and SVG; royalty-free for commercial use, no credit required. Drawn procedurally by code written with an AI assistant, no image generators.
+- :tada: [Free Game Dev Assets](https://tmhsdigital.github.io/Free-Game-Dev-Assets/) - Catalog of free game assets and tools where each licence is quoted from its source with the date it was read, and marked commercial OK or not.
 - :money_with_wings: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators.
 - :free: [Games-Icons Set](https://game-icons.net/) - free icons for your games.
 - :money_with_wings: [Gridwright Studio](https://gridwright.store/) - Subscription library of pixel-art game asset packs (tilesets, characters, UI, icons, effects, isometric, music and SFX) for any engine, many with Godot scenes and Tiled tilesets. Free samples with a free account. Drawn in code with AI-assisted tools.
