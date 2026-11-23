@@ -518,6 +518,7 @@ _Blogs, portals, magazines and more_
 - [indiegames](https://indiegamesplus.com/)
 - [Lost Garden](https://www.lostgarden.com/)
 - [Mod DB](https://www.moddb.com/)
+- [neme.world](https://neme.world/developers) - Browser game publishing and playtest platform with CLI and MCP workflows, versioned builds, embedding on developer sites and per-version reports for Play, load, retention, last point reached and player notes.
 - [Polygon](https://www.polygon.com/)
 - [Real-Time Rendering](https://www.realtimerendering.com/)
 - [TIGSource](https://www.tigsource.com/)
