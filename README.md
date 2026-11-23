@@ -149,6 +149,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 #### Character Generators
 
+- :free: [AvatarSay Fantasy NPC Generator](https://avatarsay.com/fantasy-npc-generator?ref=awesome-magictools&utm_medium=awesome-list&utm_campaign=mcp) - Browser-based fantasy and RPG NPC character generator with randomized ancestry, roles, traits, and portrait prompts for game development and tabletop campaigns (no signup required).
 - :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
 - :money_with_wings: [GameShipKit 2D Character Rigging](https://gameshipkit.com/tools/character-rigging/) - Rig a 2D character in the browser and export idle, walk and attack animations as sprite sheets.
 
