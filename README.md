@@ -523,6 +523,7 @@ _Blogs, portals, magazines and more_
 - [Lost Garden](https://www.lostgarden.com/)
 - [Mod DB](https://www.moddb.com/)
 - [neme.world](https://neme.world/) - Publish browser games with version history, rollback, player feedback, and playtest reports.
+- [Open Web Arcade](https://openwebarcade.com/) - Free directory of open-source browser games; developers list a link or upload a zip up to 50 MB to run sandboxed.
 - [Polygon](https://www.polygon.com/)
 - [Real-Time Rendering](https://www.realtimerendering.com/)
 - [TIGSource](https://www.tigsource.com/)
