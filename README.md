@@ -232,6 +232,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [Inca](https://incacad.com) - Free, open-source 3D modeling, animation and rendering app that works like Maya 2020, with OBJ, FBX, glTF and STL import.
 - :free: [MakeHuman](http://www.makehumancommunity.org/)
 - :moneybag: [Maya](https://www.autodesk.com/products/maya/overview)
+- :free: [Mint Polycount Checker](https://mint.gg/polycount-checker) - Check a GLB/glTF model's triangles, vertices, draw calls and texture memory against game budgets (including Roblox's per-mesh limit) in the browser; free, no signup, nothing uploaded.
 - :moneybag: [modo](https://www.foundry.com/products/modo)
 - :free: [sculptris](https://sculptris.br.uptodown.com/windows) - A version by Pixologic and the original [1.01](https://www.moddb.com/downloads/sculptris)
 - :money_with_wings: [Spline](https://spline.design/) - A 3d collaborative real-time
