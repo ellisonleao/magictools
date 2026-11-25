@@ -95,6 +95,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [Reiner's Tilesets](https://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics.
 - :free: [SceneCrate Free 3D Game Assets](https://scenecrate.com/free-3d-game-assets) - Nine walkable CC0 1.0 3D browser-game scenes (buildings, heightfield terrain, and static props) in two measured GLB tiers, with JSON colliders and offline Three.js examples; no account required.
 - :free: [Sketchfab](https://sketchfab.com/) - Publish & embed interactive 3D models.
+- :free: [SpriteForge Image to Pixel Art](https://www.spriteforge.tech/image-to-pixel-art) - Free browser image-to-pixel-art converter: 16-128 px wide, 4-32 colours or palettes like PICO-8, dithering and outline; PNG download, nothing uploaded.
 - :free: [SpriteLib](https://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 - :free: [StickyPNG](https://www.stickpng.com/) - Free transparent PNG images.
 - :free: [TextureHaven](https://texturehaven.com/) - Free textures with additional maps like displacement and bump maps. Also HDRIs.
@@ -146,6 +147,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [PD Sigil Forge](https://pixeldreamerstudio.itch.io/pd-sigil-forge) - Free browser generator of game-ready magic circles, xianxia formations, sci-fi holo rings, kamon crests and paper talismans for spell VFX; transparent PNG + spin sheets.
 - :moneybag: [PixPlant](https://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
 - :tada: [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Generate normal maps from pixel art sprites and animations.
+- :free: [SpriteForge Pixel Art Normal Map](https://www.spriteforge.tech/pixel-art-normal-map) - Free browser normal map generator for pixel art sprites and sheets, with a moving-light preview and per-colour height; PNG for Unity and Godot, nothing uploaded.
 
 #### Character Generators
 
@@ -215,6 +217,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :tada: [rx](https://rx.cloudhead.io/) - a modern & minimalist pixel editor
 - :free: [SimplePixelArt](https://simplepixelart.com/) - Free browser pixel art editor with layers, animation frames and palettes; exports PNG, GIF and sprite sheets with Aseprite-style frame tags for game engines.
 - :tada: [Sprite Fusion Pixel Art Cleaner](https://www.spritefusion.com/pixel-snapper) - Convert messy AI-generated pixel art into true, pixel-perfect pixel art. [Source](https://github.com/Hugo-Dz/spritefusion-pixel-snapper)
+- :free: [SpriteForge Pixel Art Maker](https://www.spriteforge.tech/pixel-art-maker) - Free browser pixel art editor with layers, animation frames and onion skin, Aseprite-style keys, and PNG, GIF, sprite sheet or .aseprite export; no account.
 - :free: [Spritemate](https://www.spritemate.com) - Online Editor for Commodore 64 Sprites
 - :tada: [Squoosh](https://squoosh.app) - Make images smaller using best-in-class codecs, right in the browser. 
 - :free: [SVG to PNG](https://vexlio.com/svg-to-png/) - Batch convert unlimited SVGs to PNG rasters. Privacy-preserving, doesn't require uploading your assets.
@@ -440,6 +443,7 @@ _Set of game frameworks, engines and platforms_
 - :money_with_wings: [SpriteForge.tech](https://www.spriteforge.tech) - AI pixel art generator for sprites, animations and seamless tilesets, with Unity/Godot export and a REST API.
 - :free: [StarterLoot](https://starterloot.com) - Free directory of 80+ beginner friendly AI game dev tools, with guides like Godot vs Unity.
 - :money_with_wings: [StudioTwin](https://www.studiotwin.ai/mcp/?utm_source=magictools&utm_medium=directory) - All-in-one AI toolkit for game asset generation: any AI agent can generate 3D models, character animation, PBR materials, HDRI environments and sound effects through one MCP connection, using open and commercial models for each job. Integrates with Unreal Engine and imports assets into Blender.
+- :money_with_wings: [Tyrbo](https://tyrbo.ai) - AI agent that makes mobile games from a description: plans the game with concept art, builds it with its art, 2D and 3D animation and sound, tests it by playing it, and runs it on your phone from a QR code.
 - :money_with_wings: [Voidless](https://voidless.dev) - AI game assets: pixel art sprites from 32 to 384 px, sprite animation, 8-direction sprites, tilesets, 3D models, sound and music. Includes an MCP server so Claude Code or Cursor can generate art straight into a project. 60 free credits on sign-up, no subscription.
 - :free: [WishlistForge Steam Description Scorer](https://wishlistforge.com/tools/steam-description) - free in-browser scorer for Steam short descriptions. It checks length, hook, genre clarity, player fantasy and call to action, and suggests a rewrite. No account needed.
 - :money_with_wings: [Ziva.sh](https://ziva.sh/) - AI agent plugin inside the Godot editor that edits scenes and scripts, reads editor errors, playtests your game and generates game sound effects from a prompt. On its Pro and Ultra plans, Devlog records your game runs while you build and turns them into 10-15 second vertical devlog videos with captions.
@@ -470,6 +474,7 @@ _Audio editors, sounds collections and more._
 
 ### Music and Audio Editors
 
+- :money_with_wings: [Apps66 Game Audio Converter](https://apps66.com/game-audio-converter) - Online vgmstream + FFmpeg decoder for FMOD FSB5, Wwise WEM/BNK, Nintendo BFSTM/BCSTM/BRSTM, CRIWARE HCA/ADX/AWB, and XACT XWB sound banks to WAV/MP3/OGG/FLAC/M4A with audio preview and multi-track ZIP extraction (free tier up to 50 MB / 3 conversions per 24h).
 - :tada: [Audacity](https://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds.
 - :free: [Audiosauna](https://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 - :free: [Audiotool](https://www.audiotool.com/app) - Online music producer.
