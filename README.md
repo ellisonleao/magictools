@@ -466,6 +466,7 @@ _Audio editors, sounds collections and more._
 - :moneybag: [Fantasy RPG SFX Bundle](https://assetsmithpixels.itch.io/fantasy-rpg-sfx-bundle) - 763 royalty-free combat, magic and loot/UI sounds in WAV and OGG. Combat is edited from CC0 Freesound recordings (mostly real Foley; some designed-sound sources and light synth layers); magic and loot/UI are synthesized in code; AI helped with tooling and text.
 - :free: [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
 - :free: [Freesound](https://www.freesound.org/) - collaborative database of Creative Commons Licensed sounds.
+- :free: [Get Us Out Of Here (No Kings Music)](https://nokingsmusic.com/product/get-us-out-of-here/) - A building acoustic guitar and cello cue for tense game cutscenes or trailers. A free account is required to download, and use requires credit.
 - :free: [Musopen](https://musopen.org/) - Royalty free music.
 - :free: [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds.
 - :free: [Overture Free Game Music Sampler](https://csaf.itch.io/free-game-music-sampler) - 68 game music tracks from 34 albums (fantasy, retro, horror, science fiction, cozy) as OGG, 67 of them with loop points in the file, plus the MIDI source of every track; royalty free for commercial use, no credit required. Composed by code written with an AI assistant, no AI audio models.
